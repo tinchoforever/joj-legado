@@ -1,0 +1,138 @@
+cat,name,value,desc,descitem,unidad,q
+hockey,Hockey,20,Pelota Oficial de Hockey,,Unidad,400
+hockey,Hockey,20,Arcos,,Unidad,8
+hockey,Hockey,20,Redes,,Unidad,8
+hockey,Hockey,20,Tablas de Rebote,,Set,4
+hockey,Hockey,20,Banquillos de los penalizados,,Unidad,4
+hockey,Hockey,20,Estantes para palos,,Set,4
+hockey,Hockey,20,Mesa tecnica,,Set,2
+hockey,Hockey,20,Banco de Jugadores,"Similar al banquillo del jugador de fútbol; con un techo de protección transparente; 2 por lado. Para el YOG, el banquillo del equipo debe ser capaz de acomodar a 8 personas. Sin embargo, si se planifica reutilizar estos articulos para hockey de 11 , la capacidad debe ser para 11 personas.",Par,2
+hockey,Hockey,20,Maquina de Limpieza del campo de juego,Para mantener la calidad del campo de juego,Unidad,1
+natacion,Natacion,20,Bloque de inicio,,Unidad,2
+natacion,Natacion,20,Podios de salida,,Unidad,40
+natacion,Natacion,20,"Línea indicadora de giro y poste (1,8m de altura) ubicados a la distancia de 5m para brazada de espalda","Palos (varas) de 1,8-Metros de Altura",Set,8
+natacion,Natacion,20,Parte incorporada de los Ganchos para las sogas de tierra,Parte incorporada de los ganchos,Set,22
+natacion,Natacion,20,Bandera de señal de 5 metros,La reglamentación exige que el emblema se visualice a ambos lados del triángulo invertido,Unidad,4
+natacion,Natacion,20,Soga de Carril de 50 metros,"50-metros de largo; 11 sogas por set, incluye 3 amarillas, 4  azues  y 4  verdes; tensores de soga y cubiertas protectoras se incluirán",Par,2
+natacion,Natacion,20,Contador de vueltas y Plataforma para la natacion de larga distancia,"Plástico, portátil y plegable",Set,15
+natacion,Natacion,20,"Sogas de Falsa largada, Parte incorporada de la Soga y el Palo (vara) para brazada de espalda",,Set,8
+natacion,Natacion,20,Carretel de almacenamiento de Soga ,(11 sogas por carretel) Acero inoxidable,Unidad,18
+natacion,Natacion,20,Medidor laser de la temperatura,,Unidad,1
+natacion,Natacion,20,Termómetro sumergible,,Unidad,1
+natacion,Natacion,20,Medidor de piscina,El dispositivo de medición de distancia más avanzado utilizado para medir la longitud de la piscina al chequear el Record Mundial,Unidad,1
+natacion,Natacion,20,Silla de Guardavidas,Usado por el guardavidas para emergencias,Unidad,4
+natacion,Natacion,20,Reloj de entrenamiento,Para medir el tiempo,Unidad,4
+natacion,Natacion,20,Señalización de línea,Para indicación,Unidad,1
+natacion,Natacion,20,Tensor de Soga de carril,Usado para ajustar las sogas de tierra,Unidad,4
+natacion,Natacion,20,Plataformas para brazada de espalda,Responsabilidad de Timing & Scoring,Unidad,15
+natacion,Natacion,20,Contadores de vueltas sumergibles,Responsabilidad de Timing & Scoring,Unidad,10
+clavado,Clavado,20,Trampolín,Modelo Maxiflex B,Par,15
+clavado,Clavado,20,Asiento del juez (2m),Malmsten,Unidad,10
+clavado,Clavado,20,"Asiento del juez (2,5m)",Malmsten,Unidad,5
+clavado,Clavado,20,Asiento del juez (3m),Malmsten,Unidad,2
+tiro,Tiro,20,Poligono de Calificación,40 comienzos en la clasificacion para los eventos de equipos mixtos,Unidad,40
+tiro,Tiro,20,Poligono de  Finales,8 más 2 para la final,Unidad,10
+tiro,Tiro,20,Dispositivo de Medición de Rigidez,Para medir la rigidez de las prendas del tirador de acuerdo con la Regla 6.5.2,Unidad,1
+tiro,Tiro,20,Mesa para el Dispositivo de Medición de Rigidez,Para facilitar las medidas de rigidez de las prendas del tirador de acuerdo con la Regla 6.5.2,Unidad,1
+tiro,Tiro,20,Dispositivo de Medición de Espesor,Para medir el espesor de la ropa del tirador de acuerdo con la Regla 6.5.1,Unidad,1
+tiro,Tiro,20,Dispositivo de superposición de chaqueta Versión 1,Para medir la superposición de la chaqueta del tirador de acuerdo con la Regla 7.5.4.2,Unidad,1
+tiro,Tiro,20,Dispositivo de prueba de flexibilidad de la suela de zapato,Para medir la flexibilidad de la suela de zapato del tirador de acuerdo con la Regla 6.5.3,Unidad,1
+tiro,Tiro,20,Dispositivo de Medición de la Dimensión del Zapato,Para medir las Dimensiónes externas de los zapatos de los tiradores de acuerdo con la Regla 7.5.3.6,Unidad,1
+tiro,Tiro,20,Plantilla de la Dimensión del Rifle,Para verificar las Dimensiónes externas del rifle de acuerdo con la Regla 7.4.4.1,Unidad,1
+tiro,Tiro,20,Caja de Medición de AP 10m ,Para comprobar las Dimensiónes externas de la Pistola de 10m de acuerdo con la Regla 8.12 // 420x200x50mm,Unidad,1
+tiro,Tiro,20,Peso del Gatillo de Pistola de Aire 10 m 500g ,Para comprobar el peso del gatillo de la pistola de 10m // Requiere un peso de 500 g ,Unidad,2
+tiro,Tiro,20,Balanza para rango de 10 kgs.,"Para comprobar el peso de los rifles // La balanza debe ser calibrada y si es posible con un certificado // Debe medir el peso en incrementos de 1.0 de 0.0g a 10,000.0g // Para comprobar el peso de la pistola",Unidad,2
+vela,Veleros de Competición ,20,Tablas de Windsurf ,Techno 293+ clase,Unidad,48
+vela,Veleros de Competición ,20,Catamaranes,Nacra 15 clase,Unidad,14
+vela,Veleros del Comité de Regata ,20,Embarcaciones de largada,Veleros de Comité de Regata Primario,Unidad,3
+vela,Veleros del Comité de Regata ,20,Embarcaciones de Pin end de Largada,RIB u otros ,Unidad,3
+vela,Veleros del Comité de Regata ,20,Embarcaciones de Llegada,RIB u otros ,Unidad,3
+vela,Veleros del Comité de Regata ,20,Embarcaciones de Pin end de Llegada,RIB u otros ,Unidad,3
+vela,Barcos de Marcado y Control,20,Barcos de Rescate,RIB - 1:10 ratio - Barcos de seguridad: competidores,Unidad,6
+vela,Barcos de Marcado y Control,20,Barcos de Jurado,RIB - Basado en un Jurado Internacional de 12 por lo menos 6 RIBs serán requeridos * Necesita ser aprobado por el COI*,Unidad,6
+vela,Barcos de Marcado y Control,20,Barcos de PRO,RIB,Unidad,3
+vela,Barcos de Marcado y Control,20,Barco de Delegado Técnico de Vela Mundial,RIB,Unidad,3
+vela,Barcos de Marcado y Control,20,Prensa / Barcos de TV / Familia Olímpica / Entrenador,,,1
+vela,Barcos de Marcado y Control,20,Barcos de Prensa,Suficientes para la prensa registrada,Unidad,1
+vela,Barcos de Marcado y Control,20,Barcos de Fotografia,Suficiente para fotografos registrados,Unidad,1
+vela,Barcos de Marcado y Control,20,Barcos para la Familia Olimpica y Vela Mundial e invitados,Suficiente para guests registrados,Unidad,1
+vela,Barcos de Marcado y Control,20,Barcos para entrenadores,Lo suficientemente grande para permitir que todos los entrenadores que necesitan estar en el agua durante la competición para los atletas entran,Unidad,3
+canotaje,Canotaje,20,Kayak ,Kayak tipo competición,Unidad,36
+canotaje,Canotaje,20,Canoa ,Canoa tipo competición (con bloqueo de rodilla),Unidad,30
+canotaje,Canotaje,20,Kayak / canoa híbridos de slalom,"Kayak Slalom de Competición (con sistema de montaje, reposapiés adaptables) (2 talles, L, M)",Unidad,45
+canotaje,Canotaje,20,Palas de Kayak ,Remo de kayak de Carreras Profesionales,Unidad,15
+canotaje,Canotaje,20,Palas de Canoa ,Remo de Canoa de Carreras Profesionales,Unidad,15
+canotaje,Canotaje,20,Palas de Kayak Slalom,Remo de Kayak Slalom Profesional,Unidad,10
+canotaje,Canotaje,20,Palas de Canoa Slalom,Remo de Canoa Slalom de Carrera Profesional,Unidad,10
+canotaje,Canotaje,20,Kayak Ergometros,Ergometros para simular remada de kayak,Unidad,6
+canotaje,Canotaje,20,Aspersión de la cubierta del Kayak y Conoa Slalom,Aspersión cubierta para no permitir que el agua entre en los barcos. (35 kayak 25 canoa),Unidad,60
+canotaje,Canotaje,20,Deslizadores de largada en pontón para CSL (slalom),Para el FOP,Unidad,2
+canotaje,Canotaje,20,Número de placa de barco con número 1 y 2,Para competición (20/20),Unidad,40
+canotaje,Canotaje,20,Herramientas y materias primas para la reparación de embarcaciones,Necesita 1 experto para trabajar en esta área.,Kit,1
+canotaje,Canotaje,20,Pista de Canotaje,"Sprint de proa y el curso slalom de competición y de entrenamiento
+Incluye boyas y todos los accesorios necesarios",Unidad,1
+gimnasia,ARTÍSTICA,20,Piso de ejercicios,,Set,5
+gimnasia,ARTÍSTICA,20,Caballo con arzones,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+gimnasia,ARTÍSTICA,20,Anillas,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+gimnasia,ARTÍSTICA,20,Mesa de salto,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,5
+gimnasia,ARTÍSTICA,20,Barras paralelas,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+gimnasia,ARTÍSTICA,20,Barra horizontal,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+gimnasia,ARTÍSTICA,20,Barras asimetricas,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+gimnasia,ARTÍSTICA,20,Viga,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+gimnasia,ARTÍSTICA,20,Trampolines,,Unidad,23
+gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Mesa de salto,,Unidad,5
+gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Barra horizontal,,Unidad,6
+gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Anillas,,Unidad,9
+gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Barras asimetricas,,Unidad,3
+gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Viga,,Unidad,3
+gimnasia,ARTÍSTICA,20,Colchoneta de mano para Mesa de salto,,Unidad,5
+gimnasia,ARTÍSTICA,20,Monticulos,,Unidad,9
+gimnasia,ARTÍSTICA,20,Estabilizador de anillas,,Unidad,3
+gimnasia,ARTÍSTICA,20,Contenedor de polvo de magnesio,,Unidad,25
+gimnasia,ARTÍSTICA,20,Polvo de magnesio,,Unidad,450
+gimnasia,ARTÍSTICA,20,Contenedor de polvo de magnesio para pies,,Unidad,15
+gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje,,Unidad,7
+gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje,,Unidad,12
+gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Acrobatica,,Unidad,2
+gimnasia,ARTÍSTICA,20,Podio de competicion,,Metros Cuadrados,1027
+gimnasia,TRAMPOLÍN,20,"Trampolín (incluyendo colchonetas circundantes de protección de piso, plataforma de seguridad y colchonetas en ambos extremos)",Incluyendo colchonetas circundantes para la proteción del piso; se requiere un certificado de autenticación internacional válido.,Par,5
+gimnasia,TRAMPOLÍN,20,Colchoneta corrediza,Para competición,Par,7
+gimnasia,TRAMPOLÍN,20,Cama trampolín de reserva,Para competición ,Unidad,1
+gimnasia,TRAMPOLÍN,20,Resorte de reserva,Para competición ,Unidad,400
+gimnasia,TRAMPOLÍN,20,Contenedor de polvo de magnesio,Igual al utilizado en gimnasia artisticas,Unidad,4
+gimnasia,TRAMPOLÍN,20,Máquina de tiempo de vuelo,Para competición (se requiere un certificado FIG valido),Unidad,2
+gimnasia,RITHMIC,20,Alfombra para competencia,"Incluye colchoneta y capa inferior. Área de acción: 13×13m, desviación permitida es ±3cm. Área de la frontera: horizontal y suavemente establecida en el mismo plano con área de acción; Min. Anchura del área de la frontera es 50cm; Anchura horizontal de la línea de la frontera es los 25cm; Ancho de línea indicativo inclinado es 25cm. Zona de seguridad：horizontal y colocado suavemente; 2m de ancho. 16m × 16m.",Unidad,7
+gimnasia,RITHMIC,20,Aro,,Unidad,2
+gimnasia,RITHMIC,20,Balon,,Unidad,2
+gimnasia,RITHMIC,20,Mazas,Encaastrables,Unidad,2
+gimnasia,RITHMIC,20,Cinta,5m de largo,Unidad,2
+gimnasia,RITHMIC,20,Barras de Ballet,Para preparación (13m),Unidad,3
+gimnasia,RITHMIC,20,Escritorio de control de equipo,,Unidad,2
+gimnasia,RITHMIC,20,Balanza de control de equipos,,Unidad,2
+atletismo,EVENTOS DE ATLETISMO,20,Bloqueos de inicio,Bloqueos de inicio,Unidad,28
+atletismo,EVENTOS DE ATLETISMO,20,Carritos de bloqueos de inicio,Carritos de bloqueos de inicio,Unidad,6
+atletismo,EVENTOS DE ATLETISMO,20,"Vallas, ajustable","Vallas, ajustable",Unidad,190
+atletismo,EVENTOS DE ATLETISMO,20,"Carros de vallas, para llevar 20 vallas","Carros de vallas, para llevar 20 vallas",Unidad,12
+atletismo,EVENTOS DE ATLETISMO,20,Barras de vallas de repuesto,Barras de vallas de repuesto,Unidad,20
+atletismo,EVENTOS DE ATLETISMO,20,Testigos de carrera de relevos,Testigos de carrera de relevos,Unidad,5
+atletismo,EVENTOS DE ATLETISMO,20,Cajas de marcadores de carril (kit de 1-9),Cajas de marcadores de carril (kit de 1-9),Unidad,3
+atletismo,EVENTOS DE ATLETISMO,20,Barreras contra el agua de carrera de obstáculos,Barreras contra el agua de carrera de obstáculos,Unidad,2
+atletismo,EVENTOS DE ATLETISMO,20,"Barreras de carrera de obstáculo altura ajustable (1x5m, 4x4m)","Barreras de carrera de obstáculo altura ajustable (1x5m, 4x4m)",Unidad,2
+atletismo,EVENTOS DE ATLETISMO,20,Plataformas de inicio,Plataformas de inicio,Unidad,3
+atletismo,EVENTOS DE ATLETISMO,20,Conos de indicadores de línea de ruptura,Conos de indicadores de línea de ruptura (7 unidades),Unidad,2
+atletismo,SALTO EN ALTO,20,Postes,Postes para salto en alto (pares),Unidad,2
+atletismo,SALTO EN ALTO,20,Barra fija de Salto en Alto,Barra fija de Salto Alto,Unidad,16
+atletismo,SALTO EN ALTO,20,Barras flexibles de Salto en Alto,Barras flexibles de Salto Alto,Unidad,4
+atletismo,SALTO EN ALTO,20,Área de aterrizaje de salto en alto,Área de aterrizaje de salto alto,Unidad,2
+atletismo,SALTO EN ALTO,20,Cubierta del tiempo de área de aterrizaje de salto alto,Cubierta del tiempo de área de aterrizaje de salto alto,Unidad,2
+atletismo,SALTO EN ALTO,20,Base de área de aterrizaje de salto en alto,Base de área de aterrizaje de salto alto,Unidad,2
+atletismo,SALTO EN ALTO,20,Dispositivo de medición de salto en alto,Dispositivo de medición de salto alto,Unidad,2
+atletismo,SALTO CON GARROCHA,20,Postes,Verticales de Salto con garrocha (Par),Unidad,2
+atletismo,SALTO CON GARROCHA,20,Relleno protector de verticales de Salto con garrocha (Pares),Salto con garrocha uprights protective padding (pares),Unidad,2
+atletismo,SALTO CON GARROCHA,20,Elevadores de barras fijas (par),Elevadores de barras fijas (par),Unidad,2
+atletismo,SALTO CON GARROCHA,20,Barra Fijas de Salto con garrocha,Barra Fijas de Salto con garrocha,Unidad,16
+atletismo,SALTO CON GARROCHA,20,Barras flexibles de Salto con garrocha,Barras flexibles de Salto con garrocha,Unidad,6
+atletismo,SALTO CON GARROCHA,20,Medidor de altura de Salto con garrocha,Medidor de altura de Salto con garrocha,Unidad,2
+atletismo,SALTO CON GARROCHA,20,Área de aterrizaje de Salto con garrocha y cubierta del clima,Área de aterrizaje de Salto con garrocha y cubierta del clima,Unidad,2
+atletismo,SALTO CON GARROCHA,20,Cubierta del clima área de aterrizaje de Salto con garrocha,Cubierta del clima área de aterrizaje de Salto con garrocha,Unidad,2
+atletismo,SALTO CON GARROCHA,20,Base de área de aterrizaje de Salto con garrocha,Base de área de aterrizaje de Salto con garrocha,Unidad,2
