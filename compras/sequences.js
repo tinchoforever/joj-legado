@@ -1,7 +1,7 @@
 // Dimensions of sunburst.
-var width = 750;
+var width = 700;
 var height = 600;
-var radius = Math.min(width, height) / 1.5;
+var radius = Math.min(width, height) / 2;
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 var b = {
@@ -10,10 +10,10 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "bienes_y_servicios": "#5687d1",
-  "compra_menor": "#7b615c",
-  "licitación_pública": "#de783b",
-  "compra_directa": "#6ab975",
+  "bienes y servicios": "#5687d1",
+  "compra menor": "#7b615c",
+  "licitación pública": "#de783b",
+  "compra directa": "#6ab975",
   "other": "#a173d1",
   "end": "#bbbbbb"
 };
@@ -49,10 +49,8 @@ d3.csv("compras-servicios.csv", function(data) {
 function createVisualization(json) {
 
   // Basic setup of page elements.
-  initializeBreadcrumbTrail();
   drawLegend();
-  d3.select("#togglelegend").on("click", toggleLegend);
-
+  
   // Bounding circle underneath the sunburst, to make it easier to detect
   // when the mouse leaves the parent g.
   vis.append("svg:circle")
@@ -64,14 +62,28 @@ function createVisualization(json) {
       .filter(function(d) {
       return (d.dx > 0.005); // 0.005 radians = 0.29 degrees
       });
-
+  
   var path = vis.data([json]).selectAll("path")
       .data(nodes)
       .enter().append("svg:path")
       .attr("display", function(d) { return d.depth ? null : "none"; })
       .attr("d", arc)
       .attr("fill-rule", "evenodd")
-      .style("fill", function(d) { return colors[d.name] ? colors[d.name] : "blue"; })
+      .style("fill", function(d) { 
+        var c= colors[d.name.toLowerCase()];
+        if(d.parent && d.parent.name != "root"){
+          c = colors[d.parent.name.toLowerCase()];
+          step = 0.5;
+          if (!c){
+           c= colors[d.parent.parent.name.toLowerCase()];
+           step = step *2;
+          }
+          c = d3.hsl(c).brighter(step);  
+          
+        }
+        
+
+        return c;})
       .style("opacity", 1)
       .on("mouseover", mouseover);
 
@@ -80,25 +92,72 @@ function createVisualization(json) {
 
   // Get total size of the tree = value of root node from partition.
   totalSize = path.node().__data__.value;
+
+
+  d3.select("svg")
+    .append("text")
+    .attr("class","label main")
+     .attr('transform', 'translate(350, 260)')
+      .attr("dy", "0.2em")
+      .attr("text-anchor", "middle")
+      .text("Elegí algún círcuclo.");
+
+  d3.select("svg")
+    .append("text")
+    .attr("class","btn price")
+     .attr('transform', 'translate(350, 230)')
+      .attr("dy", "0.2em")
+      .attr("text-anchor", "middle")
+      .text("$");
+  d3.select("svg")
+    .append("text")
+    .attr("class","btn small percentage")
+     .attr('transform', 'translate(350, 210)')
+      .attr("dy", "0.2em")
+      .attr("text-anchor", "middle")
+      .text("%");
+
  };
+var formatDecimalComma = d3.format(",.2f");
 
 // Fade all but the current sequence, and show it in the breadcrumb trail.
 function mouseover(d) {
 
   var percentage = (100 * d.value / totalSize).toPrecision(3);
-  var percentageString = percentage + "%";
+  var percentageString = " (" +  percentage + "%)";
+  var priceString =  "$" + formatDecimalComma(Math.round(d.value,2));
   if (percentage < 0.1) {
     percentageString = "< 0.1%";
   }
 
   d3.select("#percentage")
       .text(percentageString);
+  
+  var detail = " " ;
+  if (d.parent.name != "root"){
 
-  d3.select("#explanation")
-      .style("visibility", "");
+    var l2 = d.parent;
+    if (l2.parent.name != "root"){
+      var l1 = l2.parent;
+      //tipo de compra de un proveedor para un item.
+      detail += " fue adquirido mediante "+ l1.name + " a " + l2.name + " para " +  d.name ;
+    }else {
+      //tipo de compra de un proveedor.
+      detail += " adquirido mediante "+ l2.name + " a " + d.name;  
+    }
+    
+  }else {
+    //tipo de compra.
+    detail += "fue adquirido mediante "+ d.name;
+  }
+  
+  insertLinebreaks(d3.select('svg text.label'), detail);
+  d3.select('svg text.price').text(priceString);
+  d3.select('svg text.percentage').text(percentageString);
+ 
 
   var sequenceArray = getAncestors(d);
-  updateBreadcrumbs(sequenceArray, percentageString);
+  //updateBreadcrumbs(sequenceArray, percentageString);
 
   // Fade all the segments.
   d3.selectAll("path")
@@ -129,6 +188,7 @@ function mouseleave(d) {
       .style("opacity", 1)
       .each("end", function() {
               d3.select(this).on("mouseover", mouseover);
+              d3.select(this).on("click", mouseover);
             });
 
   d3.select("#explanation")
@@ -267,12 +327,16 @@ function toggleLegend() {
 function buildHierarchy(csv) {
   var root = {"name": "root", "children": []};
   for (var i = 0; i < csv.length; i++) {
-    var sequence = csv[i].path;
     var size = +csv[i].monto;
     if (isNaN(size)) { // e.g. if this is a header row
       continue;
     }
-    var parts = sequence.split("-");
+    var parts = [];
+    
+    parts.push(csv[i]["Tipo Proceso"]);
+    
+    parts.push(csv[i]["Contratista"]);
+    parts.push(csv[i]["Nombre"]);
     var currentNode = root;
     for (var j = 0; j < parts.length; j++) {
       var children = currentNode["children"];
@@ -280,38 +344,42 @@ function buildHierarchy(csv) {
       var childNode;
       if (j + 1 < parts.length) {
    // Not yet at the end of the sequence; move down the tree.
- 	var foundChild = false;
- 	for (var k = 0; k < children.length; k++) {
- 	  if (children[k]["name"] == nodeName) {
- 	    childNode = children[k];
- 	    foundChild = true;
- 	    break;
- 	  }
- 	}
+  var foundChild = false;
+  for (var k = 0; k < children.length; k++) {
+    if (children[k]["name"] == nodeName) {
+      childNode = children[k];
+      foundChild = true;
+      break;
+    }
+  }
   // If we don't already have a child node for this branch, create it.
- 	if (!foundChild) {
- 	  childNode = {"name": nodeName, "children": []};
- 	  children.push(childNode);
- 	}
- 	currentNode = childNode;
+  if (!foundChild) {
+    childNode = {"name": nodeName, "children": []};
+    children.push(childNode);
+  }
+  currentNode = childNode;
       } else {
- 	// Reached the end of the sequence; create a leaf node.
- 	childNode = {"name": nodeName, "size": size};
- 	children.push(childNode);
+  // Reached the end of the sequence; create a leaf node.
+  childNode = {"name": nodeName, "size": size};
+  children.push(childNode);
       }
     }
   }
   return root;
 };
 
-var insertLinebreaks = function (d) {
-    var el = d3.select(this);
-    var words = d.name.split('_');
+var insertLinebreaks = function (el,d) {
+    var words = d.split(' ');
     el.text('');
 
-    for (var i = 0; i < words.length; i++) {
-        var tspan = el.append('tspan').text(words[i]);
+    for (var i = 0; i < words.length; i=i+4) {
+        var t = words[i] + " "; 
+        t += (words[i+1] ? words[i+1] + " " : " ");
+        t += (words[i+2] ? words[i+2]  + " ": " ");
+        t += (words[i+3] ? words[i+3]  + " ": " ");
+
+        var tspan = el.append('tspan').text(t);
         if (i > 0)
-            tspan.attr('x', 60).attr('dy', '10');
+            tspan.attr('x', 0).attr('dy', '20');
     }
 };

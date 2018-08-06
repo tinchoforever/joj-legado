@@ -95,7 +95,7 @@ if ('matchMedia' in window && window.matchMedia('(max-device-width: 767px)').mat
 }
 
 var root = d3.hierarchy({ children: data }).sum(function (d) {
-	return d.q;
+	return 20;
 });
 
 // we use pack() to automatically calculate radius conveniently only
@@ -107,11 +107,11 @@ var nodes = pack(root).leaves().map(function (node) {
 		x: centerX + (node.x - centerX) * 3, // magnify start position to have transition to center movement
 		y: centerY + (node.y - centerY) * 3,
 		r: 0, // for tweening
-		radius: node.r, //original radius
+		radius:20, //original radius
 		id: data.cat + '.' + data.name.replace(/\s/g, '-'),
 		cat: data.cat,
 		name: data.name,
-		value: data.q,
+		value: 20,
 		icon: "img/d3.svg",
 		desc: data.q + " " + data.desc,
 	};
