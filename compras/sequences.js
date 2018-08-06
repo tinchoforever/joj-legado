@@ -169,6 +169,10 @@ function mouseover(d) {
                 return (sequenceArray.indexOf(node) >= 0);
               })
       .style("opacity", 1);
+
+  $('#chart').animate({    
+                    scrollLeft: 200
+                }, 800);
 }
 
 // Restore everything to full opacity when moving off the visualization.
