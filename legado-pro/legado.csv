@@ -1,4 +1,4 @@
-cat,name,value,desc,descitem,unidad,q
+categoria,name,value,desc,descitem,unidad,q
 Hockey,Hockey,20,Pelota Oficial de Hockey,,Unidad,400
 Hockey,Hockey,20,Arcos,,Unidad,8
 Hockey,Hockey,20,Redes,,Unidad,8
