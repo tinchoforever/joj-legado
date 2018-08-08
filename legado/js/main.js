@@ -43,12 +43,12 @@ var getImageFor = function(n){
 }
 d3.csv("legado-c.csv", function( data ) {
 
-// reduce number of circles on mobile screen due to slow computation
-if ('matchMedia' in window && window.matchMedia('(max-device-width: 767px)').matches) {
-	data = data.filter(function (el) {
-		return el.q >= 500;
-	});
-}
+// // reduce number of circles on mobile screen due to slow computation
+// if ('matchMedia' in window && window.matchMedia('(max-device-width: 767px)').matches) {
+// 	data = data.filter(function (el) {
+// 		return el.q >= 500;
+// 	});
+// }
 
 var root = d3.hierarchy({ children: data }).sum(function (d) {
 	return 20;
@@ -62,12 +62,12 @@ var nodes = pack(root).leaves().map(function (node) {
 	return {
 		x: centerX + (node.x - centerX) * 1, // magnify start position to have transition to center movement
 		y: centerY + (node.y - centerY) * 1,
-		r: 1, // for tweening
-		radius:50, //original radius
-		id: data.cat + '.' + data.name.replace(/\s/g, '-'),
+		r: 5, // for tweening
+		radius:20, //original radius
+		id: data.cat.toLowerCase() + '.' + data.name.replace(' ','-'),
 		cat: data.cat,
 		name: data.name,
-		value: 50,
+		value: 25,
 		icon: "img/" + getImageFor(data.cat.toLowerCase()),
 		desc: data.q + " " + data.desc,
 	};
@@ -75,18 +75,24 @@ var nodes = pack(root).leaves().map(function (node) {
 simulation.nodes(nodes).on('tick', ticked);
 
 svg.style('background-color', '#eee');
-var node = svg.selectAll('.node').data(nodes).enter().append('g').attr('class', 'node').call(d3.drag().on('start', function (d) {
-	if (!d3.event.active) simulation.alphaTarget(0.2).restart();
-	d.fx = d.x;
-	d.fy = d.y;
-}).on('drag', function (d) {
-	d.fx = d3.event.x;
-	d.fy = d3.event.y;
-}).on('end', function (d) {
-	if (!d3.event.active) simulation.alphaTarget(0);
-	d.fx = null;
-	d.fy = null;
-}));
+var node = svg.selectAll('.node')
+	.data(nodes).enter()
+	.append('g')
+	.attr('class', 'node')
+	.call(d3.drag()
+		.on('start', function (d) {
+			if (!d3.event.active) simulation.alphaTarget(0.2).restart();
+			d.fx = d.x;
+			d.fy = d.y;
+		}).on('drag', function (d) {
+			d.fx = d3.event.x;
+			d.fy = d3.event.y;
+		}).on('end', function (d) {
+			if (!d3.event.active) simulation.alphaTarget(0);
+			d.fx = null;
+			d.fy = null;
+		})
+);
 
 node.append('circle').attr('id', function (d) {
 	return d.id;
@@ -166,7 +172,7 @@ node.on('click', function (currentNode) {
 	var lastNode = focusedNode;
 	focusedNode = currentNode;
 
-	simulation.alphaTarget(0.2).restart();
+	simulation.alphaTarget(10).restart();
 	// hide all circle-overlay
 	d3.selectAll('.circle-overlay').classed('hidden', true);
 	d3.selectAll('.node-icon').classed('node-icon--faded', false);
