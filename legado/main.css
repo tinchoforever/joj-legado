@@ -18,7 +18,6 @@ html, body {
 
 		.circle-overlay {
 			font-size: 16px;
-			border-radius: 50%;
 			position: absolute;
 			overflow: hidden;
 			/*it's buggy with the foreignObject background right now*/
@@ -39,3 +38,11 @@ html, body {
 		.legend-size circle {
 			fill: rgb(31, 119, 180);
 		}
+
+		li.circle-overlay__body{
+			text-align: left;
+			font-size: 0.9em;
+		}
+		img.circle-overlay_img {
+    		width: 75px;
+		}	
