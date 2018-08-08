@@ -27,10 +27,10 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "bienes y servicios": "#5687d1",
-  "compra menor": "#7b615c",
-  "licitación pública": "#de783b",
-  "compra directa": "#6ab975",
+  "bienes y servicios": "#3366cc",
+  "compra menor": "#dd4477",
+  "licitación pública": "#329262",
+  "compra directa": "#aaaa11",
   "other": "#a173d1",
   "end": "#bbbbbb"
 };
