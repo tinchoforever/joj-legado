@@ -1,0 +1,48 @@
+html{
+  background: white;
+}
+ #chart {
+    width: 100%;
+    /*height: auto;*/
+    background: #ddd;
+  }
+
+  text {
+    pointer-events: none;
+  }
+
+  .treemap-svg .grandparent text {
+    font-weight: bold;
+    font-size: 20px !important;
+  }
+
+  .treemap-svg rect {
+    fill: none;
+    stroke: #fff;
+  }
+
+  .treemap-svg rect.parent,
+  .treemap-svg .grandparent rect {
+    stroke-width: 2px;
+  }
+
+  .treemap-svg .grandparent rect {
+    fill: orange;
+  }
+  .treemap-svg .grandparent:hover rect {
+    fill: #ee9700;
+  }
+
+  .treemap-svg .children rect.parent,
+  .treemap-svg .grandparent rect {
+    cursor: pointer;
+  }
+
+  .treemap-svg .children rect.parent {
+    fill: #666666;
+    fill-opacity: .5;
+  }
+
+  .treemap-svg .children:hover rect.child {
+    fill: #545454;
+  }

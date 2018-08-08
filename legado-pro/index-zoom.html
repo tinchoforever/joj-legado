@@ -61,7 +61,7 @@
 
 <script>
 // Dimensions of sunburst.
-var width = 800;
+var width = 350;
 var height = 900;
 var radius = Math.min(width, height) / 2;
 
@@ -85,7 +85,20 @@ var color = d3.scaleLinear()
 var pack = d3.pack()
     .size([diameter - margin, diameter - margin])
     .padding(2);
+d3.json('images.json', function(data){
+  images = data;
 
+});
+
+var getImageFor = function(n){
+  for (var i = 0; i < images.length; i++) {
+    var z = images[i];
+    if (z.name.toLowerCase() == n.toLowerCase()){
+      return z.image;
+    }
+  }
+  return "gimnasia.svg";
+}
 d3.csv("legado.csv", function(error, data) {
   if (error) throw error;
 
@@ -137,7 +150,29 @@ console.log(z);
     .enter().append("circle")
       .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
       .style("fill", function(d) { return d.children ? color(d.depth) : null; })
-      .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
+      .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); })
+      .on("touch", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
+  
+  var image = g.selectAll("image")
+    .data(nodes)
+    .enter().append('image').classed('node-icon', true)
+        .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
+        .attr('clip-path', function (d) {
+          return 'url(#clip-' + d.id + ')';
+        }).attr('xlink:href', function (d) {
+          return 'img/'+ getImageFor(d.data.name);
+        }).attr('x', function (d) {
+          return -d.r * 0.7;
+        }).attr('y', function (d) {
+          return -d.r * 0.7;
+        }).attr('height', function (d) {
+          return d.r * 2 * 0.7;
+        }).attr('width', function (d) {
+          return d.r * 2 * 0.7;
+        })
+        .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+      .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); })
+      .on("touch", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
 
   var text = g.selectAll("text")
     .data(nodes)
@@ -145,15 +180,19 @@ console.log(z);
       .attr("class", "label")
       .style("fill-opacity", function(d) { return d.parent === z ? 1 : 0; })
       .style("display", function(d) { return d.parent === z ? "inline" : "none"; })
-      .text(function(d) { return d.data.name; });
+      .text(function(d) { return d.data.name; })
+      
+      
 
-  var node = g.selectAll("circle,text");
+
+  var node = g.selectAll("circle,text,image");
+
 
   svg
       .style("background", color(-1))
       .on("click", function() { zoom(z); });
 
-  zoomTo([z.x, z.y, z.r * 2 + margin]);
+  zoomTo([z.x, z.y, z.r  + margin]);
 
   function zoom(d) {
     var focus0 = focus; focus = d;
@@ -177,6 +216,21 @@ console.log(z);
     node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
     circle.attr("r", function(d) { return d.r * k; });
   }
+  var insertLinebreaks = function (el,d) {
+    var words = d.split(' ');
+    el.text('');
+
+    for (var i = 0; i < words.length; i=i+4) {
+        var t = words[i] + " "; 
+        t += (words[i+1] ? words[i+1] + " " : " ");
+        t += (words[i+2] ? words[i+2]  + " ": " ");
+        t += (words[i+3] ? words[i+3]  + " ": " ");
+
+        var tspan = el.append('tspan').text(t);
+        if (i > 0)
+            tspan.attr('x', 0).attr('dy', '20');
+    }
+};
 });
 
 </script>

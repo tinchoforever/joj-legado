@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Arqueria",
+    "image": "Arqueria.png"
+  },
+  {
+    "name": "Atletismo",
+    "image": "Athletics.png"
+  },
+  {
+    "name": "Badminton",
+    "image": "Badminton.png"
+  },
+  {
+    "name": "Baile deportivo",
+    "image": "Baile.svg"
+  },
+  {
+    "name": "Basketball",
+    "image": "Basketball.png"
+  },
+  {
+    "name": "Boxeo",
+    "image": "box.png"
+  },
+  {
+    "name": "Caballeriza",
+    "image": "Caballeriza.png"
+  },
+  {
+    "name": "Canotaje",
+    "image": "canotaje.svg"
+  },
+  {
+    "name": "Ciclismo",
+    "image": "Ciclismo.png"
+  },
+  {
+    "name": "Clavado",
+    "image": "clavado.png"
+  },
+  {
+    "name": "Equipo Triatlon",
+    "image": "Triatlon.png"
+  },
+  {
+    "name": "Escalada Deportiva",
+    "image": "Escalada.png"
+  },
+  {
+    "name": "Esgrima",
+    "image": "Esgrima.png"
+  },
+  {
+    "name": "Futbol-Futsal",
+    "image": "Futbol.png"
+  },
+  {
+    "name": "Gimnasia",
+    "image": "gimnasia.svg"
+  },
+  {
+    "name": "Golf",
+    "image": "golf.png"
+  },
+  {
+    "name": "Handball",
+    "image": "Handball.png"
+  },
+  {
+    "name": "Hockey",
+    "image": "hockey.svg"
+  },
+  {
+    "name": "Judo",
+    "image": "Judo.png"
+  },
+  {
+    "name": "Levantamiento Olimpico",
+    "image": "Levantamiento.png"
+  },
+  {
+    "name": "Lucha",
+    "image": "Pentatlon.png"
+  },
+  {
+    "name": "Natacion",
+    "image": "swimming.png"
+  },
+  {
+    "name": "Pentatlon Moderno",
+    "image": "Pentatlon.png"
+  },
+  {
+    "name": "Remo",
+    "image": "rmo.png"
+  },
+  {
+    "name": "Roller",
+    "image": "Roller.png"
+  },
+  {
+    "name": "Rugby",
+    "image": "Rugby.svg"
+  },
+  {
+    "name": "Taekwondo",
+    "image": "Taekwondo.svg"
+  },
+  {
+    "name": "Tenis",
+    "image": "tenis.png"
+  },
+  {
+    "name": "Tenis de mesa",
+    "image": "Table tenns .png"
+  },
+  {
+    "name": "Tiro",
+    "image": "tiro.png"
+  },
+  {
+    "name": "Vela",
+    "image": "vela.png"
+  },
+  {
+    "name": "Voleyball de Playa",
+    "image": "volley.png"
+  }
+]
