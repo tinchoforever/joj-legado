@@ -41,7 +41,7 @@ var getImageFor = function(n){
 	}
 	return "gimnasia.svg";
 }
-d3.csv("legado.csv", function( data ) {
+d3.csv("legado-c.csv", function( data ) {
 
 // reduce number of circles on mobile screen due to slow computation
 if ('matchMedia' in window && window.matchMedia('(max-device-width: 767px)').matches) {
@@ -63,11 +63,11 @@ var nodes = pack(root).leaves().map(function (node) {
 		x: centerX + (node.x - centerX) * 1, // magnify start position to have transition to center movement
 		y: centerY + (node.y - centerY) * 1,
 		r: 1, // for tweening
-		radius:25, //original radius
+		radius:50, //original radius
 		id: data.cat + '.' + data.name.replace(/\s/g, '-'),
 		cat: data.cat,
 		name: data.name,
-		value: 20,
+		value: 50,
 		icon: "img/" + getImageFor(data.cat.toLowerCase()),
 		desc: data.q + " " + data.desc,
 	};
@@ -140,24 +140,9 @@ node.append('title').text(function (d) {
 	return d.cat + '::' + d.name + '\n' + format(d.q);
 });
 
-var legendOrdinal = d3.legendColor().scale(scaleColor).shape('circle');
-
-var legend = svg.append('g').classed('legend-color', true).attr('text-anchor', 'start').attr('transform', 'translate(20,30)').style('font-size', '12px').call(legendOrdinal);
 
 var sizeScale = d3.scaleOrdinal().domain(['less use', 'more use']).range([5, 10]);
 
-var legendSize = d3.legendSize().scale(sizeScale).shape('circle').shapePadding(10).labelAlign('end');
-
-var legend2 = svg.append('g').classed('legend-size', true).attr('text-anchor', 'start').attr('transform', 'translate(150, 25)').style('font-size', '12px').call(legendSize);
-
-/*
-<foreignObject class="circle-overlay" x="10" y="10" width="100" height="150">
-	<div class="circle-overlay__inner">
-		<h2 class="circle-overlay__title">ReactJS</h2>
-		<p class="circle-overlay__body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, sunt, aspernatur. Autem repudiandae, laboriosam. Nulla quidem nihil aperiam dolorem repellendus pariatur, quaerat sed eligendi inventore ipsa natus fugiat soluta doloremque!</p>
-	</div>
-</foreignObject>
-*/
 var infoBox = node.append('foreignObject').classed('circle-overlay hidden', true).attr('x', -350 * 0.5 * 0.8).attr('y', -350 * 0.5 * 0.8).attr('height', 350 * 0.8).attr('width', 350 * 0.8).append('xhtml:div').classed('circle-overlay__inner', true);
 
 infoBox.append('h2').classed('circle-overlay__title', true).text(function (d) {
@@ -175,6 +160,7 @@ node.on('click', function (currentNode) {
 
 	if (currentNode === focusedNode) {
 		// no focusedNode or same focused node is clicked
+		closeTick();
 		return;
 	}
 	var lastNode = focusedNode;
@@ -212,7 +198,7 @@ node.on('click', function (currentNode) {
 			// console.log('i', ix(t), iy(t));
 			currentNode.fx = ix(t);
 			currentNode.fy = iy(t);
-			currentNode.r = ir(t);
+			currentNode.r = ir(t)*5;
 			simulation.force('collide', forceCollide);
 		};
 	}).on('end', function () {
@@ -229,7 +215,8 @@ node.on('click', function (currentNode) {
 });
 
 // blur
-d3.select(document).on('click', function () {
+d3.select(document).on('click',closeTick);
+var closeTick =  function () {
 	var target = d3.event.target;
 	// check if click on document but not on the circle overlay
 	if (!target.closest('#circle-overlay') && focusedNode) {
@@ -254,7 +241,7 @@ d3.select(document).on('click', function () {
 		d3.selectAll('.circle-overlay').classed('hidden', true);
 		d3.selectAll('.node-icon').classed('node-icon--faded', false);
 	}
-});
+}
 function ticked() {
 	node.attr('transform', function (d) {
 		return 'translate(' + d.x + ',' + d.y + ')';

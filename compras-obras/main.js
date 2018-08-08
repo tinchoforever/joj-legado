@@ -1,6 +1,20 @@
 var chartDiv = d3.select('#chart').node();
-
-
+var myLocale = {
+  "decimal": ",",
+  "thousands": ".",
+  "grouping": [3],
+  "currency": ["$", ""],
+  "dateTime": "%a %b %e %X %Y",
+  "date": "%m/%d/%Y",
+  "time": "%H:%M:%S",
+  "periods": ["AM", "PM"],
+  "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "shortDays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+  "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+  "shortMonths": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
+}
+var localeFormatter =  d3.locale(myLocale);
+// var numberFormat = localeFormatter.numberFormat(",.2f"); 
 
 var defaults = {
   width: chartDiv.getBoundingClientRect().width -20,
@@ -15,7 +29,8 @@ var cf = defaults;
 var margin = cf.margin,
     width = cf.width,
     height = cf.height - margin.top - margin.bottom,
-    formatNumber = d3.format(",d"),
+
+    formatNumber = localeFormatter.numberFormat(",.f"),
     transitioning;
 
   // Great way to do a tooltip. 
@@ -31,25 +46,25 @@ var margin = cf.margin,
   .style("font", "12px sans-serif")
   .text("tooltip"); 
   
- // Format number depending on the value: 
-  function formatNumber(d_) {
-    // this function can be called as formatNumber_tangible_data, which is in scripts.js 
-    var d = Math.abs(d_); 
-    var decs = Math.floor(d) == 0? d - Math.floor(d): d % Math.floor(d) ;
-    if(decs == 0) d_ = Math.round(d_);  
-    if(d > 100000) return d3.format(",d")(Math.round(d_));
-    if(d > 10000) return d3.format("d")(Math.round(d_)); 
-    if(decs == 0) return d3.format("d")(Math.round(d_)); 
-    if( d > 10 &  decs > 0.1) return d3.format(".1f")(d_); 
-    if( d > 10 & decs <= 0.1) return d3.format(".0f")(d_); 
-    if( d > 0 & decs  > 0.01) return d3.format(".2f")(d_); 
-    if( d > 0 & decs <= 0.01) return d3.format("e")(d_);
-    return d3.format("s")(d_); 
-  }
+ // // Format number depending on the value: 
+ //  function formatNumber(d_) {
+ //    // this function can be called as formatNumber_tangible_data, which is in scripts.js 
+ //    var d = Math.abs(d_); 
+ //    var decs = Math.floor(d) == 0? d - Math.floor(d): d % Math.floor(d) ;
+ //    if(decs == 0) d_ = Math.round(d_);  
+ //    if(d > 100000) return d3.format(",d")(Math.round(d_));
+ //    if(d > 10000) return d3.format("d")(Math.round(d_)); 
+ //    if(decs == 0) return d3.format("d")(Math.round(d_)); 
+ //    if( d > 10 &  decs > 0.1) return d3.format(".1f")(d_); 
+ //    if( d > 10 & decs <= 0.1) return d3.format(".0f")(d_); 
+ //    if( d > 0 & decs  > 0.01) return d3.format(".2f")(d_); 
+ //    if( d > 0 & decs <= 0.01) return d3.format("e")(d_);
+ //    return d3.format("s")(d_); 
+ //  }
 
 function make_title(d){
   console.log("making_title", d); 
-       return d[cf.child] ? d[cf.child] + " (" + formatNumber(d[cf.value]) + ")" : d.key + " (" + formatNumber(d[cf.value]) + ")";
+       return d[cf.child] ? d[cf.child] + " $" + formatNumber(d[cf.value]) + "" : d.key + " $" + formatNumber(d[cf.value]) + "";
     }
 
 function google_colors(n) {
@@ -230,8 +245,10 @@ d3.csv("legado-compras.csv", function(csv) {
 
     g.append("text")
         .attr("dy", ".75em")
-        .text(function(d) { return d.name  })
-        .call(text);
+        .text(function(d) { return d.name;  })
+        .call(insertLinebreaks)
+        .call(text)
+        
     
     // g.append("text.sub")
     //     .attr("dy", "1em")
@@ -299,19 +316,11 @@ d3.csv("legado-compras.csv", function(csv) {
     var self = this;
     var cl = self.getComputedTextLength(); 
     var fs = parseFloat(text.style("font-size")); 
-    var ss = w / cl * fs /3.4; 
+    var ss = w / cl * fs /2.5 ; 
     ss = Math.max(12,ss) + "px"; 
     var len = d.name.length; 
-    /*console.log("name", d.name, 
-                "length", len,
-                "font", fs, 
-                "cl" , cl,
-                "cl/len", cl /len,
-                "w", w, 
-                "prop", w / cl, 
-                "ss", ss
-               );
-    */
+   
+   
     text.style("font-size", ss); 
     text.attr("dy", ".65em"); 
   }
@@ -329,7 +338,6 @@ d3.csv("legado-compras.csv", function(csv) {
 
   
   function color_rect(d,i){
-    //console.log("col", d, i); 
     return c20(d.name); 
   }
 
@@ -339,28 +347,21 @@ d3.csv("legado-compras.csv", function(csv) {
         .attr("width", function(d) { return x(d.x + d.dx) - x(d.x); })
         .attr("height", function(d) { return y(d.y + d.dy) - y(d.y); })
         .style("fill", function(d,i){return google_colors(i)})
-        .style("fill-opacity", 0.6);
+        .style("fill-opacity", 0.8);
   }
 
   function name(d) {
     return d.parent
-        ? name(d.parent) + " // "  + d.name: d.name;
+        ? name(d.parent) + " / "  + d.name: d.name;
   }
 });
 
-var insertLinebreaks = function (d) {
-    el = d3.select(this);
-    var words = el.text().split(' ');
-    el.text('');
+var insertLinebreaks = function (text) {
+  
+  text.append('tspan').attr('x', 3).attr('dy', '50  ').text(function(d){
 
-    for (var i = 0; i < words.length; i=i+4) {
-        var t = words[i] + " "; 
-        t += (words[i+1] ? words[i+1] + " " : " ");
-        t += (words[i+2] ? words[i+2]  + " ": " ");
-        t += (words[i+3] ? words[i+3]  + " ": " ");
+        return "$" +formatNumber(d.value);
+  });
 
-        var tspan = el.append('tspan').text(t);
-        if (i > 0)
-            tspan.attr('x', 0).attr('dy', '20');
-    }
+    
 };

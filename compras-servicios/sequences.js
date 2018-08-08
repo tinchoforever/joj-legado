@@ -2,6 +2,23 @@
 var width = 700;
 var height = 600;
 var radius = Math.min(width, height) / 2;
+var myLocale = {
+  "decimal": ",",
+  "thousands": ".",
+  "grouping": [3],
+  "currency": ["$", ""],
+  "dateTime": "%a %b %e %X %Y",
+  "date": "%m/%d/%Y",
+  "time": "%H:%M:%S",
+  "periods": ["AM", "PM"],
+  "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "shortDays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+  "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+  "shortMonths": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
+}
+var localeFormatter =  d3.locale(myLocale);
+
+var formatNumber = localeFormatter.numberFormat(",.f");
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 var b = {
@@ -125,7 +142,7 @@ function mouseover(d) {
 
   var percentage = (100 * d.value / totalSize).toPrecision(3);
   var percentageString = " (" +  percentage + "%)";
-  var priceString =  "$" + formatDecimalComma(Math.round(d.value,2));
+  var priceString =  "$" + formatNumber(Math.round(d.value,2));
   if (percentage < 0.1) {
     percentageString = "< 0.1%";
   }
