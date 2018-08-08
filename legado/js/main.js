@@ -6,19 +6,43 @@ var width = document.body.clientWidth-20; // get width in pixels
 var height = +svg.attr('height');
 var centerX = width * 0.5;
 var centerY = height * 0.5;
+
 var strength = 0.05;
 var focusedNode = void 0;
-
+var mainRad = 20;
 var format = d3.format(',d');
+var infoboxX = -400;
+var infoboxY = -550;
 
 var scaleColor = d3.scaleOrdinal(d3.schemeCategory20);
-
-// use pack to calculate radius of the circle
-var pack = d3.pack().size([width, height]).padding(1.5);
 
 var forceCollide = d3.forceCollide(function (d) {
 	return d.r + 1;
 });
+
+if ('matchMedia' in window && window.matchMedia('(max-device-width: 767px)').matches) {
+		 width = document.body.clientWidth-20; // get width in pixels
+		 height = +svg.attr('height');
+		// use pack to calculate radius of the circle
+		centerX = width * 0.5;
+		centerY = height * 0.5;
+
+	
+
+	}
+	else {
+		width = document.body.clientWidth-20; // get width in pixels
+		d3.select('svg').attr('height',"80vh");
+		height = d3.select('svg').node().getBoundingClientRect().height;
+		mainRad = 40;
+		// infoboxX = -width ;
+		centerX = width * 0.4;
+		centerY = height * 0.45;
+
+	
+	}
+	var pack = d3.pack().size([width, height]).padding(1.5);
+	
 
 // use the force
 var simulation = d3.forceSimulation()
@@ -59,12 +83,7 @@ d3.csv("legado.csv", function( baseL ) {
 
 	d3.csv("legado-c.csv", function( data ) {
 
-	// // reduce number of circles on mobile screen due to slow computation
-	// if ('matchMedia' in window && window.matchMedia('(max-device-width: 767px)').matches) {
-	// 	data = data.filter(function (el) {
-	// 		return el.q >= 500;
-	// 	});
-	// }
+	
 
 	var root = d3.hierarchy({ children: data }).sum(function (d) {
 		return 20;
@@ -79,11 +98,11 @@ d3.csv("legado.csv", function( baseL ) {
 			x: centerX + (node.x - centerX) * 1, // magnify start position to have transition to center movement
 			y: centerY + (node.y - centerY) * 1,
 			r: 5, // for tweening
-			radius:20, //original radius
+			radius:mainRad, //original radius
 			id: data.cat.toLowerCase() + '.' + data.name.replace(' ','-'),
 			cat: data.cat,
 			name: data.name,
-			value: 25,
+			value: mainRad,
 			icon: "img/" + getImageFor(data.cat.toLowerCase()),
 			desc: data.q + " " + data.desc,
 		};
@@ -165,7 +184,7 @@ d3.csv("legado.csv", function( baseL ) {
 
 	var sizeScale = d3.scaleOrdinal().domain(['less use', 'more use']).range([5, 10]);
 
-	var infoBox = node.append('foreignObject').classed('circle-overlay hidden', true).attr('x', -400 * 0.5 * 0.8).attr('y', -550 * 0.5 * 0.8).attr('height', 500 * 0.9).attr('width', 350 * 0.9).append('xhtml:div').classed('circle-overlay__inner', true);
+	var infoBox = node.append('foreignObject').classed('circle-overlay hidden', true).attr('x', infoboxX * 0.5 * 0.8).attr('y', infoboxY* 0.5 * 0.8).attr('height', 500 * 0.9).attr('width', 350 * 0.9).append('xhtml:div').classed('circle-overlay__inner', true);
 
 	infoBox.append('img').classed('circle-overlay_img', true).attr("src",function (d) {
 		return d.icon;
@@ -223,7 +242,7 @@ d3.csv("legado.csv", function( baseL ) {
 			console.log('tweenMoveIn', currentNode);
 			var ix = d3.interpolateNumber(currentNode.x, centerX);
 			var iy = d3.interpolateNumber(currentNode.y, centerY);
-			var ir = d3.interpolateNumber(currentNode.r, centerY * 0.5);
+			var ir = d3.interpolateNumber(currentNode.r, centerY * 0.7);
 			return function (t) {
 				// console.log('i', ix(t), iy(t));
 				currentNode.fx = ix(t);
@@ -252,7 +271,7 @@ d3.csv("legado.csv", function( baseL ) {
 		if (!target.closest('#circle-overlay') && focusedNode) {
 			focusedNode.fx = null;
 			focusedNode.fy = null;
-			simulation.alphaTarget(0.2).restart();
+			simulation.alphaTarget(0.5).restart();
 			d3.transition().duration(2000).ease(d3.easePolyOut).tween('moveOut', function () {
 				console.log('tweenMoveOut', focusedNode);
 				var ir = d3.interpolateNumber(focusedNode.r, focusedNode.radius);
