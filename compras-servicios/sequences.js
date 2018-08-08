@@ -157,10 +157,10 @@ function mouseover(d) {
     if (l2.parent.name != "root"){
       var l1 = l2.parent;
       //tipo de compra de un proveedor para un item.
-      detail += " fue adquirido mediante "+ l1.name + " a " + l2.name + " para " +  d.name ;
+      detail += " fue adquirido mediante "+ toFirstCase(l1.name) + " a " + toTitleCase(l2.name) + " para " +  d.name.toLowerCase() ;
     }else {
       //tipo de compra de un proveedor.
-      detail += " adquirido mediante "+ l2.name + " a " + d.name;  
+      detail += " adquirido mediante "+ toFirstCase(l2.name) + " a " + toTitleCase(d.name);  
     }
     
   }else {
@@ -404,3 +404,19 @@ var insertLinebreaks = function (el,d) {
             tspan.attr('x', 0).attr('dy', '20');
     }
 };
+
+
+var toFirstCase = function(lower){
+  return lower.toLowerCase().replace(/^\w/, function (chr) {
+    return chr.toUpperCase();
+  });
+}
+
+function toTitleCase(str) {
+    return str.replace(
+        /\w\S*/g,
+        function(txt) {
+            return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+        }
+    );
+}
