@@ -22,6 +22,8 @@ html, body {
 			overflow: hidden;
 			/*it's buggy with the foreignObject background right now*/
 			/*background-color: rgba(255,255,255,0.5);*/
+		    text-align: left;
+
 		}
 		.circle-overlay__inner {
 			text-align: center;
@@ -41,7 +43,9 @@ html, body {
 
 		li.circle-overlay__body{
 			text-align: left;
-			font-size: 0.9em;
+			font-weight: 100;
+		    font-size: 0.9em;
+		    font-family: "CHANEWEI", Helvetica, Arial, sans-serif;
 		}
 		img.circle-overlay_img {
     		width: 75px;

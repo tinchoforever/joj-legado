@@ -24,14 +24,17 @@ var formatNumber = localeFormatter.numberFormat(",.f");
 var b = {
   w: 75, h: 30, s: 3, t: 10
 };
-
+function google_colors(n) {
+  var colores_g = ["#FFBA31", "#B14C72", "#32BE94", "#009DBF", "#ED605F"];
+  return colores_g[n % colores_g.length];
+}
 // Mapping of step names to colors.
 var colors = {
-  "bienes y servicios": "#3366cc",
-  "compra menor": "#dd4477",
-  "licitación pública": "#329262",
-  "compra directa": "#aaaa11",
-  "other": "#a173d1",
+  "bienes y servicios": "#FFBA31",
+  "compra menor": "#B14C72",
+  "licitación pública": "#32BE94",
+  "compra directa": "#009DBF",
+  "other": "#ED605F",
   "end": "#bbbbbb"
 };
 

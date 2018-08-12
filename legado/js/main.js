@@ -16,7 +16,7 @@ var infoboxY = -550;
 
 var scaleColor = d3.scaleOrdinal(d3.schemeCategory20c);
 function google_colors(n) {
-	var colores_g = ["#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477", "#66aa00", "#b82e2e", "#316395", "#994499", "#22aa99", "#aaaa11", "#6633cc", "#e67300", "#8b0707", "#651067", "#329262", "#5574a6", "#3b3eac"];
+	var colores_g = ["#FFBA31", "#B14C72", "#32BE94", "#009DBF", "#ED605F"];
 	return colores_g[n % colores_g.length];
 }
 
@@ -182,7 +182,7 @@ d3.csv("legado.csv", function( baseL ) {
 	});
 
 	node.append('title').text(function (d) {
-		return d.cat + '::' + d.name + '\n' + format(d.q);
+		return d.name ;
 	});
 
 
