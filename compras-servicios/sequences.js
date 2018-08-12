@@ -30,12 +30,14 @@ function google_colors(n) {
 }
 // Mapping of step names to colors.
 var colors = {
-  "bienes y servicios": "#FFBA31",
-  "compra menor": "#B14C72",
-  "licitación pública": "#32BE94",
-  "compra directa": "#009DBF",
-  "other": "#ED605F",
-  "end": "#bbbbbb"
+  "licitacion publica": "#FFBA31",
+  "contratación menor": "#B14C72",
+  "contratación directa": "#32BE94",
+  "concurso público": "#009DBF",
+  "convenio marco": "#ED605F",
+  "decreto 433": "#FFBA31",
+  "convocatoria abierta":"#FFBA31",
+  "convocatoria directa":"#32BE94",
 };
 
 // Total size of all segments; we set this later, after loading the data.
@@ -60,7 +62,7 @@ var arc = d3.svg.arc()
 
 // Use d3.text and d3.csv.parseRows so that we do not need to have a header
 // row, and can receive the csv as an array of arrays.
-d3.csv("compras-servicios.csv", function(data) {
+d3.tsv("compras.tsv", function(data) {
   var json = buildHierarchy(data);
   createVisualization(json);
 });
@@ -159,16 +161,23 @@ function mouseover(d) {
     var l2 = d.parent;
     if (l2.parent.name != "root"){
       var l1 = l2.parent;
-      //tipo de compra de un proveedor para un item.
-      detail += " fue adquirido mediante "+ toFirstCase(l1.name) + " a " + toTitleCase(l2.name) + " para " +  d.name.toLowerCase() ;
+
+      if (l1.parent.name != "root"){
+        var l3 = l1.parent;
+        detail += " fue adquirido mediante "+ toFirstCase(l1.name) + " en " + toFirstCase(l2.name) + " a " + toTitleCase(l3.name)  + " para " +  toFirstCase(d.name) ;
+      }
+      else {
+        //tipo de compra de un proveedor para un item.
+        detail += " fue adquirido mediante "+ toFirstCase(l1.name) + " en " + toFirstCase(l2.name) + " a " +  toTitleCase(d.name) ;
+      }
     }else {
       //tipo de compra de un proveedor.
-      detail += " adquirido mediante "+ toFirstCase(l2.name) + " a " + toTitleCase(d.name);  
+      detail += " adquirido mediante "+ toFirstCase(l2.name) + " en " + toFirstCase(d.name);  
     }
     
   }else {
     //tipo de compra.
-    detail += "fue adquirido mediante "+ d.name;
+    detail += "fue adquirido mediante "+ toFirstCase(d.name);
   }
   
   insertLinebreaks(d3.select('svg text.label'), detail);
@@ -351,16 +360,25 @@ function toggleLegend() {
 function buildHierarchy(csv) {
   var root = {"name": "root", "children": []};
   for (var i = 0; i < csv.length; i++) {
-    var size = +csv[i].monto;
+    var size = +csv[i].precio_total;
     if (isNaN(size)) { // e.g. if this is a header row
       continue;
     }
     var parts = [];
     
-    parts.push(csv[i]["Tipo Proceso"]);
+    parts.push(csv[i]["tipo"]);
     
-    parts.push(csv[i]["Contratista"]);
-    parts.push(csv[i]["Nombre"]);
+    parts.push(csv[i]["subtipo"]);
+    parts.push(csv[i]["razon_social"]);
+    parts.push(csv[i]["descripcion"]);
+    if (!csv[i]["tipo"]){ console.log('no hay', i)};
+    if (!csv[i]["subtipo"]){ console.log('no hay', i)};
+    if (!csv[i]["razon_social"]){ console.log('no hay', i)};
+    if (!csv[i]["descripcion"]){ console.log('no hay', i)};
+
+
+
+
     var currentNode = root;
     for (var j = 0; j < parts.length; j++) {
       var children = currentNode["children"];
