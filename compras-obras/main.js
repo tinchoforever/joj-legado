@@ -30,7 +30,7 @@ var margin = cf.margin,
     width = cf.width,
     height = cf.height - margin.top - margin.bottom,
 
-    formatNumber = localeFormatter.numberFormat(",.f"),
+    formatNumber = localeFormatter.numberFormat(",.2f"),
     transitioning;
 
   // Great way to do a tooltip. 
@@ -68,9 +68,9 @@ function make_title(d){
     }
 
 function google_colors(n) {
-var colores_g = ["#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477", "#66aa00", "#b82e2e", "#316395", "#994499", "#22aa99", "#aaaa11", "#6633cc", "#e67300", "#8b0707", "#651067", "#329262", "#5574a6", "#3b3eac"];
-return colores_g[n % colores_g.length];
-}
+  var colores_g = ["#FFBA31", "#B14C72", "#32BE94", "#009DBF", "#ED605F"];
+  return colores_g[n % colores_g.length];
+} 
 
 var x = d3.scale.linear()
     .domain([0, width])
