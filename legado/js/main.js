@@ -197,7 +197,7 @@ d3.csv("legado.csv", function( baseL ) {
 		return d.name;
 	});
 	
-
+ 
 	infoBox.append('p').classed('circle-overlay__body', true).html(function (d) {
 		return d.desc;
 	});
