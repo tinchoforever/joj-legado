@@ -1,37 +1,37 @@
 cat,name,value,desc,descitem,unidad,q
-Hockey,Hockey,20,Pelota Oficial de Hockey,,Unidad,400
+Hockey,Hockey,20,Pelotas Oficiales de Hockey,,Unidad,400
 Hockey,Hockey,20,Arcos,,Unidad,8
 Hockey,Hockey,20,Redes,,Unidad,8
 Hockey,Hockey,20,Tablas de Rebote,,Set,4
 Hockey,Hockey,20,Banquillos de los penalizados,,Unidad,4
 Hockey,Hockey,20,Estantes para palos,,Set,4
-Hockey,Hockey,20,Mesa tecnica,,Set,2
-Hockey,Hockey,20,Banco de Jugadores,"Similar al banquillo del jugador de fútbol; con un techo de protección transparente; 2 por lado. Para el YOG, el banquillo del equipo debe ser capaz de acomodar a 8 personas. Sin embargo, si se planifica reutilizar estos articulos para hockey de 11 , la capacidad debe ser para 11 personas.",Par,2
-Hockey,Hockey,20,Maquina de Limpieza del campo de juego,Para mantener la calidad del campo de juego,Unidad,1
-Natacion,Natacion,20,Bloque de inicio,,Unidad,2
-Natacion,Natacion,20,Podios de salida,,Unidad,40
-Natacion,Natacion,20,"Línea indicadora de giro y poste (1,8m de altura) ubicados a la distancia de 5m para brazada de espalda","Palos (varas) de 1,8-Metros de Altura",Set,8
-Natacion,Natacion,20,Parte incorporada de los Ganchos para las sogas de tierra,Parte incorporada de los ganchos,Set,22
-Natacion,Natacion,20,Bandera de señal de 5 metros,La reglamentación exige que el emblema se visualice a ambos lados del triángulo invertido,Unidad,4
-Natacion,Natacion,20,Soga de Carril de 50 metros,"50-metros de largo; 11 sogas por set, incluye 3 amarillas, 4  azues  y 4  verdes; tensores de soga y cubiertas protectoras se incluirán",Par,2
-Natacion,Natacion,20,Contador de vueltas y Plataforma para la natacion de larga distancia,"Plástico, portátil y plegable",Set,15
-Natacion,Natacion,20,"Sogas de Falsa largada, Parte incorporada de la Soga y el Palo (vara) para brazada de espalda",,Set,8
-Natacion,Natacion,20,Carretel de almacenamiento de Soga ,(11 sogas por carretel) Acero inoxidable,Unidad,18
-Natacion,Natacion,20,Medidor laser de la temperatura,,Unidad,1
-Natacion,Natacion,20,Termómetro sumergible,,Unidad,1
-Natacion,Natacion,20,Medidor de piscina,El dispositivo de medición de distancia más avanzado utilizado para medir la longitud de la piscina al chequear el Record Mundial,Unidad,1
-Natacion,Natacion,20,Silla de Guardavidas,Usado por el guardavidas para emergencias,Unidad,4
-Natacion,Natacion,20,Reloj de entrenamiento,Para medir el tiempo,Unidad,4
-Natacion,Natacion,20,Señalización de línea,Para indicación,Unidad,1
-Natacion,Natacion,20,Tensor de Soga de carril,Usado para ajustar las sogas de tierra,Unidad,4
-Natacion,Natacion,20,Plataformas para brazada de espalda,Responsabilidad de Timing & Scoring,Unidad,15
-Natacion,Natacion,20,Contadores de vueltas sumergibles,Responsabilidad de Timing & Scoring,Unidad,10
-Clavado,Clavado,20,Trampolín,Modelo Maxiflex B,Par,15
-Clavado,Clavado,20,Asiento del juez (2m),Malmsten,Unidad,10
-Clavado,Clavado,20,"Asiento del juez (2,5m)",Malmsten,Unidad,5
-Clavado,Clavado,20,Asiento del juez (3m),Malmsten,Unidad,2
-Tiro,Tiro,20,Poligono de Calificación,40 comienzos en la clasificacion para los eventos de equipos mixtos,Unidad,40
-Tiro,Tiro,20,Poligono de  Finales,8 más 2 para la final,Unidad,10
+Hockey,Hockey,20,Mesas tecnicas,,Set,2
+Hockey,Hockey,20,Bancos de Jugadores,"Similar al banquillo del jugador de fútbol; con un techo de protección transparente; 2 por lado. Para el YOG, el banquillo del equipo debe ser capaz de acomodar a 8 personas. Sin embargo, si se planifica reutilizar estos articulos para hockey de 11 , la capacidad debe ser para 11 personas.",Par,2
+Hockey,Hockey,20,Máquina de Limpieza del campo de juego,Para mantener la calidad del campo de juego,Unidad,1
+Natación,Natación,20,Bloques de inicio,,Unidad,2
+Natación,Natación,20,Podios de salida,,Unidad,40
+Natación,Natación,20,"Línea indicadora de giro y poste (1,8m de altura) ubicados a la distancia de 5m para brazada de espalda","Palos (varas) de 1,8-Metros de Altura",Set,8
+Natación,Natación,20,Partes incorporadas de los Ganchos para las sogas de tierra,Parte incorporada de los ganchos,Set,22
+Natación,Natación,20,Banderas de señal de 5 metros,La reglamentación exige que el emblema se visualice a ambos lados del triángulo invertido,Unidad,4
+Natación,Natación,20,Sogas de Carril de 50 metros,"50-metros de largo; 11 sogas por set, incluye 3 amarillas, 4  azues  y 4  verdes; tensores de soga y cubiertas protectoras se incluirán",Par,2
+Natación,Natación,20,Contador de vueltas y Plataforma para la natación de larga distancia,"Plástico, portátil y plegable",Set,15
+Natación,Natación,20,"Sogas de Falsa largada, Parte incorporada de la Soga y el Palo (vara) para brazada de espalda",,Set,8
+Natación,Natación,20,Carretel de almacenamiento de Soga ,(11 sogas por carretel) Acero inoxidable,Unidad,18
+Natación,Natación,20,Medidor laser de la temperatura,,Unidad,1
+Natación,Natación,20,Termómetro sumergible,,Unidad,1
+Natación,Natación,20,Medidor de piscina,El dispositivo de medición de distancia más avanzado utilizado para medir la longitud de la piscina al chequear el Record Mundial,Unidad,1
+Natación,Natación,20,Sillas de Guardavidas,Usado por el guardavidas para emergencias,Unidad,4
+Natación,Natación,20,Relojes de entrenamiento,Para medir el tiempo,Unidad,4
+Natación,Natación,20,Señalización de línea,Para indicación,Unidad,1
+Natación,Natación,20,Tensores de Soga de carril,Usado para ajustar las sogas de tierra,Unidad,4
+Natación,Natación,20,Plataformas para brazada de espalda,Responsabilidad de Timing & Scoring,Unidad,15
+Natación,Natación,20,Contadores de vueltas sumergibles,Responsabilidad de Timing & Scoring,Unidad,10
+Clavado,Clavado,20,Trampolínes,Modelo Maxiflex B,Par,15
+Clavado,Clavado,20,Asientos del juez (2m),Malmsten,Unidad,10
+Clavado,Clavado,20,"Asientos del juez (2,5m)",Malmsten,Unidad,5
+Clavado,Clavado,20,Asientos del juez (3m),Malmsten,Unidad,2
+Tiro,Tiro,20,Polígonos de Calificación,40 comienzos en la clasificacion para los eventos de equipos mixtos,Unidad,40
+Tiro,Tiro,20,Polígonos de  Finales,8 más 2 para la final,Unidad,10
 Tiro,Tiro,20,Dispositivo de Medición de Rigidez,Para medir la rigidez de las prendas del tirador de acuerdo con la Regla 6.5.2,Unidad,1
 Tiro,Tiro,20,Mesa para el Dispositivo de Medición de Rigidez,Para facilitar las medidas de rigidez de las prendas del tirador de acuerdo con la Regla 6.5.2,Unidad,1
 Tiro,Tiro,20,Dispositivo de Medición de Espesor,Para medir el espesor de la ropa del tirador de acuerdo con la Regla 6.5.1,Unidad,1
@@ -41,7 +41,7 @@ Tiro,Tiro,20,Dispositivo de Medición de la Dimensión del Zapato,Para medir las
 Tiro,Tiro,20,Plantilla de la Dimensión del Rifle,Para verificar las Dimensiónes externas del rifle de acuerdo con la Regla 7.4.4.1,Unidad,1
 Tiro,Tiro,20,Caja de Medición de AP 10m ,Para comprobar las Dimensiónes externas de la Pistola de 10m de acuerdo con la Regla 8.12 // 420x200x50mm,Unidad,1
 Tiro,Tiro,20,Peso del Gatillo de Pistola de Aire 10 m 500g ,Para comprobar el peso del gatillo de la pistola de 10m // Requiere un peso de 500 g ,Unidad,2
-Tiro,Tiro,20,Balanza para rango de 10 kgs.,"Para comprobar el peso de los rifles // La balanza debe ser calibrada y si es posible con un certificado // Debe medir el peso en incrementos de 1.0 de 0.0g a 10,000.0g // Para comprobar el peso de la pistola",Unidad,2
+Tiro,Tiro,20,Balanza para rango de 10 kgs,"Para comprobar el peso de los rifles // La balanza debe ser calibrada y si es posible con un certificado // Debe medir el peso en incrementos de 1.0 de 0.0g a 10,000.0g // Para comprobar el peso de la pistola",Unidad,2
 Vela,Veleros de Competición ,20,Tablas de Windsurf ,Techno 293+ clase,Unidad,48
 Vela,Veleros de Competición ,20,Catamaranes,Nacra 15 clase,Unidad,14
 Vela,Veleros del Comité de Regata ,20,Embarcaciones de largada,Veleros de Comité de Regata Primario,Unidad,3
@@ -53,9 +53,9 @@ Vela,Barcos de Marcado y Control,20,Barcos de Jurado,RIB - Basado en un Jurado I
 Vela,Barcos de Marcado y Control,20,Barcos de PRO,RIB,Unidad,3
 Vela,Barcos de Marcado y Control,20,Barco de Delegado Técnico de Vela Mundial,RIB,Unidad,3
 Vela,Barcos de Marcado y Control,20,Prensa / Barcos de TV / Familia Olímpica / Entrenador,,,1
-Vela,Barcos de Marcado y Control,20,Barcos de Prensa,Suficientes para la prensa registrada,Unidad,1
-Vela,Barcos de Marcado y Control,20,Barcos de Fotografia,Suficiente para fotografos registrados,Unidad,1
-Vela,Barcos de Marcado y Control,20,Barcos para la Familia Olimpica y Vela Mundial e invitados,Suficiente para guests registrados,Unidad,1
+Vela,Barcos de Marcado y Control,20,Barco de Prensa,Suficientes para la prensa registrada,Unidad,1
+Vela,Barcos de Marcado y Control,20,Barco de Fotografía,Suficiente para fotografos registrados,Unidad,1
+Vela,Barcos de Marcado y Control,20,Barco para la Familia Olímpica y Vela Mundial e invitados,Suficiente para guests registrados,Unidad,1
 Vela,Barcos de Marcado y Control,20,Barcos para entrenadores,Lo suficientemente grande para permitir que todos los entrenadores que necesitan estar en el agua durante la competición para los atletas entran,Unidad,3
 Canotaje,Canotaje,20,Kayak ,Kayak tipo competición,Unidad,36
 Canotaje,Canotaje,20,Canoa ,Canoa tipo competición (con bloqueo de rodilla),Unidad,30
@@ -64,7 +64,7 @@ Canotaje,Canotaje,20,Palas de Kayak ,Remo de kayak de Carreras Profesionales,Uni
 Canotaje,Canotaje,20,Palas de Canoa ,Remo de Canoa de Carreras Profesionales,Unidad,15
 Canotaje,Canotaje,20,Palas de Kayak Slalom,Remo de Kayak Slalom Profesional,Unidad,10
 Canotaje,Canotaje,20,Palas de Canoa Slalom,Remo de Canoa Slalom de Carrera Profesional,Unidad,10
-Canotaje,Canotaje,20,Kayak Ergometros,Ergometros para simular remada de kayak,Unidad,6
+Canotaje,Canotaje,20,Kayak Ergómetros,Ergometros para simular remada de kayak,Unidad,6
 Canotaje,Canotaje,20,Aspersión de la cubierta del Kayak y Conoa Slalom,Aspersión cubierta para no permitir que el agua entre en los barcos. (35 kayak 25 canoa),Unidad,60
 Canotaje,Canotaje,20,Deslizadores de largada en pontón para CSL (slalom),Para el FOP,Unidad,2
 Canotaje,Canotaje,20,Número de placa de barco con número 1 y 2,Para competición (20/20),Unidad,40
@@ -72,47 +72,47 @@ Canotaje,Canotaje,20,Herramientas y materias primas para la reparación de embar
 Canotaje,Canotaje,20,Pista de Canotaje,"Sprint de proa y el curso slalom de competición y de entrenamiento
 Incluye boyas y todos los accesorios necesarios",Unidad,1
 Gimnasia,ARTÍSTICA,20,Piso de ejercicios,,Set,5
-Gimnasia,ARTÍSTICA,20,Caballo con arzones,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+Gimnasia,ARTÍSTICA,20,Caballos con arzones,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
 Gimnasia,ARTÍSTICA,20,Anillas,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
-Gimnasia,ARTÍSTICA,20,Mesa de salto,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,5
+Gimnasia,ARTÍSTICA,20,Mesas de salto,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,5
 Gimnasia,ARTÍSTICA,20,Barras paralelas,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
-Gimnasia,ARTÍSTICA,20,Barra horizontal,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
-Gimnasia,ARTÍSTICA,20,Barras asimetricas,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
-Gimnasia,ARTÍSTICA,20,Viga,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+Gimnasia,ARTÍSTICA,20,Barras horizontal,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+Gimnasia,ARTÍSTICA,20,Barras asimétricas,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
+Gimnasia,ARTÍSTICA,20,Vigas,Incluyendo colchonetas circundantes para la proteción del piso y elementos especiales del equipamiento,Set,3
 Gimnasia,ARTÍSTICA,20,Trampolines,,Unidad,23
-Gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Mesa de salto,,Unidad,5
-Gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Barra horizontal,,Unidad,6
-Gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Anillas,,Unidad,9
-Gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Barras asimetricas,,Unidad,3
-Gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Viga,,Unidad,3
-Gimnasia,ARTÍSTICA,20,Colchoneta de mano para Mesa de salto,,Unidad,5
-Gimnasia,ARTÍSTICA,20,Monticulos,,Unidad,9
-Gimnasia,ARTÍSTICA,20,Estabilizador de anillas,,Unidad,3
-Gimnasia,ARTÍSTICA,20,Contenedor de polvo de magnesio,,Unidad,25
+Gimnasia,ARTÍSTICA,20,Colchonetas de aterrizaje para Mesa de salto,,Unidad,5
+Gimnasia,ARTÍSTICA,20,Colchonetas de aterrizaje para Barra horizontal,,Unidad,6
+Gimnasia,ARTÍSTICA,20,Colchonetas de aterrizaje para Anillas,,Unidad,9
+Gimnasia,ARTÍSTICA,20,Colchonetas de aterrizaje para Barras asimétricas,,Unidad,3
+Gimnasia,ARTÍSTICA,20,Colchonetas de aterrizaje para Viga,,Unidad,3
+Gimnasia,ARTÍSTICA,20,Colchonetas de mano para Mesa de salto,,Unidad,5
+Gimnasia,ARTÍSTICA,20,Montículos,,Unidad,9
+Gimnasia,ARTÍSTICA,20,Estabilizadores de anillas,,Unidad,3
+Gimnasia,ARTÍSTICA,20,Contenedores de polvo de magnesio,,Unidad,25
 Gimnasia,ARTÍSTICA,20,Polvo de magnesio,,Unidad,450
 Gimnasia,ARTÍSTICA,20,Contenedor de polvo de magnesio para pies,,Unidad,15
-Gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje,,Unidad,7
-Gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje,,Unidad,12
-Gimnasia,ARTÍSTICA,20,Colchoneta de aterrizaje para Acrobatica,,Unidad,2
-Gimnasia,ARTÍSTICA,20,Podio de competicion,,Metros Cuadrados,1027
+Gimnasia,ARTÍSTICA,20,Colchonetas de aterrizaje,,Unidad,7
+Gimnasia,ARTÍSTICA,20,Colchonetas de aterrizaje,,Unidad,12
+Gimnasia,ARTÍSTICA,20,Colchonetas de aterrizaje para Acrobática,,Unidad,2
+Gimnasia,ARTÍSTICA,20,Podios de competición,,Metros Cuadrados,1027
 Gimnasia,TRAMPOLÍN,20,"Trampolín (incluyendo colchonetas circundantes de protección de piso, plataforma de seguridad y colchonetas en ambos extremos)",Incluyendo colchonetas circundantes para la proteción del piso; se requiere un certificado de autenticación internacional válido.,Par,5
 Gimnasia,TRAMPOLÍN,20,Colchoneta corrediza,Para competición,Par,7
 Gimnasia,TRAMPOLÍN,20,Cama trampolín de reserva,Para competición ,Unidad,1
-Gimnasia,TRAMPOLÍN,20,Resorte de reserva,Para competición ,Unidad,400
-Gimnasia,TRAMPOLÍN,20,Contenedor de polvo de magnesio,Igual al utilizado en gimnasia artisticas,Unidad,4
-Gimnasia,TRAMPOLÍN,20,Máquina de tiempo de vuelo,Para competición (se requiere un certificado FIG valido),Unidad,2
+Gimnasia,TRAMPOLÍN,20,Resortes de reserva,Para competición ,Unidad,400
+Gimnasia,TRAMPOLÍN,20,Contenedores de polvo de magnesio,Igual al utilizado en gimnasia artisticas,Unidad,4
+Gimnasia,TRAMPOLÍN,20,Máquinas de tiempo de vuelo,Para competición (se requiere un certificado FIG valido),Unidad,2
 Gimnasia,RITHMIC,20,Alfombra para competencia,"Incluye colchoneta y capa inferior. Área de acción: 13×13m, desviación permitida es ±3cm. Área de la frontera: horizontal y suavemente establecida en el mismo plano con área de acción; Min. Anchura del área de la frontera es 50cm; Anchura horizontal de la línea de la frontera es los 25cm; Ancho de línea indicativo inclinado es 25cm. Zona de seguridad：horizontal y colocado suavemente; 2m de ancho. 16m × 16m.",Unidad,7
-Gimnasia,RITHMIC,20,Aro,,Unidad,2
-Gimnasia,RITHMIC,20,Balon,,Unidad,2
+Gimnasia,RITHMIC,20,Aros,,Unidad,2
+Gimnasia,RITHMIC,20,Balones,,Unidad,2
 Gimnasia,RITHMIC,20,Mazas,Encaastrables,Unidad,2
-Gimnasia,RITHMIC,20,Cinta,5m de largo,Unidad,2
+Gimnasia,RITHMIC,20,Cintas,5m de largo,Unidad,2
 Gimnasia,RITHMIC,20,Barras de Ballet,Para preparación (13m),Unidad,3
-Gimnasia,RITHMIC,20,Escritorio de control de equipo,,Unidad,2
-Gimnasia,RITHMIC,20,Balanza de control de equipos,,Unidad,2
+Gimnasia,RITHMIC,20,Escritorios de control de equipo,,Unidad,2
+Gimnasia,RITHMIC,20,Balanzas de control de equipos,,Unidad,2
 Atletismo,EVENTOS DE ATLETISMO,20,Bloqueos de inicio,Bloqueos de inicio,Unidad,28
 Atletismo,EVENTOS DE ATLETISMO,20,Carritos de bloqueos de inicio,Carritos de bloqueos de inicio,Unidad,6
 Atletismo,EVENTOS DE ATLETISMO,20,"Vallas, ajustable","Vallas, ajustable",Unidad,190
-Atletismo,EVENTOS DE ATLETISMO,20,"Carros de vallas, para llevar 20 vallas","Carros de vallas, para llevar 20 vallas",Unidad,12
+Atletismo,EVENTOS DE ATLETISMO,20,Carros de vallas,"Carros de vallas, para llevar 20 vallas",Unidad,12
 Atletismo,EVENTOS DE ATLETISMO,20,Barras de vallas de repuesto,Barras de vallas de repuesto,Unidad,20
 Atletismo,EVENTOS DE ATLETISMO,20,Testigos de carrera de relevos,Testigos de carrera de relevos,Unidad,5
 Atletismo,EVENTOS DE ATLETISMO,20,Cajas de marcadores de carril (kit de 1-9),Cajas de marcadores de carril (kit de 1-9),Unidad,3
@@ -121,29 +121,29 @@ Atletismo,EVENTOS DE ATLETISMO,20,"Barreras de carrera de obstáculo altura ajus
 Atletismo,EVENTOS DE ATLETISMO,20,Plataformas de inicio,Plataformas de inicio,Unidad,3
 Atletismo,EVENTOS DE ATLETISMO,20,Conos de indicadores de línea de ruptura,Conos de indicadores de línea de ruptura (7 unidades),Unidad,2
 Atletismo,SALTO EN ALTO,20,Postes,Postes para salto en alto (pares),Unidad,2
-Atletismo,SALTO EN ALTO,20,Barra fija de Salto en Alto,Barra fija de Salto Alto,Unidad,16
+Atletismo,SALTO EN ALTO,20,Barras fija de Salto en Alto,Barra fija de Salto Alto,Unidad,16
 Atletismo,SALTO EN ALTO,20,Barras flexibles de Salto en Alto,Barras flexibles de Salto Alto,Unidad,4
-Atletismo,SALTO EN ALTO,20,Área de aterrizaje de salto en alto,Área de aterrizaje de salto alto,Unidad,2
-Atletismo,SALTO EN ALTO,20,Cubierta del tiempo de área de aterrizaje de salto alto,Cubierta del tiempo de área de aterrizaje de salto alto,Unidad,2
-Atletismo,SALTO EN ALTO,20,Base de área de aterrizaje de salto en alto,Base de área de aterrizaje de salto alto,Unidad,2
-Atletismo,SALTO EN ALTO,20,Dispositivo de medición de salto en alto,Dispositivo de medición de salto alto,Unidad,2
+Atletismo,SALTO EN ALTO,20,Áreas de aterrizaje de salto en alto,Área de aterrizaje de salto alto,Unidad,2
+Atletismo,SALTO EN ALTO,20,Cubiertas del tiempo de área de aterrizaje de Salto en Alto,Cubierta del tiempo de área de aterrizaje de salto alto,Unidad,2
+Atletismo,SALTO EN ALTO,20,Base de área de aterrizaje de Salto en Alto,Base de área de aterrizaje de salto alto,Unidad,2
+Atletismo,SALTO EN ALTO,20,Dispositivo de medición de Salto en Alto,Dispositivo de medición de salto alto,Unidad,2
 Atletismo,SALTO CON GARROCHA,20,Postes,Verticales de Salto con garrocha (Par),Unidad,2
 Atletismo,SALTO CON GARROCHA,20,Relleno protector de verticales de Salto con garrocha (Pares),Salto con garrocha uprights protective padding (pares),Unidad,2
 Atletismo,SALTO CON GARROCHA,20,Elevadores de barras fijas (par),Elevadores de barras fijas (par),Unidad,2
-Atletismo,SALTO CON GARROCHA,20,Barra Fijas de Salto con garrocha,Barra Fijas de Salto con garrocha,Unidad,16
+Atletismo,SALTO CON GARROCHA,20,Barras fijas de Salto con garrocha,Barra Fijas de Salto con garrocha,Unidad,16
 Atletismo,SALTO CON GARROCHA,20,Barras flexibles de Salto con garrocha,Barras flexibles de Salto con garrocha,Unidad,6
-Atletismo,SALTO CON GARROCHA,20,Medidor de altura de Salto con garrocha,Medidor de altura de Salto con garrocha,Unidad,2
+Atletismo,SALTO CON GARROCHA,20,Medidores de altura de Salto con garrocha,Medidor de altura de Salto con garrocha,Unidad,2
 Atletismo,SALTO CON GARROCHA,20,Área de aterrizaje de Salto con garrocha y cubierta del clima,Área de aterrizaje de Salto con garrocha y cubierta del clima,Unidad,2
 Atletismo,SALTO CON GARROCHA,20,Cubierta del clima área de aterrizaje de Salto con garrocha,Cubierta del clima área de aterrizaje de Salto con garrocha,Unidad,2
-Atletismo,SALTO CON GARROCHA,20,Base de área de aterrizaje de Salto con garrocha,Base de área de aterrizaje de Salto con garrocha,Unidad,2
-Atletismo,SALTO CON GARROCHA,20,Soporte para sostener palos de Salto con garrocha para hasta 20 Unidads,Soporte para sostener palos de Salto con garrocha para hasta 20 Unidads,Unidad,2
+Atletismo,SALTO CON GARROCHA,20,Bases de área de aterrizaje de Salto con garrocha,Base de área de aterrizaje de Salto con garrocha,Unidad,2
+Atletismo,SALTO CON GARROCHA,20,Soportes para sostener palos de Salto con garrocha para hasta 20 Unidades,Soporte para sostener palos de Salto con garrocha para hasta 20 Unidads,Unidad,2
 Atletismo,SALTO CON GARROCHA,20,Indicador vertical digital de Salto con garrocha,Indicador vertical digital de Salto con garrocha,Unidad,1
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Juegos de tablas de despegue,Juegos de tablas de despegue,Unidad,6
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Carro de tablas de despegue,Carro de tablas de despegue,Unidad,3
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Indicador de distancia de salto largo,Indicador de distancia de salto largo,Unidad,2
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Indicador de distancia de salto triple,Indicador de distancia de salto triple,Unidad,2
-Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Marcadores de visibilidad to tablas de despegue (pares),Marcadores de visibilidad to tablas de despegue (pares),Pares,5
-Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Tarima niveladora de pozo de arena,Tarima niveladora de pozo de arena,Unidad,6
+Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Marcadores de visibilidad de tablas de despegue (pares),Marcadores de visibilidad to tablas de despegue (pares),Pares,5
+Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Tarimas niveladoras de pozos de arena,Tarima niveladora de pozo de arena,Unidad,6
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Rastrillos de arena,Rastrillos de arena,Unidad,3
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Tableros indicadores de plastilina,Tableros indicadores de plastilina,Unidad,10
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Carros de tableros indicadores de plastilina,Carros de tableros indicadores de plastilina,Unidad,2
@@ -151,7 +151,7 @@ Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Rodillo y formador de plastilina,
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Plastilina (500g),Plastilina (500g),Unidad,50
 Atletismo,SALTO HORIZONTAL (LARGO / TRIPLE),20,Cubiertas de área de aterrizaje,Cubiertas de área de aterrizaje,Unidad,4
 Atletismo,LANZAMIENTO DE DISCO,20,Estantes de Discos para guardar 15 discos,Estantes de Discos para guardar 15 discos,Unidad,3
-Atletismo,LANZAMIENTO DE DISCO,20,Cajas para marcadores de distancia (30m - 90m cada 10m) - juego,Cajas para marcadores de distancia (30m - 90m cada 10m) - juego,Unidad,2
+Atletismo,LANZAMIENTO DE DISCO,20,Cajas para marcadores de distancia (30m - 90m cada 10m) ,Cajas para marcadores de distancia (30m - 90m cada 10m) - juego,Unidad,2
 Atletismo,LANZAMIENTO DE DISCO,20,Indicadores de lanzamiento (kit de 1-25),Indicadores de lanzamiento (kit de 1-25),Unidad,2
 Atletismo,LANZAMIENTO DE DISCO,20,Red de malla para el sector de seguridad,Red de malla para el sector de seguridad,Unidad,1
 Atletismo,LANZAMIENTO DE MARTILLO,20, Jaula de Martillo/ disco,Martillo/Jaula de disco,Unidad,2
@@ -159,52 +159,52 @@ Atletismo,LANZAMIENTO DE MARTILLO,20,Círculo de conversión de Martillo,Círcul
 Atletismo,LANZAMIENTO DE MARTILLO,20,Estante de Martillo para guardar 10 Martillos,Estante de Martillo para guardar 10 Martillos,Unidad,3
 Atletismo,LANZAMIENTO DE MARTILLO,20,Manijas de Martillo (recto y curvo),Manijas de Martillo (recto y curvo),Unidad,25
 Atletismo,LANZAMIENTO DE MARTILLO,20,Alambres de Martillo (largo y corto),Alambres de Martillo (largo y corto),Unidad,25
-Atletismo,LANZAMIENTO DE JABALINA,20,Estante de Javelin para guardar 20 javelins,Estante de Javelin para guardar 20 javelins,Unidad,3
+Atletismo,LANZAMIENTO DE JABALINA,20,Estantes de Javelin para guardar 20 javelins,Estante de Javelin para guardar 20 javelins,Unidad,3
 Atletismo,LANZAMIENTO DE BALA,20,Tablas de Parada,Tablas de Parada,Unidad,6
 Atletismo,LANZAMIENTO DE BALA,20,Canal de retorno de tiro,Canal de retorno de tiro,Unidad,2
-Atletismo,LANZAMIENTO DE BALA,20,Estante de lanzamiento de bala para guardar 15 Balas,Estante de lanzamiento de bala para guardar 15 Balas,Unidad,3
+Atletismo,LANZAMIENTO DE BALA,20,Estantes de lanzamiento de bala para guardar 15 Balas,Estante de lanzamiento de bala para guardar 15 Balas,Unidad,3
 Atletismo,LANZAMIENTO DE BALA,20,Cajas de marcadores de distancia (12-22m),Cajas de marcadores de distancia (12-22m),Unidad,3
-Atletismo,EQUIPOS GENERICOS,20,Kit de Medición de Instrumento,Kit de Medición de Instrumento,Unidad,2
-Atletismo,EQUIPOS GENERICOS,20,Cintas de medición certificados para fibra de vidrio 10m,Cintas de medición certificados para fibra de vidrio 10m,Unidad,3
-Atletismo,EQUIPOS GENERICOS,20,Cintas de medición certificados para fibra de vidrio 30m,Cintas de medición certificados para fibra de vidrio 30m,Unidad,3
-Atletismo,EQUIPOS GENERICOS,20,Cintas de medición certificados para fibra de vidrio 50m,Cintas de medición certificados para fibra de vidrio 50m,Unidad,3
-Atletismo,EQUIPOS GENERICOS,20,Cintas de medición certificados para fibra de vidrio 100m,Cintas de medición certificados para fibra de vidrio 100m,Unidad,3
-Atletismo,EQUIPOS GENERICOS,20,Cintas de medición certificados para acero 10m,Cintas de medición certificados para acero 10m,Unidad,4
-Atletismo,EQUIPOS GENERICOS,20,Cintas de medición certificados para acero 30m,Cintas de medición certificados para acero 30m,Unidad,4
-Atletismo,EQUIPOS GENERICOS,20,Cintas de medición certificados para acero 50m,Cintas de medición certificados para acero 50m,Unidad,4
-Atletismo,EQUIPOS GENERICOS,20,Cintas de medición certificados para acero 100m,Cintas de medición certificados para acero 100m,Unidad,4
-Atletismo,EQUIPOS GENERICOS,20,Contenedor / dispensador de Magnesio para Lanzamiento de Bala y Salto con garrocha,Contenedor / dispensador de Magnesio para Lanzamiento de Bala y Salto con garrocha,Unidad,3
-Atletismo,EQUIPOS GENERICOS,20,Polvo de Magnesio - bloques,Polvo de Magnesio - bloques,Unidad,60
-Atletismo,EQUIPOS GENERICOS,20,Marcadores de pista,Marcadores de pista,Unidad,250
-Atletismo,EQUIPOS GENERICOS,20,Indicadores de dirección del viento (calcetines de viento),Indicadores de dirección del viento (calcetines de viento),Unidad,8
-Atletismo,EQUIPOS GENERICOS,20,Banderas de Jueces – amarillo,Banderas de Jueces – amarillo,Unidad,40
-Atletismo,EQUIPOS GENERICOS,20,Banderas de Jueces – blanca,Banderas de Jueces – blanca,Unidad,20
-Atletismo,EQUIPOS GENERICOS,20,Banderas de Jueces – roja,Banderas de Jueces – roja,Unidad,20
-Atletismo,EQUIPOS GENERICOS,20,Conos - 300 mm,Conos - 300 mm,Unidad,250
-Atletismo,EQUIPOS GENERICOS,20,Cinta de Marcador de Sector - Blanca - 100 m rollo,Cinta de Marcador de Sector - Blanca - 100 m rollo,Unidad,8
-Atletismo,EQUIPOS GENERICOS,20,Cinta de Marcador de Sector - Amarilla - 100 m rollo,Cinta de Marcador de Sector - Amarilla - 100 m rollo,Unidad,4
-Atletismo,EQUIPOS GENERICOS,20,Cinta de Marcador de Sector - Rojo - 100 m rollo,Cinta de Marcador de Sector - Rojo - 100 m rollo,Unidad,4
-Atletismo,EQUIPOS GENERICOS,20,Cinta de Marcador de Sector - Azul - 100 mt rollo,Cinta de Marcador de Sector - Azul - 100 mt rollo,Unidad,4
-Atletismo,EQUIPOS GENERICOS,20,"Bobinas de cinta sectorial (sobre ruedas, de alta resistencia)","Bobinas de cinta sectorial (sobre ruedas, de alta resistencia)",Unidad,12
-Atletismo,EQUIPOS GENERICOS,20,Grapas de tierra del sector (kit de 100),Grapas de tierra del sector (kit de 100),Kit,10
-Atletismo,IMPLEMENTOS,20,Disco Masculino,"Disco Masculino (1,5kg)",Unidad,12
-Atletismo,IMPLEMENTOS,20,Disco Feminino,Disco Feminino (1kg),Unidad,12
-Atletismo,IMPLEMENTOS,20,Martillo Masculino,Martillo Masculino (5kg),Unidad,12
-Atletismo,IMPLEMENTOS,20,Martillo Feminino,Martillo Feminino (3kg),Unidad,12
-Atletismo,IMPLEMENTOS,20,Jabalina Masculina,Jabalina Masculina (700gr),Unidad,12
-Atletismo,IMPLEMENTOS,20,Jabalina Feminina,Jabalina Feminina (500gr),Unidad,12
+Atletismo,EQUIPOS GENÉRICOS,20,Kit de Medición de Instrumento,Kit de Medición de Instrumento,Unidad,2
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de medición certificados para fibra de vidrio 10m,Cintas de medición certificados para fibra de vidrio 10m,Unidad,3
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de medición certificados para fibra de vidrio 30m,Cintas de medición certificados para fibra de vidrio 30m,Unidad,3
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de medición certificados para fibra de vidrio 50m,Cintas de medición certificados para fibra de vidrio 50m,Unidad,3
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de medición certificados para fibra de vidrio 100m,Cintas de medición certificados para fibra de vidrio 100m,Unidad,3
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de medición certificados para acero 10m,Cintas de medición certificados para acero 10m,Unidad,4
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de medición certificados para acero 30m,Cintas de medición certificados para acero 30m,Unidad,4
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de medición certificados para acero 50m,Cintas de medición certificados para acero 50m,Unidad,4
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de medición certificados para acero 100m,Cintas de medición certificados para acero 100m,Unidad,4
+Atletismo,EQUIPOS GENÉRICOS,20,Contenedor / dispensador de Magnesio para Lanzamiento de Bala y Salto con garrocha,Contenedor / dispensador de Magnesio para Lanzamiento de Bala y Salto con garrocha,Unidad,3
+Atletismo,EQUIPOS GENÉRICOS,20,Polvo de Magnesio - bloques,Polvo de Magnesio - bloques,Unidad,60
+Atletismo,EQUIPOS GENÉRICOS,20,Marcadores de pista,Marcadores de pista,Unidad,250
+Atletismo,EQUIPOS GENÉRICOS,20,Indicadores de dirección del viento (calcetines de viento),Indicadores de dirección del viento (calcetines de viento),Unidad,8
+Atletismo,EQUIPOS GENÉRICOS,20,Banderas de Jueces – amarillo,Banderas de Jueces – amarillo,Unidad,40
+Atletismo,EQUIPOS GENÉRICOS,20,Banderas de Jueces – blanca,Banderas de Jueces – blanca,Unidad,20
+Atletismo,EQUIPOS GENÉRICOS,20,Banderas de Jueces – roja,Banderas de Jueces – roja,Unidad,20
+Atletismo,EQUIPOS GENÉRICOS,20,Conos - 300 mm,Conos - 300 mm,Unidad,250
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de Marcador de Sector - Blanca - 100 m rollo,Cinta de Marcador de Sector - Blanca - 100 m rollo,Unidad,8
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de Marcador de Sector - Amarilla - 100 m rollo,Cinta de Marcador de Sector - Amarilla - 100 m rollo,Unidad,4
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de Marcador de Sector - Rojo - 100 m rollo,Cinta de Marcador de Sector - Rojo - 100 m rollo,Unidad,4
+Atletismo,EQUIPOS GENÉRICOS,20,Cintas de Marcador de Sector - Azul - 100 mt rollo,Cinta de Marcador de Sector - Azul - 100 mt rollo,Unidad,4
+Atletismo,EQUIPOS GENÉRICOS,20,"Bobinas de cinta sectorial (sobre ruedas, de alta resistencia)","Bobinas de cinta sectorial (sobre ruedas, de alta resistencia)",Unidad,12
+Atletismo,EQUIPOS GENÉRICOS,20,Grapas de tierra del sector (kit de 100),Grapas de tierra del sector (kit de 100),Kit,10
+Atletismo,IMPLEMENTOS,20,Discos Masculinos,"Disco Masculino (1,5kg)",Unidad,12
+Atletismo,IMPLEMENTOS,20,Discos Femeninos,Disco Feminino (1kg),Unidad,12
+Atletismo,IMPLEMENTOS,20,Martillos Masculino,Martillo Masculino (5kg),Unidad,12
+Atletismo,IMPLEMENTOS,20,Martillos Femenino,Martillo Feminino (3kg),Unidad,12
+Atletismo,IMPLEMENTOS,20,Jabalinas Masculinas,Jabalina Masculina (700gr),Unidad,12
+Atletismo,IMPLEMENTOS,20,Jabalinas Femininas,Jabalina Feminina (500gr),Unidad,12
 Atletismo,IMPLEMENTOS,20,Lanzamiento de bala masculino,Lanzamiento de bala masculino (5kg),Unidad,12
-Atletismo,IMPLEMENTOS,20,Lanzamiento de bala feminino,Lanzamiento de bala feminino (3kg),Unidad,12
-Atletismo,ELECTRONICO,20,Sistema de largada en falso,Equipamiento electronico para competencia,Unidad,1
-Atletismo,ELECTRONICO,20,Sistema de Video Finish,Equipamiento electronico para competencia,Unidad,2
-Atletismo,ELECTRONICO,20,Sistma de largada automatico (Recall starter gun),Equipamiento electronico para competencia,Unidad,3
-Atletismo,ELECTRONICO,20,Reloj cuenta regresiva,Equipamiento electronico para competencia,Unidad,4
-Atletismo,ELECTRONICO,20,Distanciometro ,Equipamiento electronico para competencia,Unidad,5
-Atletismo,ELECTRONICO,20,Indicador de saltada LED,Equipamiento electronico para competencia,Unidad,6
+Atletismo,IMPLEMENTOS,20,Lanzamiento de bala femenino,Lanzamiento de bala feminino (3kg),Unidad,12
+Atletismo,ELECTRÓNICO,20,Sistema de largada en falso,Equipamiento electronico para competencia,Unidad,1
+Atletismo,ELECTRÓNICO,20,Sistemas de Video Finish,Equipamiento electronico para competencia,Unidad,2
+Atletismo,ELECTRÓNICO,20,Sistema de largada automático (Recall starter gun),Equipamiento electronico para competencia,Unidad,3
+Atletismo,ELECTRÓNICO,20,Relojes cuenta regresiva,Equipamiento electronico para competencia,Unidad,4
+Atletismo,ELECTRÓNICO,20,Distanciómetros,Equipamiento electronico para competencia,Unidad,5
+Atletismo,ELECTRÓNICO,20,Indicador de saltada LED,Equipamiento electronico para competencia,Unidad,6
 Atletismo,OPCIONAL,20,Rescatador de implementos - control remoto,Rescatador de implementos - control remoto,Unidad,2
 Atletismo,OPCIONAL,20,Bancos de atleta con protección contra el sol y la lluvia,Bancos de atleta con protección contra el sol y la lluvia,Unidad,18
 Atletismo,OPCIONAL,20,Funda pertiga,Funda pertiga,Unidad,2
-Atletismo,OPCIONAL,20,Indicador de récord del campeonato,Indicador de récord del campeonato,Unidad,4
+Atletismo,OPCIONAL,20,Indicadores de récord del campeonato,Indicador de récord del campeonato,Unidad,4
 Atletismo,OPCIONAL,20,Rodillos de eliminación de agua Roldri,Rodillos de eliminación de agua Roldri,Unidad,4
 Handball,Handball,20,Arcos,"2m de Altura X 3m de largo, marco tubular de aluminio de un diseño específico con un diámetro externo de 8cm, todo pintado en amarillo",Par,8
 Handball,Handball,20,Balones mano de Playa,"Masculino y feminino, 140 de cada genero",Unidad,280
@@ -216,12 +216,12 @@ Ciclismo,BMX,20,Placas de matriculación y las placas laterales para todos los p
 Ciclismo,BMX,20,Número 1-8 aplicado en la puerta de inicio,,,1
 Ciclismo,BMX,20,Puerta de inicio BMX Pro-gate Crescent,,,1
 Ciclismo,MTB,20,Placa de matrícula del manillar de la bicicleta,Indicating IOC code plus number,Unidad,200
-Ciclismo,MTB,20,Numero de placa corporal,Indicating IOC country code plus number,Unidad,200
-Ciclismo,MTB,20,Arco de inicio y fin,Arco de inicio y fin,Unidad,2
+Ciclismo,MTB,20,Número de placa corporal,Indicating IOC country code plus number,Unidad,200
+Ciclismo,MTB,20,Arcos de inicio y fin,Arco de inicio y fin,Unidad,2
 Ciclismo,MTB,20,Gran placa de señalización con rejilla XVE para actualizar los resultados,Large signage board with XVE grid to update results,Unidad,1
-Ciclismo,MTB,20,Pistola de arranque (sincronizar electrónicamente con el sistema de tomar tiempos),,Unidad,1
+Ciclismo,MTB,20,Pistola de arranque (sincroniza electrónicamente con el sistema de tomar tiempos),,Unidad,1
 Ciclismo,CAMINO,20,Ruedas,Para asistencia mecánica,Unidad,10
-Ciclismo,CAMINO,20,Mecanicos,Para asistencia mecánica,Unidad,6
+Ciclismo,CAMINO,20,Mecánicos,Para asistencia mecánica,Unidad,6
 Ciclismo,CAMINO,20,Autos,Para asistencia mecánica,Unidad,2
 Ciclismo,CAMINO,20,Motocicletas,Para asistencia mecánica,Unidad,2
 Ciclismo,CAMINO,20,Entrenadores,Para calentamiento (rollos o formadores de soporte bicicletas),Unidad,42
@@ -229,404 +229,404 @@ Ciclismo,CAMINO,20,Cantimploras (500cm3),5 botellas por atleta,Unidad,640
 Rugby,Rugby,20,Balones,Pendiente,Unidad,300
 Rugby,DE CANCHA,20,Bolsas para pelotas,Bolsa de Red para sostener las Pelotas de Partido y de Entrenamiento,Unidad,13
 Rugby,DE CANCHA,20,Palos de la bandera,Postes de Resorte no menos de 1.2m de altura para marcar el perímetro del Área de Juego. Con relleno alrededor del poste.,Kit de 14,5
-Rugby,DE CANCHA,20,Almohadilla de poste palo,Almohadillas para proteger la base de los postes palos. Las almohadillas no deben extenderse más de 300 mm de la superficie de los postes palos,Kit de 4,4
+Rugby,DE CANCHA,20,Almohadillas de poste palo,Almohadillas para proteger la base de los postes palos. Las almohadillas no deben extenderse más de 300 mm de la superficie de los postes palos,Kit de 4,4
 Rugby,DE CANCHA,20,Escudos de Golpe/Tackle / Traje de Tackle,Para uso durante sesiones de entrenamiento y de entrar en calor,Pieza,40
 Rugby,DE CANCHA,20,Marcadores/Conos,Para uso en la Instalación de Entrenamiento y Zonas de Entrar en Calor,Kit de 20,13
 Rugby,DE CANCHA,20,Palos de la Agilidad de Rugby,Palos de la Agilidad para el uso en instalaciones de entrenamiento,Kit de 12,3
 Rugby,DE CANCHA,20,Pecheras,"Pecheras de 2 colores diferentes utilizados por los sustitutos, aguadores y médicos.",Pieza,24
-Rugby,DE CANCHA,20,Silbato de los Oficiales del Partido,Silbato Acme Thunder correa de muñeca,Pieza,6
-Rugby,DE CANCHA,20,Baños de Hielo,Baño de agua helada para los músculos de los atletas,Unidad,1
+Rugby,DE CANCHA,20,Silbatos de los Oficiales del Partido,Silbato Acme Thunder correa de muñeca,Pieza,6
+Rugby,DE CANCHA,20,Baño de Hielo,Baño de agua helada para los músculos de los atletas,Unidad,1
 Taekwondo,Taekwondo,20,Plataforma de Competición,"1m de altura, 16x16, base 20x20",Unidad,1
-Taekwondo,Taekwondo,20,Colchoneta de competición,Colchoneta con forma Octágono,Unidad,5
-Taekwondo,Taekwondo,20,Colchoneta de competición (Extras),Colchoneta con forma Octágono,Unidad,20
-Taekwondo,Taekwondo,20,PSS Protector de cabeza,Tres Talles,Unidad,64
-Taekwondo,Taekwondo,20,Equipo de protectión ,Reserva,Unidad,60
-Taekwondo,Taekwondo,20,PSS Protector de cuerpo,Cinco Talles,Par,64
+Taekwondo,Taekwondo,20,Colchonetas de competición,Colchoneta con forma Octágono,Unidad,5
+Taekwondo,Taekwondo,20,Colchonetas de competición (Extras),Colchoneta con forma Octágono,Unidad,20
+Taekwondo,Taekwondo,20,PSS Protectores de cabeza,Tres Talles,Unidad,64
+Taekwondo,Taekwondo,20,Equipos de protección ,Reserva,Unidad,60
+Taekwondo,Taekwondo,20,PSS Protectores de cuerpo,Cinco Talles,Par,64
 Taekwondo,Taekwondo,20,PSS  (Extras) Protectores de Cuerpo Y Cabeza,Cinco Talles,Par,32
 Taekwondo,Taekwondo,20,Medias de detección,Cinco Talles,Par,120
 Taekwondo,Taekwondo,20,Medias de detección(Extras),Cinco Talles,Par,40
-Taekwondo,Taekwondo,20,Protector de Ingle para Hombres,Reserva,Unidad,64
-Taekwondo,Taekwondo,20,Protector de Ingle para Mujeres,Reserva,Unidad,64
-Taekwondo,Taekwondo,20,Pollera del Tatami,1.04 altura x 48.96m ancho = 50.91 m2 (Color: Pantone 299 'Azul'),Metros,49
-Taekwondo,Taekwondo,20,Podio para Jueces,"Altura: los 30cm, longitud: (para caber dos sillas), anchura: (para caber una silla)",Unidad ,4
+Taekwondo,Taekwondo,20,Protectores de Ingle para Hombres,Reserva,Unidad,64
+Taekwondo,Taekwondo,20,Protectores de Ingle para Mujeres,Reserva,Unidad,64
+Taekwondo,Taekwondo,20,Polleras del Tatami,1.04 altura x 48.96m ancho = 50.91 m2 (Color: Pantone 299 'Azul'),Metros,49
+Taekwondo,Taekwondo,20,Podios para Jueces,"Altura: los 30cm, longitud: (para caber dos sillas), anchura: (para caber una silla)",Unidad ,4
 Taekwondo,Taekwondo,20,Podio para Jurado Técnico,"Altura: primera fila (60cm), segunda fila (120cm). Una escalera de 120 cm de longitud debe colocarse en el centro. Longitud total: 1750cm. Ancho: 300cm.",Unidad,1
 Taekwondo,Taekwondo,20,Uniformes,En caso de emergencia. Disponible en（160、170、180、190、200cm）,Par,50
 Badminton,Badminton,20,Piso flotante ,,Unidad,9
 Badminton,Badminton,20,Estera / Alfombra,Alrededores de canchas y al borde del campo de juego,Unidad,1
 Badminton,Badminton,20,Plumillas,3 velocidades requeridas,Dozens,900
-Badminton,Badminton,20,Colchoneta de Cancha,3 para las canchas principales pero se requiere una colchoneta de cancha de repuesto como una contingencia (Azul o Verde),Unidad,10
+Badminton,Badminton,20,Colchonetas de Cancha,3 para las canchas principales pero se requiere una colchoneta de cancha de repuesto como una contingencia (Azul o Verde),Unidad,10
 Badminton,Badminton,20,Postes de la red,,Unidad,24
 Badminton,Badminton,20,Redes,,Unidad,10
-Badminton,Badminton,20,Red / Poste vara de medir,,Unidad,9
+Badminton,Badminton,20,Redes / Poste vara de medir,,Unidad,9
 Badminton,Badminton,20,Sillas de los árbitros,,Unidad,3
 Badminton,Badminton,20,Indicadores de intervalo de 2 minutos,,Unidad,3
 Badminton,Badminton,20,Cajas Kit de los jugadores,,Unidad,12
 Badminton,Badminton,20,Termómetro,Para medir y registrar la temperatura,Unidad,1
 Badminton,Badminton,20,Anemómetro,Para medir y registrar la presión del aire,Unidad,1
 Badminton,Badminton,20,Higrómetro,Para medir y registrar la humedad,Unidad,1
-Basketball,Basketball,20,Cancha de Básquet,Superficie de juego oficial FIBA 3X3,Unidad,2
-Basketball,Basketball,20,Aro Baloncesto 3x3,FIBA receptor oficial de 3x3 ,Unidad,3
-Basketball,Basketball,20,Aros iniciacion deportiva,Aros SAM School,Unidad,4
+Basketball,Basketball,20,Canchas de Básquet,Superficie de juego oficial FIBA 3X3,Unidad,2
+Basketball,Basketball,20,Aros Baloncesto 3x3,FIBA receptor oficial de 3x3 ,Unidad,3
+Basketball,Basketball,20,Aros iniciación deportiva,Aros SAM School,Unidad,4
 Basketball,Basketball,20,Carritos de Peso,Carrito de peso para SAM 3x3,Unidad,2
 Basketball,Basketball,20,Relojes de Tiro,"12"" reloj de tiro para receptor de 3x3 ",Unidad,2
 Basketball,Basketball,20,Set de Cartel,negro - neutral - para sam 3x3,Par,4
 Basketball,Basketball,20,Pelotas oficiales de competencia,3x3 pelotas oficial para competición,Unidad,100
-Basketball,Basketball,20,Pelotas Sport iniciation,Pelotas para iniciacion deportiva,Unidad,10
+Basketball,Basketball,20,Pelotas iniciación deportiva,Pelotas para iniciacion deportiva,Unidad,10
 Basketball,Basketball,20,Racks para sostener balones para competencia de tiro,Racks para shoot out contest,Unidad,4
-Basketball,Basketball,20,Redes de repuesto para aros de competicion,,Unidad,15
+Basketball,Basketball,20,Redes de repuesto para aros de competición,,Unidad,15
 Basketball,Basketball,20,Carpa,Proveedor nacional carpa cubre superficie,Unidad,1
 Voleyball de Playa,Voleyball de Playa,20,Pelotas,"MIKASA VLS 300, con el ""look"" de YOG ",Unidad,600
-Voleyball de Playa,Voleyball de Playa,20,Bolso,Bolsa para guardar 6 pelotas,Unidad,20
-Voleyball de Playa,Voleyball de Playa,20,Carrito,Carrito con una capacidad para guardar 12 pelotas ,Unidad,12
-Voleyball de Playa,Voleyball de Playa,20,Indicador de presión de aire,Indicador de presión de aire (with metric Unidads in mbar or hPa) ,Unidad,12
-Voleyball de Playa,Voleyball de Playa,20,Medidador de la circunferencia de la pelota,Medidor de circunferencia de pelotas,Unidad,4
+Voleyball de Playa,Voleyball de Playa,20,Bolsos,Bolsa para guardar 6 pelotas,Unidad,20
+Voleyball de Playa,Voleyball de Playa,20,Carritos,Carrito con una capacidad para guardar 12 pelotas ,Unidad,12
+Voleyball de Playa,Voleyball de Playa,20,Indicadores de presión de aire,Indicador de presión de aire (with metric Unidads in mbar or hPa) ,Unidad,12
+Voleyball de Playa,Voleyball de Playa,20,Medidadores de circunferencia de la pelota,Medidor de circunferencia de pelotas,Unidad,4
 Voleyball de Playa,Voleyball de Playa,20,Bomba manual de pelota,Bomba manual de pelota (con agujas) ,Unidad,12
-Voleyball de Playa,Voleyball de Playa,20,Bandera de jueces de linea,Banderas de jueces de linea (red – 30cm2 sobre 50 cm manija de goma) ,Kit (4 banderas),10
-Voleyball de Playa,Voleyball de Playa,20,Red,Red de 8 m de largo x 1 m (+/- 3 cm) de ancho. Tablero de resultados público que cubre el sorteo completo y resultados de la competición olímpica juvenil (3m x 2m aprox.) ,Unidad,10
+Voleyball de Playa,Voleyball de Playa,20,Banderas de jueces de línea,Banderas de jueces de linea (red – 30cm2 sobre 50 cm manija de goma) ,Kit (4 banderas),10
+Voleyball de Playa,Voleyball de Playa,20,Redes,Red de 8 m de largo x 1 m (+/- 3 cm) de ancho. Tablero de resultados público que cubre el sorteo completo y resultados de la competición olímpica juvenil (3m x 2m aprox.) ,Unidad,10
 Voleyball de Playa,Voleyball de Playa,20,Antenas,Antenas de Red,Par de 2,12
-Voleyball de Playa,Voleyball de Playa,20,Base de poste,Base de poste,Par de 2,10
+Voleyball de Playa,Voleyball de Playa,20,Bases de poste,Base de poste,Par de 2,10
 Voleyball de Playa,Voleyball de Playa,20,Postes,Poste de red en posición vertical (con ajuste telescópico para hombres y mujeres) ,Par de 2,10
 Voleyball de Playa,Voleyball de Playa,20,Almohadillas de poste,Almohadillas de poste (con la disposición de la cuerda de la TV) ,Par de 2,10
-Voleyball de Playa,Voleyball de Playa,20,Plataforma del Árbitro,Plataforma del árbitro (estilo silla y ajustable) ,Par,6
-Voleyball de Playa,Voleyball de Playa,20,Relleno de Plataforma del Árbitro,Relleno de la plataforma del árbitro,Par,6
-Voleyball de Playa,Voleyball de Playa,20,Lineas de la cancha,Deliniates rectangular FOP (8m x 16m x 5cm wide). Anchors with a round disk attached to bungee cords at corners. Material allowing for no shrinkage in wet/dry conditions. Colour must contrast with sand in wet/dry conditions. ,Par (4 lineas),12
-Voleyball de Playa,Voleyball de Playa,20,Indicador de servicio,Paletas numeradas 1 y 2 para indicar el servidor,Par of 2,7
-Voleyball de Playa,Voleyball de Playa,20,Tarjeta de árbitro,Tarjetas rojas y amarillas del Árbitro,Set,20
-Voleyball de Playa,Voleyball de Playa,20,Tanteador ,Tanteador de escritorio manual  ,Unidad,8
-Voleyball de Playa,Voleyball de Playa,20,Medida neta,Barra de medida de altura neta (se indica alturas de hombres y mujeres) ,Unidad,8
-Boxeo,Boxeo,20,"Uniforme de boxeo, camiseta / pantalon corto",Azul y Rojo talle CHICO,Kit,4
-Boxeo,Boxeo,20,"Uniforme de boxeo, camiseta / pantalon corto",Azul y Rojo talle MEDIANO,Kit,4
-Boxeo,Boxeo,20,"Uniforme de boxeo, camiseta / pantalon corto",Azul Y Rojo talle GRANDE,Kit,4
-Boxeo,Boxeo,20,Guante de boxeo,"Cuero, 10 oz, Azul",Par,20
-Boxeo,Boxeo,20,Guante de boxeo,"Cuero, 10 oz, Rojo",Par,20
-Boxeo,Boxeo,20,Guante de boxeo,"Cuero, 12 oz, Azul",Par,20
-Boxeo,Boxeo,20,Guante de boxeo,"Cuero, 12 oz, Rojo",Par,20
-Boxeo,Boxeo,20,Casco Protector,"Cuero, Azul, CHICO",Unidad,8
-Boxeo,Boxeo,20,Casco Protector,"Cuero, Rojo, CHICO",Unidad,8
-Boxeo,Boxeo,20,Casco Protector,"Cuero, Azul, MEDIUM",Unidad,10
-Boxeo,Boxeo,20,Casco Protector,"Cuero, Rojo, MEDIUM",Unidad,10
-Boxeo,Boxeo,20,Casco Protector,"Cuero, Azul, LARGE",Unidad,8
-Boxeo,Boxeo,20,Casco Protector,"Cuero, Rojo, LARGE",Unidad,8
-Boxeo,Boxeo,20,Casco Protector,"Cuero, Azul, EXTRA LARGE",Unidad,8
-Boxeo,Boxeo,20,Casco Protector,"Cuero, Rojo, EXTRA LARGE",Unidad,8
-Boxeo,Boxeo,20,Bandage crepe,"Blanco, 5,7cm x 2,55m",Unidad,75
-Boxeo,Boxeo,20,Bandage crepe,"Blanco, 5,7cm x 3,55m",Unidad,100
-Boxeo,Boxeo,20,Bandage crepe,"Blanco, 5,7cm x 4,55m",Unidad,125
-Boxeo,Boxeo,20,Cinta para guantes (azul),10m roll - AIBA Licenced,Roll,15
-Boxeo,Boxeo,20,Cinta para guantes (rojo),10m roll - AIBA Licenced,Roll,15
+Voleyball de Playa,Voleyball de Playa,20,Plataformas del Árbitro,Plataforma del árbitro (estilo silla y ajustable) ,Par,6
+Voleyball de Playa,Voleyball de Playa,20,Rellenos de Plataforma del Árbitro,Relleno de la plataforma del árbitro,Par,6
+Voleyball de Playa,Voleyball de Playa,20,Líneas de la cancha,Deliniates rectangular FOP (8m x 16m x 5cm wide). Anchors with a round disk attached to bungee cords at corners. Material allowing for no shrinkage in wet/dry conditions. Colour must contrast with sand in wet/dry conditions. ,Par (4 lineas),12
+Voleyball de Playa,Voleyball de Playa,20,Indicadores de servicio,Paletas numeradas 1 y 2 para indicar el servidor,Par of 2,7
+Voleyball de Playa,Voleyball de Playa,20,Tarjetas de árbitro,Tarjetas rojas y amarillas del Árbitro,Set,20
+Voleyball de Playa,Voleyball de Playa,20,Tanteadores,Tanteador de escritorio manual  ,Unidad,8
+Voleyball de Playa,Voleyball de Playa,20,Barras de medida neta de altura,Barra de medida de altura neta (se indica alturas de hombres y mujeres) ,Unidad,8
+Boxeo,Boxeo,20,Uniformes de boxeo - Talle chico,Azul y Rojo talle CHICO,Kit,4
+Boxeo,Boxeo,20,Uniformes de boxeo - Talle medio,Azul y Rojo talle MEDIANO,Kit,4
+Boxeo,Boxeo,20,Uniformes de boxeo - Talle grande,Azul Y Rojo talle GRANDE,Kit,4
+Boxeo,Boxeo,20,Guantes de boxeo - Azul 10 oz,"Cuero, 10 oz, Azul",Par,20
+Boxeo,Boxeo,20,Guantes de boxeo - Rojo 10 oz,"Cuero, 10 oz, Rojo",Par,20
+Boxeo,Boxeo,20,Guantes de boxeo - Azul 12 oz,"Cuero, 12 oz, Azul",Par,20
+Boxeo,Boxeo,20,Guantes de boxeo - Rojo 12 oz,"Cuero, 12 oz, Rojo",Par,20
+Boxeo,Boxeo,20,Cascos Protectores - Azul chico,"Cuero, Azul, CHICO",Unidad,8
+Boxeo,Boxeo,20,Cascos Protectores - Rojo chico,"Cuero, Rojo, CHICO",Unidad,8
+Boxeo,Boxeo,20,Cascos Protectores - Azul medio,"Cuero, Azul, MEDIUM",Unidad,10
+Boxeo,Boxeo,20,Cascos Protectores - Rojo medio,"Cuero, Rojo, MEDIUM",Unidad,10
+Boxeo,Boxeo,20,Cascos Protectores - Azul grande,"Cuero, Azul, LARGE",Unidad,8
+Boxeo,Boxeo,20,Cascos Protectores - Rojo grande,"Cuero, Rojo, LARGE",Unidad,8
+Boxeo,Boxeo,20,Cascos Protectores - Azul extra grande,"Cuero, Azul, EXTRA LARGE",Unidad,8
+Boxeo,Boxeo,20,Cascos Protectores - Rojo extra grande,"Cuero, Rojo, EXTRA LARGE",Unidad,8
+Boxeo,Boxeo,20,"Bandage crepe (5,7 cm x 2,55m)","Blanco, 5,7cm x 2,55m",Unidad,75
+Boxeo,Boxeo,20,"Bandage crepe (5,7 cm x 3,55m)","Blanco, 5,7cm x 3,55m",Unidad,100
+Boxeo,Boxeo,20,"Bandage crepe (5,7cm x 4,55m)","Blanco, 5,7cm x 4,55m",Unidad,125
+Boxeo,Boxeo,20,Cintas para guantes (azul),10m roll - AIBA Licenced,Roll,15
+Boxeo,Boxeo,20,Cintas para guantes (rojo),10m roll - AIBA Licenced,Roll,15
 Boxeo,Boxeo,20,Ring Cuadrilátero,Ring Cuadrilátero aprobado por AIBA,Unidad,1
-Boxeo,Boxeo,20,Ring Cuadrilátero,Piso de Ring Cuadrilátero,Unidad,3
-Boxeo,Boxeo,20,Bolsa de boxeo,"Cuero, Negro, 90cm x 33cm ",Unidad,6
-Boxeo,Boxeo,20,Bolsa de boxeo,"Cuero, Negro, 120cm x 33cm ",Unidad,6
-Boxeo,Boxeo,20,Bolsa de boxeo,"Cuero, Negro, 150cm x 40cm ",Unidad,6
-Boxeo,Boxeo,20,Bola de velocidad,"Cuero, Negro, 15cm x 23cm ",Unidad,2
-Boxeo,Boxeo,20,Bola de doble extremidades,"Cuero, Negro",Unidad,2
+Boxeo,Boxeo,20,Pisos de Ring Cuadrilátero,Piso de Ring Cuadrilátero,Unidad,3
+Boxeo,Boxeo,20,Bolssa de boxeo (90cm x 33cm),"Cuero, Negro, 90cm x 33cm ",Unidad,6
+Boxeo,Boxeo,20,Bolsas de boxeo (120cm x 33cm),"Cuero, Negro, 120cm x 33cm ",Unidad,6
+Boxeo,Boxeo,20,Bolsas de boxeo (150cm x 40cm),"Cuero, Negro, 150cm x 40cm ",Unidad,6
+Boxeo,Boxeo,20,Bolas de velocidad,"Cuero, Negro, 15cm x 23cm ",Unidad,2
+Boxeo,Boxeo,20,Bolas de doble extremidades,"Cuero, Negro",Unidad,2
 Caballeriza,Caballeriza,20,Una vez definido el equipamiento deportivo que será proveído por el club donde se realizará el deporte tendremos la lista final,,,1
-Esgrima,Esgrima,20,Entrenamiento Pistas de aluminio FIE,Pistas de Esgrima de aluminio FIE (1.5mX17m) (Para Entrenamiento),Unidad,10
+Esgrima,Esgrima,20,Pistas de aluminio FIE,Pistas de Esgrima de aluminio FIE (1.5mX17m) (Para Entrenamiento),Unidad,10
 Esgrima,Esgrima,20,Pistas semi-finales color FIE,"FA semifinales de la FIE color de pista (2 m X 18 m) --Azul, Rojo, Verde, Amarillo
 (Uso de la competencia)",Unidad,6
 Esgrima,Esgrima,20,Final Color Pista con podio FIE ,"Final Color Pists con podio (3.5 m X 24 m) (Uso de la competencia final, Modelo FIE oficial) --Incluye luces de repetidor de 20 metros de largo en ambos lados del podio final. - Incluye rampa de 2 metros en ambos lados. - Incluye todos los cables y conectores necesarios",Unidad,1
-Esgrima,Esgrima,20,REP150 Máquina de puntaje certificada FIE,"FIE Maquina Certificado de Puntuación 10 (Para Entrenamiento) 
+Esgrima,Esgrima,20,Máquinas de puntaje certificada FIE,"FIE Maquina Certificado de Puntuación 10 (Para Entrenamiento) 
 --Incluye Control Remoto 
 --Incluye la Fuente de Electricidad",Unidad,10
 Esgrima,Esgrima,20,Carretes,,Unidad,30
 Esgrima,Esgrima,20,Cables de Piso,,Unidad,30
-Esgrima,Esgrima,20,Alambre a Tierra,,Unidad,15
-Esgrima,Esgrima,20,Bolsa de rollo de color Junior,"(4 Cada Uno: Rojo, Azul, Amarillo, Verde) ",Unidad,16
-Esgrima,Esgrima,20,Medidor de pruebas alemán,,Unidad,8
-Esgrima,Esgrima,20,Probador Máscara alemán,,Unidad,4
+Esgrima,Esgrima,20,Alambres a Tierra,,Unidad,15
+Esgrima,Esgrima,20,Bolsas de rollo de color,"(4 Cada Uno: Rojo, Azul, Amarillo, Verde) ",Unidad,16
+Esgrima,Esgrima,20,Medidores de pruebas alemán,,Unidad,8
+Esgrima,Esgrima,20,Probadores Máscara alemán,,Unidad,4
 Esgrima,Esgrima,20,Multímetros con cable,,Unidad,2
 Esgrima,Esgrima,20,A2 Probador Profesional,,Unidad,2
-Esgrima,Esgrima,20,Probador Lame alemán,,Unidad,4
+Esgrima,Esgrima,20,Probadores Lame alemán,,Unidad,4
 Esgrima,Esgrima,20,Peso Combo Regulado FIE,,Unidad,8
-Esgrima,Esgrima,20,Mesa de Control de Armas Reguladas FIE ,2 per competition piste. 12v 60 or 90 Amp/h,Unidad,2
-Esgrima,Esgrima,20,Bateria,2 por pista de competición. 12v 60 ó 90Amp/h,Unidad,1
-Esgrima,Esgrima,20,Cargador de bateria,,Unidad,1
-Esgrima,Esgrima,20,Tarjetas de penalizacion,,Unidad,1
+Esgrima,Esgrima,20,Mesas de Control de Armas Reguladas FIE ,2 per competition piste. 12v 60 or 90 Amp/h,Unidad,2
+Esgrima,Esgrima,20,Batería,2 por pista de competición. 12v 60 ó 90Amp/h,Unidad,1
+Esgrima,Esgrima,20,Cargador de batería,,Unidad,1
+Esgrima,Esgrima,20,Tarjetas de penalización,,Unidad,1
 Esgrima,Esgrima,20,Cartulina,,Unidad,1
-Futbol-Futsal,Futbol-Futsal,20,Cancha de fútbol de salón,"Cancha para Fútbol de Salón.El campo de juego debe ser plano, absolutamente lisa y su superficie no debe ser abrasivo. Debe ser de madera y en perfecto estado.",Unidad,2
-Futbol-Futsal,Futbol-Futsal,20,Bancos,"Cada banco debe acomodar hasta 8 personas, los asientos deben tener respaldos.",Unidad,6
-Futbol-Futsal,Futbol-Futsal,20,Arcos de Fútbol,Dimensión: 3160x1068x2080 mm,Unidad,6
-Futbol-Futsal,Futbol-Futsal,20,Redes de arcos,Red para arcos de fútbol,Unidad,12
-Futbol-Futsal,Futbol-Futsal,20,Mesa para el contador de tiempo,"Equipado con un cronómetro, debe guardar registro de las faltas acumuladas y hacer señales acústicas conectadas al tanteador central. La mesa debe acomodar 5 sillas.",Unidad,2
-Futbol-Futsal,Futbol-Futsal,20,Pelota,Pelotas oficiales para la competición y entrenamiento de fútbol de salón. Debe ser bombeado 0.6 - 0.8 atmósfera al nivel del mar.,Unidad,785
+Fútbol-Futsal,Fútbol-Futsal,20,Canchas de fútbol de salón,"Cancha para Fútbol de Salón.El campo de juego debe ser plano, absolutamente lisa y su superficie no debe ser abrasivo. Debe ser de madera y en perfecto estado.",Unidad,2
+Fútbol-Futsal,Fútbol-Futsal,20,Bancos,"Cada banco debe acomodar hasta 8 personas, los asientos deben tener respaldos.",Unidad,6
+Fútbol-Futsal,Fútbol-Futsal,20,Arcos de Fútbol,Dimensión: 3160x1068x2080 mm,Unidad,6
+Fútbol-Futsal,Fútbol-Futsal,20,Redes de arcos,Red para arcos de fútbol,Unidad,12
+Fútbol-Futsal,Fútbol-Futsal,20,Mesas para el contador de tiempo,"Equipado con un cronómetro, debe guardar registro de las faltas acumuladas y hacer señales acústicas conectadas al tanteador central. La mesa debe acomodar 5 sillas.",Unidad,2
+Fútbol-Futsal,Fútbol-Futsal,20,Pelotas,Pelotas oficiales para la competición y entrenamiento de fútbol de salón. Debe ser bombeado 0.6 - 0.8 atmósfera al nivel del mar.,Unidad,785
 Golf,Golf,20,Una vez definido el equipamiento deportivo que será proveído por el club donde se realizará el deporte tendremos la lista final,,,1
 Judo,Judo,20,Cinturones,Cinturón negro - varios tamaños,Unidad,20
 Judo,Judo,20,Marco,Marco de mareda hecho para los colchonetas pintados rojo con una inclinación chica de 2m FOP,Unidad,1
-Judo,Judo,20,Judogis,Azul - Talle 2/150,Unidad,2
-Judo,Judo,20,Judogis,"Azul - Talle 2,5/155",Unidad,3
-Judo,Judo,20,Judogis,Azul - Talle 3/160,Unidad,2
-Judo,Judo,20,Judogis,"Azul - Talle 3,5/165",Unidad,2
-Judo,Judo,20,Judogis,Azul - Talle 4/170,Unidad,2
-Judo,Judo,20,Judogis,"Azul - Talle 4,5/175",Unidad,2
-Judo,Judo,20,Judogis,"Azul - Talle 5,0/180",Unidad,3
-Judo,Judo,20,Judogis,"Azul - Talle 5,5/185",Unidad,3
-Judo,Judo,20,Judogis,"Azul - Talle 6,0/190",Unidad,2
-Judo,Judo,20,Judogis,"Azul - Talle 6,5/195",Unidad,3
-Judo,Judo,20,Judogis,"Azul - Talle 7,0/200",Unidad,2
-Judo,Judo,20,Judogis,"Azul - Talle 7,5/205",Unidad,2
-Judo,Judo,20,Judogis,"Azul - Talle 8,0/210",Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 2/150,Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 2.5/155,Unidad,3
-Judo,Judo,20,Judogis,Blanco- Talle 3/160,Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 3.5/165,Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 4/170,Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 4.5/175,Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 5.0/180,Unidad,3
-Judo,Judo,20,Judogis,Blanco- Talle 5.5/185,Unidad,3
-Judo,Judo,20,Judogis,Blanco- Talle 6.0/190,Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 6.5/195,Unidad,3
-Judo,Judo,20,Judogis,Blanco- Talle 7.0/200,Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 7.5/205,Unidad,2
-Judo,Judo,20,Judogis,Blanco- Talle 8.0/210,Unidad,2
-Judo,Judo,20,Colchonetas,"Colchonetas, 2000mm x 1000mm x 50mm, Rojo
+Judo,Judo,20,Judogis - Azul Talle 2,Azul - Talle 2/150,Unidad,2
+Judo,Judo,20,"Judogis - Azul Talle 2,5","Azul - Talle 2,5/155",Unidad,3
+Judo,Judo,20,Judogis - Azul Talle 3,Azul - Talle 3/160,Unidad,2
+Judo,Judo,20,"Judogis - Azul Talle 3,5","Azul - Talle 3,5/165",Unidad,2
+Judo,Judo,20,Judogis - Azul Talle 4,Azul - Talle 4/170,Unidad,2
+Judo,Judo,20,"Judogis - Azul Talle 4,5","Azul - Talle 4,5/175",Unidad,2
+Judo,Judo,20,Judogis - Azul Talle 5,"Azul - Talle 5,0/180",Unidad,3
+Judo,Judo,20,"Judogis - Azul Talle 5,5","Azul - Talle 5,5/185",Unidad,3
+Judo,Judo,20,Judogis - Azul Talle 6,"Azul - Talle 6,0/190",Unidad,2
+Judo,Judo,20,"Judogis - Azul Talle 6,5","Azul - Talle 6,5/195",Unidad,3
+Judo,Judo,20,Judogis - Azul Talle 7,"Azul - Talle 7,0/200",Unidad,2
+Judo,Judo,20,"Judogis - Azul Talle 7,5","Azul - Talle 7,5/205",Unidad,2
+Judo,Judo,20,Judogis - Azul Talle 8,"Azul - Talle 8,0/210",Unidad,2
+Judo,Judo,20,Judogis - Blanco Talle 2,Blanco- Talle 2/150,Unidad,2
+Judo,Judo,20,"Judogis - Blanco Talle 2,5",Blanco- Talle 2.5/155,Unidad,3
+Judo,Judo,20,Judogis - Blanco Talle 3,Blanco- Talle 3/160,Unidad,2
+Judo,Judo,20,"Judogis - Blaco Talle 3,5",Blanco- Talle 3.5/165,Unidad,2
+Judo,Judo,20,Judogis - Blanco Talle 4,Blanco- Talle 4/170,Unidad,2
+Judo,Judo,20,"Judogis - Blanco Talle 4,5",Blanco- Talle 4.5/175,Unidad,2
+Judo,Judo,20,Judogis - Blanco Talle 5,Blanco- Talle 5.0/180,Unidad,3
+Judo,Judo,20,"Judogis - Blanco Talle 5,5",Blanco- Talle 5.5/185,Unidad,3
+Judo,Judo,20,Judogis - Blanco Talle 6,Blanco- Talle 6.0/190,Unidad,2
+Judo,Judo,20,"Judogis - Blanco Talle 6,5",Blanco- Talle 6.5/195,Unidad,3
+Judo,Judo,20,Judogis - Blanco Talle 7,Blanco- Talle 7.0/200,Unidad,2
+Judo,Judo,20,"Judogis - Blanco Talle 7,5",Blanco- Talle 7.5/205,Unidad,2
+Judo,Judo,20,Judogis - Blanco Talle 8,Blanco- Talle 8.0/210,Unidad,2
+Judo,Judo,20,Colchonetas (rojo),"Colchonetas, 2000mm x 1000mm x 50mm, Rojo
 FOP:224, WU:224, De repuesto: 12",Unidad,460
-Judo,Judo,20,Colchonetas,"Colchonetas, 2000mm x 1000mm x 50mm, Amarillo
+Judo,Judo,20,Colchonetas (amarillo),"Colchonetas, 2000mm x 1000mm x 50mm, Amarillo
 FOP: 100, WU:100, De repuesto : 10",Unidad,210
-Judo,Judo,20,Colchonetas,"Colchonetas, 2000mm x 1000mm x 50mm para el campo de entrenamiento (30 m x 30 m)",Unidad,450
-Judo,Judo,20,Colchonetas,"3m x 2m x 0,3m, estilo gimnasia (Entrenamiento- aterrizaje sin piezas metálicas)",Unidad,6
+Judo,Judo,20,Colchonetas para campo de entrenamiento,"Colchonetas, 2000mm x 1000mm x 50mm para el campo de entrenamiento (30 m x 30 m)",Unidad,450
+Judo,Judo,20,Colchonetas estilo gimnasia,"3m x 2m x 0,3m, estilo gimnasia (Entrenamiento- aterrizaje sin piezas metálicas)",Unidad,6
 Judo,Judo,20,Pinzas para medir,Medidor estilo pinzas (específico para el deporte) - SOKUTEIKI,Unidad,10
 Judo,Judo,20,Sistema IJF CARE Sillas giratorias,"Sillas de oficina giratorias, posibilidad de cambiar de altura",Unidad,4
 Judo,Judo,20,Sistema IJF CARE Cables para videocámaras,"Sistema IJF CARE - 8 HD-SDI, cables BNC de las cámaras de arbitro a la posición de la Comisión de Arbitro Principal ",Unidad,8
 Judo,Judo,20,Sistema IJF CARE Trípodes para videocámaras,Sistema IJF CARE  - trípodes de videocámaras para el sistema de IJF CARE,Unidad,8
 Judo,Judo,20,Sistema IJF CARE Cámaras de video,Sistema IJF CARE - Cámaras de alta definición completas con salida HD-SDI,Unidad,8
-Judo,Judo,20,Sistema IJ CARE,"Sistema IJF CARE, Cables HDSDi con conectores BNC con emisión de radiodifusión desde la fuente hasta la posición de Arbitro Principal",Unidad,1
-Pentatlon Moderno,ESGRIMA,20,Pistas de aluminio,Pistas de Esgrima,Unidad,16
-Pentatlon Moderno,ESGRIMA,20,Pista de Bonus Round,Pistas de Esgrima,Unidad,1
-Pentatlon Moderno,ESGRIMA,20,Aparato con adaptador,Aparato para Esgrima,Unidad,10
-Pentatlon Moderno,ESGRIMA,20,Adaptador,Conectar carretes y aparatos,Unidad,30
-Pentatlon Moderno,ESGRIMA,20,"Adhesivo ""Stickers""",Para verificar el equipo probado,Unidad,200
-Pentatlon Moderno,ESGRIMA,20,Numeros de Inicio individual,"12cmX6cm, para la máscara (lados)",Par,2
-Pentatlon Moderno,ESGRIMA,20,Numeros de Inicio individual,20cmX20cm para la espalda,Par,1
-Pentatlon Moderno,ESGRIMA,20,Numeros de Inicio de Relevos,"12cmX6cm,para la máscara (lados) +A/B",Par,2
-Pentatlon Moderno,ESGRIMA,20,Numeros de Inicio de Relevos,20cmX20cm para la espalda + A/B,Unidad,1
-Pentatlon Moderno,ESGRIMA,20,Probador de máscara,Prueba del desorden de la máscara para asegurar que no se disemine,Unidad,3
-Pentatlon Moderno,ESGRIMA,20,GABARIT,"Para medir la flexibilidad, la longitud de la espada y el diámetro de la protección.",Unidad,1
-Pentatlon Moderno,ESGRIMA,20,"Caja de prueba ""beneficio""","Prueba: Espadas, alambres del cuerpo",Unidad,2
-Pentatlon Moderno,ESGRIMA,20,Medidores,Para medir la distancia entre el punto de las espadas y la hoja.,Unidad,12
-Pentatlon Moderno,ESGRIMA,20,Peso,Para medir las espadas,Unidad,12
-Pentatlon Moderno,ESGRIMA,20,Carretes,,Unidad,48
-Pentatlon Moderno,ESGRIMA,20,Batería,Baterías para aparatos,Unidad,40
-Pentatlon Moderno,ESGRIMA,20,Tarjeta de penalización,,Unidad,12
-Pentatlon Moderno,ESGRIMA,20,Cartulina,,Unidad,12
-Pentatlon Moderno,ESGRIMA,20,Valla,Para cerrar la FOP,Unidad,1
-Pentatlon Moderno,ESGRIMA,20,Mesa para aparatos,,Unidad,12
-Pentatlon Moderno,ESGRIMA,20,Mesa para el jurado y el D.T.,,Unidad,3
-Pentatlon Moderno,ESGRIMA,20,Sillas para atletas,,Unidad,48
-Pentatlon Moderno,ESGRIMA,20,Sillas para el jurado,,Unidad,12
-Pentatlon Moderno,ESGRIMA,20,Sillas para voluntarios,,Unidad,24
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Blancos laser,,Unidad,26
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Pistolas láser (sin empuñaduras),,Unidad,28
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Empuñaduras del pistola láser,,Unidad,50
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Caja de Control,Caja para controlar las dimensiones de pistolas de aire,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Pesos de Gatillo,Peso del gatillo de pistola de aire,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Balanza Electrica,Peso de pistola de aire /CO2 Cilandros-5kg cap.& 1g acc.,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Mesas,"Para atletas(0,7M-0,8M de altura),con el numero del blanco",Mts,26
-Pentatlon Moderno,TIRO PARA COMBINADO,20,"Adhesivos ""Stickers""",Para verificar que las pistolas fueron probadas,Unidad,160
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Numero del blanco,Marcar los blancos,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Cronómetro,Reserva,Unidad,24
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Tarjeta de penalización,,Set,2
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Puertas de incio,,Unidad,2
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Linea de meta,,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Gantry,Puerta de Inicio/Final,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Reloj de Carrera,Pantalla Grande,Unidad,2
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Camara de Inicio,,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Cinta del curso,Marcar el curso de la carrera,,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Numeros de Inicio individual,De espalda 15cm X 10cm  del frente un maximo de 20cm X 20cm ,Set,2
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Numeros de Inicio de Relevos,Igual pero con A y B,Unidad,2
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Pistola de arranque,,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Panel de inicio de fallos,,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Marcador de distancia de la pista,1 para cada 500M ,Unidad,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Estacas de la pista,Marcar el curso de la carrera 0.5M,,1
-Pentatlon Moderno,TIRO PARA COMBINADO,20,Cartulina,Para el uso por los jueces,Unidad,24
+Judo,Judo,20,Sistema IJ CARE Cables HDSDi,"Sistema IJF CARE, Cables HDSDi con conectores BNC con emisión de radiodifusión desde la fuente hasta la posición de Arbitro Principal",Unidad,1
+Pentatlón Moderno,ESGRIMA,20,Pistas de aluminio,Pistas de Esgrima,Unidad,16
+Pentatlón Moderno,ESGRIMA,20,Pista de Bonus Round,Pistas de Esgrima,Unidad,1
+Pentatlón Moderno,ESGRIMA,20,Aparato con adaptador,Aparato para Esgrima,Unidad,10
+Pentatlón Moderno,ESGRIMA,20,Adaptadores,Conectar carretes y aparatos,Unidad,30
+Pentatlón Moderno,ESGRIMA,20,"Adhesivo ""Stickers""",Para verificar el equipo probado,Unidad,200
+Pentatlón Moderno,ESGRIMA,20,Números de Inicio individual para la máscara,"12cmX6cm, para la máscara (lados)",Par,2
+Pentatlón Moderno,ESGRIMA,20,Números de Inicio individual para la espalda,20cmX20cm para la espalda,Par,1
+Pentatlón Moderno,ESGRIMA,20,Números de Inicio de Relevos para la máscara,"12cmX6cm,para la máscara (lados) +A/B",Par,2
+Pentatlón Moderno,ESGRIMA,20,Números de Inicio de Relevos para la espalda,20cmX20cm para la espalda + A/B,Unidad,1
+Pentatlón Moderno,ESGRIMA,20,Probador de máscara,Prueba del desorden de la máscara para asegurar que no se disemine,Unidad,3
+Pentatlón Moderno,ESGRIMA,20,GABARIT,"Para medir la flexibilidad, la longitud de la espada y el diámetro de la protección.",Unidad,1
+Pentatlón Moderno,ESGRIMA,20,"Caja de prueba ""beneficio""","Prueba: Espadas, alambres del cuerpo",Unidad,2
+Pentatlón Moderno,ESGRIMA,20,Medidores,Para medir la distancia entre el punto de las espadas y la hoja.,Unidad,12
+Pentatlón Moderno,ESGRIMA,20,Peso para medir espadas,Para medir las espadas,Unidad,12
+Pentatlón Moderno,ESGRIMA,20,Carretes,,Unidad,48
+Pentatlón Moderno,ESGRIMA,20,Baterías,Baterías para aparatos,Unidad,40
+Pentatlón Moderno,ESGRIMA,20,Tarjetas de penalización,,Unidad,12
+Pentatlón Moderno,ESGRIMA,20,Cartulinas,,Unidad,12
+Pentatlón Moderno,ESGRIMA,20,Valla,Para cerrar la FOP,Unidad,1
+Pentatlón Moderno,ESGRIMA,20,Mesas para aparatos,,Unidad,12
+Pentatlón Moderno,ESGRIMA,20,Mesas para el jurado y el D.T.,,Unidad,3
+Pentatlón Moderno,ESGRIMA,20,Sillas para atletas,,Unidad,48
+Pentatlón Moderno,ESGRIMA,20,Sillas para el jurado,,Unidad,12
+Pentatlón Moderno,ESGRIMA,20,Sillas para voluntarios,,Unidad,24
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Blancos láser,,Unidad,26
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Pistolas láser (sin empuñaduras),,Unidad,28
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Empuñaduras de pistola láser,,Unidad,50
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Caja de Control,Caja para controlar las dimensiones de pistolas de aire,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Pesos de Gatillo,Peso del gatillo de pistola de aire,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Balanza Eléctrica,Peso de pistola de aire /CO2 Cilandros-5kg cap.& 1g acc.,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Mesas,"Para atletas(0,7M-0,8M de altura),con el numero del blanco",Mts,26
+Pentatlón Moderno,TIRO PARA COMBINADO,20,"Adhesivos ""Stickers""",Para verificar que las pistolas fueron probadas,Unidad,160
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Número del blanco,Marcar los blancos,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Cronómetros,Reserva,Unidad,24
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Tarjeta de penalización,,Set,2
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Puertas de inicio,,Unidad,2
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Línea de meta,,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Gantry,Puerta de Inicio/Final,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Reloj de Carrera,Pantalla Grande,Unidad,2
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Cámara de Inicio,,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Cinta del curso,Marcar el curso de la carrera,,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Números de Inicio individual,De espalda 15cm X 10cm  del frente un maximo de 20cm X 20cm ,Set,2
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Números de Inicio de Relevos,Igual pero con A y B,Unidad,2
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Pistola de arranque,,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Panel de inicio de fallos,,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Marcador de distancia de la pista,1 para cada 500M ,Unidad,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Estacas de la pista,Marcar el curso de la carrera 0.5M,,1
+Pentatlón Moderno,TIRO PARA COMBINADO,20,Cartulina,Para el uso por los jueces,Unidad,24
 Remo,Remo,20,Botes individuales,Barcos de carrera para la competición individual,Unidad,52
 Remo,Remo,20,Botes doble par,Barcos de carrera para la competición en pareja,Unidad,28
-Remo,Remo,20,Remo,Remos competicion indivicual,Par,60
-Remo,Remo,20,Remo,Remospara competicion en parejas,Unidad,66
-Remo,Remo,20,Remorgometros,Ergometros de remo,Unidad,20
-Remo,Remo,20,Pista de Remo,Curso de competición y entrenamiento de remo.,Unidad,2
+Remo,Remo,20,Remo competencia individual,Remos competicion indivicual,Par,60
+Remo,Remo,20,Remo competencia en parejas,Remospara competicion en parejas,Unidad,66
+Remo,Remo,20,Remorgómetros,Ergometros de remo,Unidad,20
+Remo,Remo,20,Pistas de Remo,Curso de competición y entrenamiento de remo.,Unidad,2
 Baile deportivo,Baile deportivo,20,Pisos,piso de mdf/hdf,placas,12
-Tenis de mesa,Tenis de mesa,20,Cancha,Pisos para las canchas,Unidad,24
-Tenis de mesa,Tenis de mesa,20,Mesa,Mesas para las competiciones de Tenis de Mesa,Unidad,24
-Tenis de mesa,Tenis de mesa,20,Pelota,Pelotas oficiales para Tenis de mesa,Unidad,2880
+Tenis de mesa,Tenis de mesa,20,Canchas,Pisos para las canchas,Unidad,24
+Tenis de mesa,Tenis de mesa,20,Mesas,Mesas para las competiciones de Tenis de Mesa,Unidad,24
+Tenis de mesa,Tenis de mesa,20,Pelotas,Pelotas oficiales para Tenis de mesa,Unidad,2880
 Tenis de mesa,Tenis de mesa,20,Separadores,Separación entre las canchas,Unidad,1
 Tenis de mesa,Tenis de mesa,20,Cajas para las toallas,,Set,26
-Tenis de mesa,Tenis de mesa,20,Marcador,,Pieza,12
+Tenis de mesa,Tenis de mesa,20,Marcadores,,Pieza,12
 Tenis de mesa,Tenis de mesa,20,Herramientas de umpire,,Set,1
 Tenis de mesa,Tenis de mesa,20,Tarjetas de tiempo fuera,,Set,1
-Tenis de mesa,Tenis de mesa,20,Silla especial de umpire,,Pieza,4
-Tenis de mesa,Tenis de mesa,20,Silla de asistente de umpire,,Pieza,6
-Tenis de mesa,Tenis de mesa,20,Mesa de umpire,,Pieza,6
-Tenis,Tenis,20,Pelota de tenis,"Utilizado para la competición / entrenamiento;
+Tenis de mesa,Tenis de mesa,20,Sillas especiales de umpire,,Pieza,4
+Tenis de mesa,Tenis de mesa,20,Sillas de asistentes de umpire,,Pieza,6
+Tenis de mesa,Tenis de mesa,20,Mesas de umpire,,Pieza,6
+Tenis,Tenis,20,Pelotas de tenis,"Utilizado para la competición / entrenamiento;
 La elasticidad, el tamaño y la deformación cumplen con los requisitos del índice I de las reglas del tenis",Dozens,415
-Tenis,Tenis,20,Silla de Umpire (arbitro general),"1.82m-2.4m; estable, seguro, cómodo y de color oscuro; Con respaldo y apoyabrazos; Con toldo o una sombrillaque  puede ser instalado",Unidad,16
+Tenis,Tenis,20,Sillas de Umpire (árbitro general),"1.82m-2.4m; estable, seguro, cómodo y de color oscuro; Con respaldo y apoyabrazos; Con toldo o una sombrillaque  puede ser instalado",Unidad,16
 Tenis,Tenis,20,Palo Simple,"Columna cuadrada con el lado de longitud de 7,5 cm o cilindro con el diámetro de 7,5 cm; 1.07m de altura; Utilizado para sostener el cable de red",Unidad,46
-Tenis,Tenis,20,Poste de Red,"Para competición / entrenamiento, columna cuadrada con la longitud lateral de 15cm o cilindro con el diámetro de 15cm",Unidad,23
-Tenis,Tenis,20,Red de Tenis,"Incluye la correa, la correa central, el cable de red y la manivela",Unidad,23
-Tenis,Tenis,20,Correa central de repuesta,Para competición / entrenamiento; El Blancostrap se utiliza para establecer la altura de la red en el centro,Unidad,23
-Tenis,Tenis,20,Cable de red de reserva,Cable de acero utilizado para colgar la red,Unidad,5
-Equipo Triatlon ,Equipo Triatlon ,20,Toalla Chica,Para el entrenamiento del atleta,Unidad,150
-Equipo Triatlon ,Equipo Triatlon ,20,Toalla de Baño,"Para atletas, con el ""Look"" de los Juegos",Unidad,150
-Equipo Triatlon ,Equipo Triatlon ,20,Botella Plastica de Agua,"0,5l botellas plasticas de agua para bicicletas",Unidad,100
-Equipo Triatlon ,Equipo Triatlon ,20,Botella Plastica de Agua,"0,75l botellas plasticas de agua para bicicletas",Unidad,100
-Equipo Triatlon ,Equipo Triatlon ,20,Traje Alternativo Triathlon,"Cada dos trajes en S, M, L, XL, XXL",Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Gorra de natación,"Dos gorras para cada atleta, en color tematica de los Juegos Olimpicos Juveniles,  material de silicona, impreso con el número de carreras de atleta, código de país y el ""Look"" de los Juegos",Unidad,150
-Equipo Triatlon ,Equipo Triatlon ,20,Número de tatuaje,"8 números para cada atleta (1 juego); Números de impresión son 5cm de altura, y números de secuencia son 1-33 (masculino y femenino son los mismos, no hay el número ""13"")",Set,70
-Equipo Triatlon ,Equipo Triatlon ,20,"Numeros Auto-adhesivas ""Stickers""","Para los cascos del atleta, caja de almacenaje para las áreas de la transición y la bolsa de deportes; Cada atleta tiene 6 stickers (1 juego); Los números de secuencia son 1-33 (masculino y feminina son iguales, no hay el número ""13"")",Set,70
-Equipo Triatlon ,Equipo Triatlon ,20,"Numeros Auto-adhesivas ""Stickers""","Para las bicicletas del atleta; cada atleta tiene 2 stickers(1 juego); Los números de secuencia son 1-33 (masculino y feminina son iguales, no hay el número ""13"")",Set,70
-Equipo Triatlon ,Equipo Triatlon ,20,Tarjeta de identificación del atleta,"Para racks de bicicletas de carreras individuales en la zona de transición, tamaño A4, plástico, 3 tarjetas para cada conjunto; Impreso con Look de los Juegos; Los números de secuencia son 1-33 (masculino y feminina son iguales, no hay el número ""13"")",Set,70
-Equipo Triatlon ,Equipo Triatlon ,20,Tarjeta de identificación del equipo,"Para racks de bicicletas de carrera de relevos en la zona de transición, tamaño A4, plástico, 3 tarjetas para cada conjunto; Impreso con Look de los Juegos; Los numeros de sequencia son 1-17 (no hay el numero ""13"")",Set,18
-Equipo Triatlon ,Equipo Triatlon ,20,Tabla de contar vuelta,"Número: 1-4, 100cm × 75cm, doble cara, una para cada número",Set,1
-Equipo Triatlon ,Equipo Triatlon ,20,Placa de inspección para manillar,"Plato plano, 60cm × 40cm, con un nivel",Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Bandera Amarilla,"frente a la bandera: 30cm x 40cm, longitud del poste: 60cm",Unidad,130
-Equipo Triatlon ,Equipo Triatlon ,20,Bandera Roja,"frente a la bandera: 30cm x 40cm, longitud del poste: 60cm",Unidad,130
-Equipo Triatlon ,Equipo Triatlon ,20,Tarjeta Roja,"Base de plástico duro, 12cm×8cm",Unidad,30
-Equipo Triatlon ,Equipo Triatlon ,20,Tarjeta Amarilla,"Base de plástico duro, 12cm×8cm",Unidad,30
-Equipo Triatlon ,Equipo Triatlon ,20,Birome impermeable,"Marcador grueso, para el número de escritura alternativa; efecto impermeable es muy importante, por favor intente en el momento de la compra!",Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Cronómetro,"Cronómetro para medir el tiempo de juego, con funciones de división de tiempo y la memoria",Unidad,6
-Equipo Triatlon ,Equipo Triatlon ,20,Sirena de Arranque,"Sirena de arranque con cilindro de aire de compresión de mano, como una señal de partida alternativo",Unidad,6
-Equipo Triatlon ,Equipo Triatlon ,20,Campana de cobre,"Para alertar a los atletas sobre la última vuelta en los juegos de ciclismo y correr, con la base",Set,1
-Equipo Triatlon ,Equipo Triatlon ,20,Pinza y pluma,,Set,50
-Equipo Triatlon ,Equipo Triatlon ,20,Sobre Grande,"Sobre grande A4, usado para empacar números de carreras",Unidad,150
-Equipo Triatlon ,Equipo Triatlon ,20,Cinta métrica de 50 metros,Para medir la distancia dentro de las regiones de carrera,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Desinfectante de manos,Para funcionarios técnicos,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Toalla Chica,Para funcionarios técnicos,Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Cinta Transparente,Para funcionarios técnicos (5CM wide),Unidad,20
-Equipo Triatlon ,Equipo Triatlon ,20,Cinta Ancha,"Cintas anchas en diferentes colores, utilizadas para cubrir logos de patrocinadores que no cumplen con las reglas
+Tenis,Tenis,20,Postes de Red,"Para competición / entrenamiento, columna cuadrada con la longitud lateral de 15cm o cilindro con el diámetro de 15cm",Unidad,23
+Tenis,Tenis,20,Redes de Tenis,"Incluye la correa, la correa central, el cable de red y la manivela",Unidad,23
+Tenis,Tenis,20,Correas centrales de repuesta,Para competición / entrenamiento; El Blancostrap se utiliza para establecer la altura de la red en el centro,Unidad,23
+Tenis,Tenis,20,Cables de red de reserva,Cable de acero utilizado para colgar la red,Unidad,5
+Equipo Triatlón ,Equipo Triatlón ,20,Toallas Chicas,Para el entrenamiento del atleta,Unidad,150
+Equipo Triatlón ,Equipo Triatlón ,20,Toallas de Baño,"Para atletas, con el ""Look"" de los Juegos",Unidad,150
+Equipo Triatlón ,Equipo Triatlón ,20,"Botellas Plásticas de Agua (0,5 l)","0,5l botellas plasticas de agua para bicicletas",Unidad,100
+Equipo Triatlón ,Equipo Triatlón ,20,Botellas Plásticas de Agua (0.75 l),"0,75l botellas plasticas de agua para bicicletas",Unidad,100
+Equipo Triatlón ,Equipo Triatlón ,20,Trajes Alternativo Triathlon,"Cada dos trajes en S, M, L, XL, XXL",Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Gorras de natación,"Dos gorras para cada atleta, en color tematica de los Juegos Olimpicos Juveniles,  material de silicona, impreso con el número de carreras de atleta, código de país y el ""Look"" de los Juegos",Unidad,150
+Equipo Triatlón ,Equipo Triatlón ,20,Números de tatuaje,"8 números para cada atleta (1 juego); Números de impresión son 5cm de altura, y números de secuencia son 1-33 (masculino y femenino son los mismos, no hay el número ""13"")",Set,70
+Equipo Triatlón ,Equipo Triatlón ,20,"Números Auto-adhesivas ""Stickers""","Para los cascos del atleta, caja de almacenaje para las áreas de la transición y la bolsa de deportes; Cada atleta tiene 6 stickers (1 juego); Los números de secuencia son 1-33 (masculino y feminina son iguales, no hay el número ""13"")",Set,70
+Equipo Triatlón ,Equipo Triatlón ,20,"Números Auto-adhesivas ""Stickers""","Para las bicicletas del atleta; cada atleta tiene 2 stickers(1 juego); Los números de secuencia son 1-33 (masculino y feminina son iguales, no hay el número ""13"")",Set,70
+Equipo Triatlón ,Equipo Triatlón ,20,Tarjetas de identificación del atleta,"Para racks de bicicletas de carreras individuales en la zona de transición, tamaño A4, plástico, 3 tarjetas para cada conjunto; Impreso con Look de los Juegos; Los números de secuencia son 1-33 (masculino y feminina son iguales, no hay el número ""13"")",Set,70
+Equipo Triatlón ,Equipo Triatlón ,20,Tarjetas de identificación del equipo,"Para racks de bicicletas de carrera de relevos en la zona de transición, tamaño A4, plástico, 3 tarjetas para cada conjunto; Impreso con Look de los Juegos; Los numeros de sequencia son 1-17 (no hay el numero ""13"")",Set,18
+Equipo Triatlón ,Equipo Triatlón ,20,Tabla de contar vuelta,"Número: 1-4, 100cm × 75cm, doble cara, una para cada número",Set,1
+Equipo Triatlón ,Equipo Triatlón ,20,Placas de inspección para manillar,"Plato plano, 60cm × 40cm, con un nivel",Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Banderas Amarillas,"frente a la bandera: 30cm x 40cm, longitud del poste: 60cm",Unidad,130
+Equipo Triatlón ,Equipo Triatlón ,20,Banderas Rojas,"frente a la bandera: 30cm x 40cm, longitud del poste: 60cm",Unidad,130
+Equipo Triatlón ,Equipo Triatlón ,20,Tarjetas Rojas,"Base de plástico duro, 12cm×8cm",Unidad,30
+Equipo Triatlón ,Equipo Triatlón ,20,Tarjetas Amarillas,"Base de plástico duro, 12cm×8cm",Unidad,30
+Equipo Triatlón ,Equipo Triatlón ,20,Biromes impermeables,"Marcador grueso, para el número de escritura alternativa; efecto impermeable es muy importante, por favor intente en el momento de la compra!",Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Cronómetros,"Cronómetro para medir el tiempo de juego, con funciones de división de tiempo y la memoria",Unidad,6
+Equipo Triatlón ,Equipo Triatlón ,20,Sirenas de Arranque,"Sirena de arranque con cilindro de aire de compresión de mano, como una señal de partida alternativo",Unidad,6
+Equipo Triatlón ,Equipo Triatlón ,20,Campana de cobre,"Para alertar a los atletas sobre la última vuelta en los juegos de ciclismo y correr, con la base",Set,1
+Equipo Triatlón ,Equipo Triatlón ,20,Pinza y pluma,,Set,50
+Equipo Triatlón ,Equipo Triatlón ,20,Sobres Grandes,"Sobre grande A4, usado para empacar números de carreras",Unidad,150
+Equipo Triatlón ,Equipo Triatlón ,20,Cinta métrica de 50 metros,Para medir la distancia dentro de las regiones de carrera,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Desinfectante de manos,Para funcionarios técnicos,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Toallas Chicas,Para funcionarios técnicos,Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Cintas Transparentes,Para funcionarios técnicos (5CM wide),Unidad,20
+Equipo Triatlón ,Equipo Triatlón ,20,Cintas Anchas,"Cintas anchas en diferentes colores, utilizadas para cubrir logos de patrocinadores que no cumplen con las reglas
 Tres rollos por negro, blanco, rojo, azul, amarillo y verde",Unidad,18
-Equipo Triatlon ,Equipo Triatlon ,20,Regla de acero de 1 metro de longitud,,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Tijeras Chicas,,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Linterna,,Unidad,3
-Equipo Triatlon ,Equipo Triatlon ,20,Agujas e hilos,"Para suturar cremalleras que exceden el límite de longitud, con hilos en diferentes colores",Set,2
-Equipo Triatlon ,Equipo Triatlon ,20,Adhesivos de doble cara,2CM de ancho,Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Bicicleta de montaña,Para la carrera principal y de cola,Unidad,4
-Equipo Triatlon ,Equipo Triatlon ,20,Casco de bicicleta,"Vario tamaño, Cumpliendo con las normas de seguridad",Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Escúteres,"Pedal-type booster motorcycle, driven by technical officials",Unidad,4
-Equipo Triatlon ,Equipo Triatlon ,20,Motocicleta,"No menos de 600cc, con un conductor, para funcionarios técnicos and media",Unidad,4
-Equipo Triatlon ,Equipo Triatlon ,20,Chaleco Simple,"Azul, La parte posterior se imprime con ""Direccion de Competencia"" y ""Gestión de la Competencia""",Unidad,80
-Equipo Triatlon ,Equipo Triatlon ,20,Chaleco Simple,"Verde, La parte posterior se imprime con ""Voluntario de Competencia"" ",Unidad,200
-Equipo Triatlon ,Equipo Triatlon ,20,Tarjeta FOB,"Para el personal de la Zona FOP, un cuarto del talle certificado, plástico, impreso con el Look de los Juegos, y fijado en el lado del certificado",Unidad,200
-Equipo Triatlon ,Equipo Triatlon ,20,Pulsera de Identificación para Acceso al Área,"Cada 50 en rojo, azul, verde y amarillo, con Look of the Games, descartable y reusable no disponible",Unidad,200
-Equipo Triatlon ,Equipo Triatlon ,20,"Etiqueta ""Sticker"" Fluerescente","Etiquetas ""Sticker"" Fluerescentes utilizado para pegarse a las motos y cascos de los atletas en el proceso de entrenamiento oficial, azul, de acuerdo con las especificaciones de pegatina para los cascos de carreras, pero sin números",Unidad,100
-Equipo Triatlon ,Equipo Triatlon ,20,"Etiqueta ""Sticker"" Fluerescente","Etiquetas ""Sticker"" Fluerescentes utilizado para pegarse a las motos y cascos de los atletas en el proceso de entrenamiento oficial, naranja, de acuerdo con las especificaciones de pegatina para los cascos de carreras, pero sin números",Unidad,100
-Equipo Triatlon ,Equipo Triatlon ,20,"Etiqueta ""Sticker"" Fluerescente","Etiquetas ""Sticker"" Fluerescentes utilizado para pegarse a las motos y cascos de los atletas en el proceso de entrenamiento oficial, verde, de acuerdo con las especificaciones de pegatina para los cascos de carreras, pero sin números",Unidad,100
-Equipo Triatlon ,Equipo Triatlon ,20,Mapa de carreteras de la FOP,"Mapa ampliado del curso para los equipos, y bosquejo del lugar principal, usado para la preparación y organización de la carrera",Set,5
-Equipo Triatlon ,Equipo Triatlon ,20,Bandera de Bote,"Blanco con cruz rojo, tamaño: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Bandera de Bote,"Rojo, estampada con ""Rescate"" en blanco, tamaño: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Bandera de Bote,"Azul, estampada con ""ITU"" en blanco, talle: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,3
-Equipo Triatlon ,Equipo Triatlon ,20,Bandera de Bote,"Verde, estampada con ""Foto"" en blanco, tamaño: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Bandera de Bote,"Verde, estampada con ""TV"" en blanco, tamaño: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Etiqueta de Motocicleta,"30cm×20cm, fijo sobre la motocicleta, texto: ""TO"", el Look de los Juegos",Unidad,6
-Equipo Triatlon ,Equipo Triatlon ,20,Etiqueta de Motocicleta,"30cm×20cm, fijo sobre la motocicleta, texto: ""Foto"", con el Look de los Juegos",Unidad,3
-Equipo Triatlon ,Equipo Triatlon ,20,Etiqueta de Motocicleta,"30cm×20cm, fijo sobre la motocicleta, texto: ""TV"", con el Look de los Juegos",Unidad,6
-Equipo Triatlon ,Equipo Triatlon ,20,"Etiqueta ""Sticker"" del Numero de Bote","Numeros 1-10, el numero tiene 15cm de altura",Unidad,8
-Equipo Triatlon ,Equipo Triatlon ,20,Sticker del Numero de Motocicleta,"Numeros 1-10, el numero tiene 15cm de altura",Unidad,12
-Equipo Triatlon ,Equipo Triatlon ,20,Telémetro de rueda,"Telémetro de empuje manual, para medir la distancia de las rutas de carreras",Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Termómetro de Agua,Para medir la temperatura del agua de la piscina,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Humidómetro,Para medir la humedad del lugar,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Altavoz Portátil,,Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Laminas para plastificar (A4),A4-tamaño,Unidad,100
-Equipo Triatlon ,Equipo Triatlon ,20,Laminas para plastificar (A3),Idéntico al tamaño de certificado,Unidad,300
-Equipo Triatlon ,Equipo Triatlon ,20,Agujereadora,El espacio entre agujeros es el ancho del certificado,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Candado de bicicleta,Cadena de la bicicleta,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Guantes de goma para uso médico,Para el personal de la Estación de Ayuda,Par,100
-Equipo Triatlon ,Equipo Triatlon ,20,Pitido,Para el voluntario de la competencia (auto-equipado por los oficiales técnicos),Unidad,50
-Equipo Triatlon ,Equipo Triatlon ,20,Equipo de Auxiliar para Motocicletas,"Casco de motocicleta, impermeable dividida, botas, rodilleras, etc.
+Equipo Triatlón ,Equipo Triatlón ,20,Reglas de acero de 1 metro de longitud,,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Tijeras Chicas,,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Linternas,,Unidad,3
+Equipo Triatlón ,Equipo Triatlón ,20,Agujas e hilos,"Para suturar cremalleras que exceden el límite de longitud, con hilos en diferentes colores",Set,2
+Equipo Triatlón ,Equipo Triatlón ,20,Adhesivos de doble cara,2CM de ancho,Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Bicicletas de montaña,Para la carrera principal y de cola,Unidad,4
+Equipo Triatlón ,Equipo Triatlón ,20,Cascos de bicicleta,"Vario tamaño, Cumpliendo con las normas de seguridad",Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Escúteres,"Pedal-type booster motorcycle, driven by technical officials",Unidad,4
+Equipo Triatlón ,Equipo Triatlón ,20,Motocicletas,"No menos de 600cc, con un conductor, para funcionarios técnicos and media",Unidad,4
+Equipo Triatlón ,Equipo Triatlón ,20,Chalecos Simples,"Azul, La parte posterior se imprime con ""Direccion de Competencia"" y ""Gestión de la Competencia""",Unidad,80
+Equipo Triatlón ,Equipo Triatlón ,20,Chalecos Simples,"Verde, La parte posterior se imprime con ""Voluntario de Competencia"" ",Unidad,200
+Equipo Triatlón ,Equipo Triatlón ,20,Tarjetas FOB,"Para el personal de la Zona FOP, un cuarto del talle certificado, plástico, impreso con el Look de los Juegos, y fijado en el lado del certificado",Unidad,200
+Equipo Triatlón ,Equipo Triatlón ,20,Pulseras de Identificación para Acceso al Área,"Cada 50 en rojo, azul, verde y amarillo, con Look of the Games, descartable y reusable no disponible",Unidad,200
+Equipo Triatlón ,Equipo Triatlón ,20,"Etiqueta ""Sticker"" Fluerescente","Etiquetas ""Sticker"" Fluerescentes utilizado para pegarse a las motos y cascos de los atletas en el proceso de entrenamiento oficial, azul, de acuerdo con las especificaciones de pegatina para los cascos de carreras, pero sin números",Unidad,100
+Equipo Triatlón ,Equipo Triatlón ,20,"Etiqueta ""Sticker"" Fluerescente","Etiquetas ""Sticker"" Fluerescentes utilizado para pegarse a las motos y cascos de los atletas en el proceso de entrenamiento oficial, naranja, de acuerdo con las especificaciones de pegatina para los cascos de carreras, pero sin números",Unidad,100
+Equipo Triatlón ,Equipo Triatlón ,20,"Etiqueta ""Sticker"" Fluerescente","Etiquetas ""Sticker"" Fluerescentes utilizado para pegarse a las motos y cascos de los atletas en el proceso de entrenamiento oficial, verde, de acuerdo con las especificaciones de pegatina para los cascos de carreras, pero sin números",Unidad,100
+Equipo Triatlón ,Equipo Triatlón ,20,Mapas de carreteras de la FOP,"Mapa ampliado del curso para los equipos, y bosquejo del lugar principal, usado para la preparación y organización de la carrera",Set,5
+Equipo Triatlón ,Equipo Triatlón ,20,Banderas de Bote (blanco con cruz roja),"Blanco con cruz rojo, tamaño: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,"Bandera de Bote (roja estampada con ""Rescate"")","Rojo, estampada con ""Rescate"" en blanco, tamaño: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,"Bandera de Bote (azul estampada con ""ITU"" en blanco)","Azul, estampada con ""ITU"" en blanco, talle: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,3
+Equipo Triatlón ,Equipo Triatlón ,20,"Bandera de Bote (verde estampada con ""Foto"" en blanco)","Verde, estampada con ""Foto"" en blanco, tamaño: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,"Bandera de Bote (verde estampada con ""TV"" en blanco)","Verde, estampada con ""TV"" en blanco, tamaño: 450mm×600mm, con el asta de la bandera para facilitar la fijación",Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,"Etiqueta de Motocicleta (texto: ""TO"")","30cm×20cm, fijo sobre la motocicleta, texto: ""TO"", el Look de los Juegos",Unidad,6
+Equipo Triatlón ,Equipo Triatlón ,20,"Etiqueta de Motocicleta (texto: ""Foto"")","30cm×20cm, fijo sobre la motocicleta, texto: ""Foto"", con el Look de los Juegos",Unidad,3
+Equipo Triatlón ,Equipo Triatlón ,20,"Etiqueta de Motocicleta (texto: ""TV"")","30cm×20cm, fijo sobre la motocicleta, texto: ""TV"", con el Look de los Juegos",Unidad,6
+Equipo Triatlón ,Equipo Triatlón ,20,"Etiqueta ""Sticker"" del Número de Bote","Numeros 1-10, el numero tiene 15cm de altura",Unidad,8
+Equipo Triatlón ,Equipo Triatlón ,20,Sticker del Número de Motocicleta,"Numeros 1-10, el numero tiene 15cm de altura",Unidad,12
+Equipo Triatlón ,Equipo Triatlón ,20,Telémetros de rueda,"Telémetro de empuje manual, para medir la distancia de las rutas de carreras",Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Termómetros de Agua,Para medir la temperatura del agua de la piscina,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Humidómetros,Para medir la humedad del lugar,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Altavoces Portátiles,,Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Láminas para plastificar (A4),A4-tamaño,Unidad,100
+Equipo Triatlón ,Equipo Triatlón ,20,Láminas para plastificar (A3),Idéntico al tamaño de certificado,Unidad,300
+Equipo Triatlón ,Equipo Triatlón ,20,Agujereadoras,El espacio entre agujeros es el ancho del certificado,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Candados de bicicleta,Cadena de la bicicleta,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Guantes de goma para uso médico,Para el personal de la Estación de Ayuda,Par,100
+Equipo Triatlón ,Equipo Triatlón ,20,Pitidos,Para el voluntario de la competencia (auto-equipado por los oficiales técnicos),Unidad,50
+Equipo Triatlón ,Equipo Triatlón ,20,Equipos de Auxiliar para Motocicletas,"Casco de motocicleta, impermeable dividida, botas, rodilleras, etc.
 (Para funcionarios técnicos y ocupantes de medios)",Set,12
-Equipo Triatlon ,Equipo Triatlon ,20,Carro de golf,"Con un carrito atrás, utilizado para la disposición del lugar ""layout"" y emergencia médica",Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Carro de golf,"Con asientos, utilizado para al personal de transporte",Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Lancha de motor,"4 metros de largo, al menos 50 caballos de fuerza; TO (3), Medio (2), Médico (1), Rescate (1), Copia de Seguridad (1)",Unidad,8
-Equipo Triatlon ,Equipo Triatlon ,20,Chaleco Salvavidas,Para el personal a bordo,Unidad,30
-Equipo Triatlon ,Equipo Triatlon ,20,Boya Salvavidas,Para el rescate acuático,Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Canoa/Kayak,Canoa/Kayak Chica (una persona) para rescate en el agua,Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Traje de baño salvavidas,Traje de baño salvavidas,Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Agua Mineral,"Para la Estación de Ayuda, el Salón de Atletas y el Área de Recuperación de Atletas, con congelador o helados en cubo (cada atleta tiene al menos 15 botellas)",Unidad,1000
-Equipo Triatlon ,Equipo Triatlon ,20,Numero de Modelo,"Dura Número de Modelo (hueco), ""0-9"", 20 cm de altura, que se utiliza como números en los bloques que comienzan con pintura.",Set,1
-Equipo Triatlon ,Equipo Triatlon ,20,Pintor del aerosol,"Más blanco Pintor del aerosol, que se utiliza para pintar el logotipo en los bloques que comienzan",Unidad,20
-Equipo Triatlon ,Equipo Triatlon ,20,Pintor del aerosol,"Más blanco Pintor del aerosol, que se utiliza para pintar el logotipo en los bloques que comienzan",Unidad,10
-Equipo Triatlon ,Equipo Triatlon ,20,Boya,"Amarillo, 5m (L)×1.2m (W), flotadores de cilindros, 850-1100 tejidos de PVC hermético con costuras de Altura densidad, con múltiples anillos de retención antioxidantes, válvula inflable para facilitar la inflación y un buen sellado, con el Look de los Juegos",Unidad,8
-Equipo Triatlon ,Equipo Triatlon ,20,Boya,"Amarillo, 2.5m (L)×1.2m (W), flotadores de cilindros, 850-1100 tejidos de PVC hermético con costuras de Altura densidad, con múltiples anillos de retención antioxidantes, válvula inflable para facilitar la inflación y un buen sellado, con el Look de los Juegos",Unidad,8
-Equipo Triatlon ,Equipo Triatlon ,20,Boya,"Red,1.5m (L)×1.2m (W), flotadores de cilindros, 850-1100 tejidos de PVC hermético con costuras de Altura densidad, con múltiples anillos de retención antioxidantes, válvula inflable para facilitar la inflación y un buen sellado, con el Look de los Juegos",Unidad,6
-Equipo Triatlon ,Equipo Triatlon ,20,Bomba inflable de flotador,Para inflar los flotadores,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Bloque de cemento,"Para arreglar flotadores, fundición de cemento, cuadrado, pesando 50kg. Con ganchos",Unidad,60
-Equipo Triatlon ,Equipo Triatlon ,20,Cuerda Elástica / Cadena / Clip de Anillo,Para la colocación de flotadores,Set,30
-Equipo Triatlon ,Equipo Triatlon ,20,Máquina de corte de cadena,Cortando cadenas para la colcación de flotadores,Unidad,2
-Equipo Triatlon ,Equipo Triatlon ,20,Soporte de bicicleta TZ,"Utilizado en TZ, soporte independiente, con el Look de los Juegos",Unidad,64
-Equipo Triatlon ,Equipo Triatlon ,20,Caja de Plástico para almacenamiento,"Utilizado en TZ, 45cm (L)X30cm (W)X25cm (A), azul, con el Look de los Juegos",Unidad,64
-Equipo Triatlon ,Equipo Triatlon ,20,Soporte de bicicleta,"""Vigas de trípode, cada conjunto es de 3m de largo y 1,1m de altura
+Equipo Triatlón ,Equipo Triatlón ,20,Carros de golf,"Con un carrito atrás, utilizado para la disposición del lugar ""layout"" y emergencia médica",Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Carros de golf,"Con asientos, utilizado para al personal de transporte",Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Lanchas de motor,"4 metros de largo, al menos 50 caballos de fuerza; TO (3), Medio (2), Médico (1), Rescate (1), Copia de Seguridad (1)",Unidad,8
+Equipo Triatlón ,Equipo Triatlón ,20,Chaleco sSalvavidas,Para el personal a bordo,Unidad,30
+Equipo Triatlón ,Equipo Triatlón ,20,Boyas Salvavidas,Para el rescate acuático,Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Canoa/Kayak,Canoa/Kayak Chica (una persona) para rescate en el agua,Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Trajes de baño salvavidas,Traje de baño salvavidas,Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,Agua Mineral,"Para la Estación de Ayuda, el Salón de Atletas y el Área de Recuperación de Atletas, con congelador o helados en cubo (cada atleta tiene al menos 15 botellas)",Unidad,1000
+Equipo Triatlón ,Equipo Triatlón ,20,Número de Modelo,"Dura Número de Modelo (hueco), ""0-9"", 20 cm de altura, que se utiliza como números en los bloques que comienzan con pintura.",Set,1
+Equipo Triatlón ,Equipo Triatlón ,20,Pintor del aerosol,"Más blanco Pintor del aerosol, que se utiliza para pintar el logotipo en los bloques que comienzan",Unidad,20
+Equipo Triatlón ,Equipo Triatlón ,20,Pintor del aerosol,"Más blanco Pintor del aerosol, que se utiliza para pintar el logotipo en los bloques que comienzan",Unidad,10
+Equipo Triatlón ,Equipo Triatlón ,20,"Boyas (5m x 1,2m)","Amarillo, 5m (L)×1.2m (W), flotadores de cilindros, 850-1100 tejidos de PVC hermético con costuras de Altura densidad, con múltiples anillos de retención antioxidantes, válvula inflable para facilitar la inflación y un buen sellado, con el Look de los Juegos",Unidad,8
+Equipo Triatlón ,Equipo Triatlón ,20,"Boyas (2,5m x 1,2m)","Amarillo, 2.5m (L)×1.2m (W), flotadores de cilindros, 850-1100 tejidos de PVC hermético con costuras de Altura densidad, con múltiples anillos de retención antioxidantes, válvula inflable para facilitar la inflación y un buen sellado, con el Look de los Juegos",Unidad,8
+Equipo Triatlón ,Equipo Triatlón ,20,"Boyas (1,5m x 1,2m)","Red,1.5m (L)×1.2m (W), flotadores de cilindros, 850-1100 tejidos de PVC hermético con costuras de Altura densidad, con múltiples anillos de retención antioxidantes, válvula inflable para facilitar la inflación y un buen sellado, con el Look de los Juegos",Unidad,6
+Equipo Triatlón ,Equipo Triatlón ,20,Bombas inflables de flotador,Para inflar los flotadores,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Bloques de cemento,"Para arreglar flotadores, fundición de cemento, cuadrado, pesando 50kg. Con ganchos",Unidad,60
+Equipo Triatlón ,Equipo Triatlón ,20,Cuerda Elástica / Cadena / Clip de Anillo,Para la colocación de flotadores,Set,30
+Equipo Triatlón ,Equipo Triatlón ,20,Máquinas de corte de cadena,Cortando cadenas para la colcación de flotadores,Unidad,2
+Equipo Triatlón ,Equipo Triatlón ,20,Soportes de bicicleta TZ,"Utilizado en TZ, soporte independiente, con el Look de los Juegos",Unidad,64
+Equipo Triatlón ,Equipo Triatlón ,20,Cajas de Plástico para almacenamiento,"Utilizado en TZ, 45cm (L)X30cm (W)X25cm (A), azul, con el Look de los Juegos",Unidad,64
+Equipo Triatlón ,Equipo Triatlón ,20,Soportes de bicicleta,"""Vigas de trípode, cada conjunto es de 3m de largo y 1,1m de altura
 Para colocar las bicicletas antes de los Juegos y colgar Ruedas de repuesto ",Set,35
-Equipo Triatlon ,Equipo Triatlon ,20,Piscina de hielo,"Piscina inflable o cubo grande, agregue hielo para enfriar a los atletas en condiciones de clima caluroso, colocados en el Área de Recuperación de Atletas",Set,4
-Equipo Triatlon ,Equipo Triatlon ,20,Cubeta de Hielo,"Para contener hielos en la estación de Ayuda, atletas área de recuperación y área médica",Unidad,15
-Equipo Triatlon ,Equipo Triatlon ,20,Bloque de Hielo,"Para contener hielos en la estación de Ayuda, atletas área de recuperación y área médica; la cantidad depende de las condiciones climaticas",Kg,100
-Equipo Triatlon ,Equipo Triatlon ,20,Bolsa de basura grande,"Se utiliza para recolectar botellas desperdiciadas en la Estación de Ayuda, Área de Recuperación de Atletas",Unidad,100
-Equipo Triatlon ,Equipo Triatlon ,20,Rueda trasera de bicicleta,Rueda trasera 700cc / 10 volante Shimano,Unidad,15
-Equipo Triatlon ,Equipo Triatlon ,20,Rueda trasera de bicicleta,Rueda trasera 650cc / 10 volante Shimano,Unidad,5
-Equipo Triatlon ,Equipo Triatlon ,20,Rueda delantera de la bicicleta,Rueda delantera 700cc Shimano,Unidad,15
-Equipo Triatlon ,Equipo Triatlon ,20,Rueda delantera de la bicicleta,Rueda delantera 650cc Shimano,Unidad,5
-Equipo Triatlon ,Equipo Triatlon ,20,Gancho con forma de S,Para colgar ruedas de repuesto,Unidad,60
-Equipo Triatlon ,Equipo Triatlon ,20,Cuerda de aislamiento,"Utilizado para el aislamiento de FOP, 5cm de ancho, con el Look de los Juegos",m,3000
-Equipo Triatlon ,Equipo Triatlon ,20,Conos,"Utilizado para el aislamiento de FOP, unos 30cm de altura, con el Look de los Juegos",Unidad,300
-Equipo Triatlon ,Equipo Triatlon ,20,Barrera de aislamiento duro,"Utilizado para el aislamiento de FOP, unos 1-1.2 metros de altura, 2 m de largo por unidad, candtitad en base de la ruta de la carrera, requerido para cerrar",m,7000
-Equipo Triatlon ,Equipo Triatlon ,20,Colchoneta,"Colchoneta roja, Para Área de Desmontaje, 0,5 m de ancho y 10 m de largo",Unidad,1
-Equipo Triatlon ,Equipo Triatlon ,20,Colchoneta,"Colchoneta verde, para área de Montaje, 0.5 m de ancho y 10 m de largo",Unidad,1
-Equipo Triatlon ,Equipo Triatlon ,20,Colchoneta,"Para la Final de Natación al Pasaje TZ, TZ y Entrada/Salida, paso alrededor de acabado total, fibra química, azul",m2,3000
-Equipo Triatlon ,Equipo Triatlon ,20,Carpa de Sombra,"Carpas de sombra sencillas, 3m × 3m, sin ningún tipo de diseño de publicidad, para la estación de la ayuda, la estación de rueda de repuesto, caja de penalización, etc.",Unidad,20
-Equipo Triatlon ,Equipo Triatlon ,20,Almohadilla protectora,"Aproximadamente 2m × 1.2m × 150mm, para los giros cerrados de la bicicleta y las áreas peligrosas, la cantidad se basa en las condiciones de la ruta de la carrera",Unidad,1
-Equipo Triatlon ,Equipo Triatlon ,20,Cinta de nylon (fácil de tirar del corchete),"40cm de largo, para conectar barreras duras y arreglando volutas",Unidad,3000
-Equipo Triatlon ,Equipo Triatlon ,20,Herramienta,Varias herramientas comunes para el diseño FOP,Set,3
-Equipo Triatlon ,Equipo Triatlon ,20,Bolsa de Arena,"Materiales a prueba de viento, para la fijación de barreras de aislamiento duro, señales, carpas, etc, adecuadamente embalado, hermoso y práctico, la cantidad se basa en la cantidad de equipos de arriba",Unidad,1
-Equipo Triatlon ,Equipo Triatlon ,20,Materiales impermeables,"Saco impermeable, paraguas, tela plástica, etc.",Set,1
-Equipo Triatlon ,Equipo Triatlon ,20,Equipo y Aparatos para Servicios de Reparación de Bicicletas,Proporcionado por proveedores de servicio de reparación de bicicletas,Set,1
-Levantamiento Olimpico,Levantamiento Olimpico,20,Plataforma de Competición,"4m x 4m x 0,1m ",Unidad,2
-Levantamiento Olimpico,Levantamiento Olimpico,20,Podio para la plataforma de competición,Construcción sólida que debe soportar la caída de casi 200kg desde 2 metros de altura.,Unidad,1
-Levantamiento Olimpico,Levantamiento Olimpico,20,Plataforma de Entrada en Calor,"3m x 2,5m or 3m x 3m ",Unidad,13
-Levantamiento Olimpico,Levantamiento Olimpico,20,Plataforma de Entrenamiento,"3m x 2,5m o 3m x 3m ",Unidad,32
-Levantamiento Olimpico,Levantamiento Olimpico,20,Barra (Hombres) competicion,Pieza ,Unidad,15
-Levantamiento Olimpico,Levantamiento Olimpico,20,Barra (Mujeres) competicion,Pieza ,Unidad,15
-Levantamiento Olimpico,Levantamiento Olimpico,20,Barra (hombres) entrenamiento,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Barra (mujeres) entrenamiento,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Competicion de 25kg (Rojo) ,Pieza ,Unidad,108
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Competicion de 20kg (Azul) ,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Competicion de 15kg (Amarillo) ,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Competicion de 10kg (Verde) ,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Competicion de 5kg (Blanco) ,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,"Disco de Competicion de 2,5kg (Red) ",Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Competicion de 2kg (Azul) ,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,"Disco de Competicion de 1,5kg (Amarillo) ",Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Competicion de 1kg (Verde) ,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Competicion de 0.5kg (Blanco) ,Pieza ,Unidad,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de 5kg de Tamaño Completo ,Pieza ,Unidad,2
-Levantamiento Olimpico,Levantamiento Olimpico,20,"Disco de 2,5kg de Tamaño Completo ",Pieza ,Unidad,2
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Entrenamiento de 25kg (Rojo) ,Pieza ,Unidad,244
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Entrenamiento de 20kg (Azul) ,Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Entrenamiento de 15kg (Amarillo) ,Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Entrenamiento de 10kg (Verde) ,Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Entrenamiento de 5kg (Blanco) ,Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20,"Disco de Entrenamiento de 2,5kg (Rojo) ",Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Entrenamiento de 2kg (Azul) ,Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20," Disco de Entrenamiento de 1,5kg (Amarillo)",Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20,Disco de Entrenamiento de 1kg (Verde) ,Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20,"Disco de Entrenamiento de 0,5kg (Blanco) ",Pieza ,Unidad,64
-Levantamiento Olimpico,Levantamiento Olimpico,20,"Collarines de competicion  de 2,5kg ",Par ,Par ,15
-Levantamiento Olimpico,Levantamiento Olimpico,20,"Collarines de entrenamiento  de 2,5kg ",Par,Par,30
-Levantamiento Olimpico,Levantamiento Olimpico,20,Estante para Discos de competicion,Pieza ,Unidad,3
-Levantamiento Olimpico,Levantamiento Olimpico,20,Estante para Discos de calentamiento y entrenamiento,Pieza ,Unidad,42
-Levantamiento Olimpico,Levantamiento Olimpico,20,Barrera de seguridad,Pieza ,Unidad,2
-Levantamiento Olimpico,Levantamiento Olimpico,20,Levantador de barra,Pieza ,Unidad,2
-Levantamiento Olimpico,Levantamiento Olimpico,20,Estante de sentadillas,Set (1 Pieza con 2 patas o 2 Piezas separadas),Set,17
-Levantamiento Olimpico,Levantamiento Olimpico,20,Caja de acceso,Par ,Par ,5
-Levantamiento Olimpico,Levantamiento Olimpico,20,Caja de Jerk,Par ,Par ,5
-Levantamiento Olimpico,Levantamiento Olimpico,20,Tabla de ejercisio de abdominales inclinado,- ,Unidad,3
-Levantamiento Olimpico,Levantamiento Olimpico,20,Máquina de Hiper Extensión,- ,Unidad,3
-Levantamiento Olimpico,Levantamiento Olimpico,20,Contenedor de Tiza,Pieza ,Unidad,44
-Levantamiento Olimpico,Levantamiento Olimpico,20,Contenedor Rosin,Pieza ,Unidad,44
-Levantamiento Olimpico,Levantamiento Olimpico,20,Bloque de Tiza,Tiza (MgCo2) (Carton) ,Unidad,32
-Levantamiento Olimpico,Levantamiento Olimpico,20,Resina,- ,Unidad,31
-Levantamiento Olimpico,Levantamiento Olimpico,20,Bandera de Decisión Manual (ROJO) ,Para su uso como copia de seguridad ,Unidad,3
-Levantamiento Olimpico,Levantamiento Olimpico,20,Bandera de Decisión Manual (BLANCO) ,Para su uso como copia de seguridad ,Unidad,3
+Equipo Triatlón ,Equipo Triatlón ,20,Piscinas de hielo,"Piscina inflable o cubo grande, agregue hielo para enfriar a los atletas en condiciones de clima caluroso, colocados en el Área de Recuperación de Atletas",Set,4
+Equipo Triatlón ,Equipo Triatlón ,20,Cubetas de Hielo,"Para contener hielos en la estación de Ayuda, atletas área de recuperación y área médica",Unidad,15
+Equipo Triatlón ,Equipo Triatlón ,20,Bloques de Hielo,"Para contener hielos en la estación de Ayuda, atletas área de recuperación y área médica; la cantidad depende de las condiciones climaticas",Kg,100
+Equipo Triatlón ,Equipo Triatlón ,20,Bolsas de basura grande,"Se utiliza para recolectar botellas desperdiciadas en la Estación de Ayuda, Área de Recuperación de Atletas",Unidad,100
+Equipo Triatlón ,Equipo Triatlón ,20,Ruedas trasera de bicicleta (700 cc),Rueda trasera 700cc / 10 volante Shimano,Unidad,15
+Equipo Triatlón ,Equipo Triatlón ,20,Ruedas trasera de bicicleta (650 cc),Rueda trasera 650cc / 10 volante Shimano,Unidad,5
+Equipo Triatlón ,Equipo Triatlón ,20,Ruedas delantera de la bicicleta (700cc),Rueda delantera 700cc Shimano,Unidad,15
+Equipo Triatlón ,Equipo Triatlón ,20,Ruedas delantera de la bicicleta (650cc),Rueda delantera 650cc Shimano,Unidad,5
+Equipo Triatlón ,Equipo Triatlón ,20,Ganchos con forma de S,Para colgar ruedas de repuesto,Unidad,60
+Equipo Triatlón ,Equipo Triatlón ,20,Cuerdas de aislamiento,"Utilizado para el aislamiento de FOP, 5cm de ancho, con el Look de los Juegos",m,3000
+Equipo Triatlón ,Equipo Triatlón ,20,Conos,"Utilizado para el aislamiento de FOP, unos 30cm de altura, con el Look de los Juegos",Unidad,300
+Equipo Triatlón ,Equipo Triatlón ,20,Barreras de aislamiento duro,"Utilizado para el aislamiento de FOP, unos 1-1.2 metros de altura, 2 m de largo por unidad, candtitad en base de la ruta de la carrera, requerido para cerrar",m,7000
+Equipo Triatlón ,Equipo Triatlón ,20,Colchoneta  para área de desmontaje,"Colchoneta roja, Para Área de Desmontaje, 0,5 m de ancho y 10 m de largo",Unidad,1
+Equipo Triatlón ,Equipo Triatlón ,20,Colchoneta para área de montaje,"Colchoneta verde, para área de Montaje, 0.5 m de ancho y 10 m de largo",Unidad,1
+Equipo Triatlón ,Equipo Triatlón ,20,Colchonetas ,"Para la Final de Natación al Pasaje TZ, TZ y Entrada/Salida, paso alrededor de acabado total, fibra química, azul",m2,3000
+Equipo Triatlón ,Equipo Triatlón ,20,Carpas de Sombra,"Carpas de sombra sencillas, 3m × 3m, sin ningún tipo de diseño de publicidad, para la estación de la ayuda, la estación de rueda de repuesto, caja de penalización, etc.",Unidad,20
+Equipo Triatlón ,Equipo Triatlón ,20,Almohadilla protectora,"Aproximadamente 2m × 1.2m × 150mm, para los giros cerrados de la bicicleta y las áreas peligrosas, la cantidad se basa en las condiciones de la ruta de la carrera",Unidad,1
+Equipo Triatlón ,Equipo Triatlón ,20,Cintas de nylon,"40cm de largo, para conectar barreras duras y arreglando volutas",Unidad,3000
+Equipo Triatlón ,Equipo Triatlón ,20,Herramientas,Varias herramientas comunes para el diseño FOP,Set,3
+Equipo Triatlón ,Equipo Triatlón ,20,Bolsa de Arena,"Materiales a prueba de viento, para la fijación de barreras de aislamiento duro, señales, carpas, etc, adecuadamente embalado, hermoso y práctico, la cantidad se basa en la cantidad de equipos de arriba",Unidad,1
+Equipo Triatlón ,Equipo Triatlón ,20,Materiales impermeables,"Saco impermeable, paraguas, tela plástica, etc.",Set,1
+Equipo Triatlón ,Equipo Triatlón ,20,Equipo y Aparatos para Servicios de Reparación de Bicicletas,Proporcionado por proveedores de servicio de reparación de bicicletas,Set,1
+Levantamiento Olímpico,Levantamiento Olímpico,20,Plataforma de Competición,"4m x 4m x 0,1m ",Unidad,2
+Levantamiento Olímpico,Levantamiento Olímpico,20,Podio para la plataforma de competición,Construcción sólida que debe soportar la caída de casi 200kg desde 2 metros de altura.,Unidad,1
+Levantamiento Olímpico,Levantamiento Olímpico,20,Plataformas de Entrada en Calor,"3m x 2,5m or 3m x 3m ",Unidad,13
+Levantamiento Olímpico,Levantamiento Olímpico,20,Plataformas de Entrenamiento,"3m x 2,5m o 3m x 3m ",Unidad,32
+Levantamiento Olímpico,Levantamiento Olímpico,20,Barras (Hombres) competición,Pieza ,Unidad,15
+Levantamiento Olímpico,Levantamiento Olímpico,20,Barras (Mujeres) competición,Pieza ,Unidad,15
+Levantamiento Olímpico,Levantamiento Olímpico,20,Barra (hombres) entrenamiento,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Barra (mujeres) entrenamiento,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Competición de 25kg (Rojo) ,Pieza ,Unidad,108
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Competición de 20kg (Azul) ,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Competición de 15kg (Amarillo) ,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Competición de 10kg (Verde) ,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Competición de 5kg (Blanco) ,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,"Discos de Competición de 2,5kg (Red) ",Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Competición de 2kg (Azul) ,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,"Discos de Competición de 1,5kg (Amarillo) ",Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Competición de 1kg (Verde) ,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Competición de 0.5kg (Blanco) ,Pieza ,Unidad,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de 5kg de Tamaño Completo ,Pieza ,Unidad,2
+Levantamiento Olímpico,Levantamiento Olímpico,20,"Discos de 2,5kg de Tamaño Completo ",Pieza ,Unidad,2
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Entrenamiento de 25kg (Rojo) ,Pieza ,Unidad,244
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Entrenamiento de 20kg (Azul) ,Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Entrenamiento de 15kg (Amarillo) ,Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Entrenamiento de 10kg (Verde) ,Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos. de Entrenamiento de 5kg (Blanco) ,Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,"Discos de Entrenamiento de 2,5kg (Rojo) ",Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Entrenamiento de 2kg (Azul) ,Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,"Discos de Entrenamiento de 1,5kg (Amarillo)",Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,Discos de Entrenamiento de 1kg (Verde) ,Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,"Discos de Entrenamiento de 0,5kg (Blanco) ",Pieza ,Unidad,64
+Levantamiento Olímpico,Levantamiento Olímpico,20,"Collarines de competicion  de 2,5kg ",Par ,Par ,15
+Levantamiento Olímpico,Levantamiento Olímpico,20,"Collarines de entrenamiento  de 2,5kg ",Par,Par,30
+Levantamiento Olímpico,Levantamiento Olímpico,20,Estantes para Discos de competición,Pieza ,Unidad,3
+Levantamiento Olímpico,Levantamiento Olímpico,20,Estantes para Discos de calentamiento y entrenamiento,Pieza ,Unidad,42
+Levantamiento Olímpico,Levantamiento Olímpico,20,Barreras de seguridad,Pieza ,Unidad,2
+Levantamiento Olímpico,Levantamiento Olímpico,20,Levantadores de barra,Pieza ,Unidad,2
+Levantamiento Olímpico,Levantamiento Olímpico,20,Estantes de sentadillas,Set (1 Pieza con 2 patas o 2 Piezas separadas),Set,17
+Levantamiento Olímpico,Levantamiento Olímpico,20,Cajas de acceso,Par ,Par ,5
+Levantamiento Olímpico,Levantamiento Olímpico,20,Cajas de Jerk,Par ,Par ,5
+Levantamiento Olímpico,Levantamiento Olímpico,20,Tablas de ejercicio de abdominales inclinado,- ,Unidad,3
+Levantamiento Olímpico,Levantamiento Olímpico,20,Máquinas de Hiper Extensión,- ,Unidad,3
+Levantamiento Olímpico,Levantamiento Olímpico,20,Contenedores de Tiza,Pieza ,Unidad,44
+Levantamiento Olímpico,Levantamiento Olímpico,20,Contenedores Rosin,Pieza ,Unidad,44
+Levantamiento Olímpico,Levantamiento Olímpico,20,Bloques de Tiza,Tiza (MgCo2) (Carton) ,Unidad,32
+Levantamiento Olímpico,Levantamiento Olímpico,20,Resinas,- ,Unidad,31
+Levantamiento Olímpico,Levantamiento Olímpico,20,Banderas de Decisión Manual (Rojo) ,Para su uso como copia de seguridad ,Unidad,3
+Levantamiento Olímpico,Levantamiento Olímpico,20,Banderas de Decisión Manual (Blanco) ,Para su uso como copia de seguridad ,Unidad,3
 Lucha,Lucha,20,Colchonetas,12x12x0.07m,Set,10
 Lucha,Lucha,20,Stand 2 para funcionarios técnicos ,"7mx2mx0.5m, utilizado por los representantes técnicos de FILA y árbitro principal.",Set,1
-Lucha,Lucha,20,Saco Bulgaro,,Unidad,10
+Lucha,Lucha,20,Saco Búlgaro,,Unidad,10
 Lucha,Lucha,20,Plataforma de Competición,"Superficie superior de 28m x 14m, bajo superficie de 29.5m X 15.5m, altura de 0.5m, con inclinación de 30 °, la plataforma paralela a la plataforma del presidente se establece de acuerdo con el sitio estándar de 2 asientos sucesivos.",Unidad,1
 Lucha,Lucha,20,Dummy de entrenamiento,"Diez de 30KG, diez de 40KG y diez de 50KG (dos tipos, uno con los brazos y el otro sin los brazos)",Unidad,30
 Escalada Deportiva,Escalada Deportiva,20,Muro principal (lead),"15m de altura y 12m de ancho, Superficie: 209m2",Unidad,1
@@ -636,29 +636,29 @@ Escalada Deportiva,Escalada Deportiva,20,Muro de Entrenamiento,"4,5 de altura y 
 Escalada Deportiva,Escalada Deportiva,20,Sogas,9.8mm soga de un solo diámetro,Unidad,6
 Escalada Deportiva,Escalada Deportiva,20,Anillas (Cinta Express),Anillas (Cinta Express),Unidad,40
 Escalada Deportiva,Escalada Deportiva,20,Harneses,Harneses,Unidad,8
-Escalada Deportiva,Escalada Deportiva,20,Dispositivo de Asegurar,Dispositivo de Asegurar,Unidad,8
-Arqueria,Arqueria,20,Carcaj,Para guardar y proteger 6 flechas cada una,Unidad,1
-Arqueria,Arqueria,20,Herramienta para retirar flechas,Para sacar flechas de los objetivos,Unidad,1
-Arqueria,Arqueria,20,Entrada del atleta,"Construcción temporal, puerta / arco / entrada para los atletas y desfile de la ceremonia de la victoria para entrar en la FOP principal.",Unidad,1
-Arqueria,Arqueria,20,Balanza de arcos,"""Para medir la fuerza del arco compuesto de un atleta""",Unidad,1
-Arqueria,Arqueria,20,Cajas para Entrenadores,Pequeñas barreras plásticas que miden aprox. 20cm de altura 150cm x 150cm para indicar donde los entrenadores y los oficiales pueden estar en el campo de juego final para evitar bloquear las vistas de la cámara de TV,Unidad,1
-Arqueria,Arqueria,20,Marcadores de distancia,Para marcar mediciones al medir,Unidad,1
-Arqueria,Arqueria,20,Numeros de Clasificacion de Eliminacion de Atleta (numeros posteriores),Numeros de Atleta. Numeros negros sobre blanco(Debe ser a prueba de agua y desgarro) aprox. 210mm x 210mm con la altura del número de 121mm unido con un alfiler de gancho,Unidad,1
-Arqueria,Arqueria,20,Estacas de tiro,"Clavijas de metal o de madera, en diferentes colores (azul, rojo y amarillo) para indicar la disciplina del arco y la categoría de donde los atletas van a disparar",Unidad,1
-Arqueria,Arqueria,20,Recuperador de estacas,Herramienta con un mango largo para ayudar a recuperar las estacas metalicas utilizados para asegurar los blancos,Unidad,1
-Arqueria,Arqueria,20,Buscador de rango,Para medir con precisión las distancias y la ubicación de destino en el campo de juego,Unidad,1
-Arqueria,Arqueria,20,Números de línea de tiro,"Uno para todos los blancos de competición. Tamaño 40x40, numeros tienen 30cm de altura con figuras negras sobre un fondo amarillo, alternando con figuras amarillas sobre un fondo negro (ejemplo n° 1
+Escalada Deportiva,Escalada Deportiva,20,Dispositivos de Asegurar,Dispositivo de Asegurar,Unidad,8
+Arquería,Arquería,20,Carcaj,Para guardar y proteger 6 flechas cada una,Unidad,1
+Arquería,Arquería,20,Herramienta para retirar flechas,Para sacar flechas de los objetivos,Unidad,1
+Arquería,Arquería,20,Entrada del atleta,"Construcción temporal, puerta / arco / entrada para los atletas y desfile de la ceremonia de la victoria para entrar en la FOP principal.",Unidad,1
+Arquería,Arquería,20,Balanza de arcos,"""Para medir la fuerza del arco compuesto de un atleta""",Unidad,1
+Arquería,Arquería,20,Caja para Entrenadores,Pequeñas barreras plásticas que miden aprox. 20cm de altura 150cm x 150cm para indicar donde los entrenadores y los oficiales pueden estar en el campo de juego final para evitar bloquear las vistas de la cámara de TV,Unidad,1
+Arquería,Arquería,20,Marcador de distancia,Para marcar mediciones al medir,Unidad,1
+Arquería,Arquería,20,Números de Clasificacion de Eliminacion de Atleta (números posteriores),Numeros de Atleta. Numeros negros sobre blanco(Debe ser a prueba de agua y desgarro) aprox. 210mm x 210mm con la altura del número de 121mm unido con un alfiler de gancho,Unidad,1
+Arquería,Arquería,20,Estaca de tiro,"Clavijas de metal o de madera, en diferentes colores (azul, rojo y amarillo) para indicar la disciplina del arco y la categoría de donde los atletas van a disparar",Unidad,1
+Arquería,Arquería,20,Recuperador de estacas,Herramienta con un mango largo para ayudar a recuperar las estacas metalicas utilizados para asegurar los blancos,Unidad,1
+Arquería,Arquería,20,Buscador de rango,Para medir con precisión las distancias y la ubicación de destino en el campo de juego,Unidad,1
+Arquería,Arquería,20,Números de línea de tiro,"Uno para todos los blancos de competición. Tamaño 40x40, numeros tienen 30cm de altura con figuras negras sobre un fondo amarillo, alternando con figuras amarillas sobre un fondo negro (ejemplo n° 1
  negro sobre amarillo, n° 2 amarillo sobre negro)",Unidad,1
-Arqueria,Arqueria,20,Blancos,,Unidad,1
-Arqueria,Arqueria,20,Numeros de Atleta de Asignación de Blanco (numeros posteriores),Numeros de Atleta. Numeros negros sobre blanco (debe ser resistente al agua y lagrimas) aprox. 210mm x 210mm con una altura de numero de 121mm unido por un afiler de gancho,Unidad,1
-Arqueria,Arqueria,20,Red bloqueador para el parte atrás del Blanco,Colgar en el soporte del blanco detrás de la estera de destino para evitar las flechas que atraviesan,Unidad,1
-Arqueria,Arqueria,20,Centros del blanco,Centros de Reemplazo,Unidad,1
-Arqueria,Arqueria,20,Cubiertas del blanco,Tamaño to completely cover target,Unidad,1
-Arqueria,Arqueria,20,Pines de la cara de destino,pasadores de plástico para fijar el blanco papel está orientado a las esteras de destino,Unidad,1
-Arqueria,Arqueria,20,Caras Recurve del Blanco,122cm de un titular autorizado de la licencia World Archery License,Unidad,1
-Arqueria,Arqueria,20,Altura del blanco y calibrador de ángulo,"Para medir la distacia, las caras de blanco deben estar posicionados sobre las colchonetas de blanco de acuerdo con el suelo y desde el angulo del blanco",Unidad,1
-Arqueria,Arqueria,20,Colchonetas del blanco,Colchonetas de espuma del blanco,Unidad,1
-Arqueria,Arqueria,20,Numeros del blanco ,"Uno para todos los blancos de competición. Tamaño 40x40, numeros son minimo 30cm (Interior mínimo 15m) de altura con figuras negras sobre un fondo amarillo, alternando con figuras amarillas sobre un fondo negro (ejemplo n° 1 negro sobre amarillo, n° 2 amarillo sobre negro)",Unidad,1
-Arqueria,Arqueria,20,Los stands del blanco,Soportes de blanco de madera,Unidad,1
-Arqueria,Arqueria,20,Medidor de Velocidad de Flecha,Para medir la velocidad de las flechas de los atletas,Unidad,1
-Roller,De Roller,20,Pista oficial para competencia FIRS,Pista oficial y desmontable para roller speed,,1
+Arquería,Arquería,20,Blancos,,Unidad,1
+Arquería,Arquería,20,Números de Atleta de Asignación de Blanco (números posteriores),Numeros de Atleta. Numeros negros sobre blanco (debe ser resistente al agua y lagrimas) aprox. 210mm x 210mm con una altura de numero de 121mm unido por un afiler de gancho,Unidad,1
+Arquería,Arquería,20,Red bloqueador para el parte atrás del Blanco,Colgar en el soporte del blanco detrás de la estera de destino para evitar las flechas que atraviesan,Unidad,1
+Arquería,Arquería,20,Centros del blanco,Centros de Reemplazo,Unidad,1
+Arquería,Arquería,20,Cubiertas del blanco,Tamaño to completely cover target,Unidad,1
+Arquería,Arquería,20,Pines de la cara de destino,pasadores de plástico para fijar el blanco papel está orientado a las esteras de destino,Unidad,1
+Arquería,Arquería,20,Caras Recurve del blanco,122cm de un titular autorizado de la licencia World Archery License,Unidad,1
+Arquería,Arquería,20,Altura del blanco y calibrador de ángulo,"Para medir la distacia, las caras de blanco deben estar posicionados sobre las colchonetas de blanco de acuerdo con el suelo y desde el angulo del blanco",Unidad,1
+Arquería,Arquería,20,Colchonetas del blanco,Colchonetas de espuma del blanco,Unidad,1
+Arquería,Arquería,20,Números del blanco ,"Uno para todos los blancos de competición. Tamaño 40x40, numeros son minimo 30cm (Interior mínimo 15m) de altura con figuras negras sobre un fondo amarillo, alternando con figuras amarillas sobre un fondo negro (ejemplo n° 1 negro sobre amarillo, n° 2 amarillo sobre negro)",Unidad,1
+Arquería,Arquería,20,Stand del blanco,Soportes de blanco de madera,Unidad,1
+Arquería,Arquería,20,Medidor de Velocidad de Flecha,Para medir la velocidad de las flechas de los atletas,Unidad,1
+Roller,Roller,20,Pista oficial para competencia FIRS,Pista oficial y desmontable para roller speed,,1
