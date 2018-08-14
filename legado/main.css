@@ -20,9 +20,7 @@ html, body {
 			font-size: 16px;
 			position: absolute;
 			overflow: hidden;
-			/*it's buggy with the foreignObject background right now*/
-			/*background-color: rgba(255,255,255,0.5);*/
-		    text-align: left;
+			text-align: left;
 
 		}
 		.circle-overlay__inner {
@@ -35,7 +33,7 @@ html, body {
 			display: none;
 		}
 		.node-icon--faded {
-			opacity: 0.5;
+			opacity: 0.10;
 		}
 		.legend-size circle {
 			fill: rgb(31, 119, 180);
@@ -44,8 +42,8 @@ html, body {
 		li.circle-overlay__body{
 			text-align: left;
 			font-weight: 100;
-		    font-size: 0.9em;
-		    font-family: "CHANEWEI", Helvetica, Arial, sans-serif;
+		    font-size: 0.85em;
+		    font-family: "Open Sans", Helvetica, Arial, sans-serif;
 		}
 		img.circle-overlay_img {
     		width: 75px;

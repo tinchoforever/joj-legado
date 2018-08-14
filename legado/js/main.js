@@ -188,7 +188,7 @@ d3.csv("legado.csv", function( baseL ) {
 
 	var sizeScale = d3.scaleOrdinal().domain(['less use', 'more use']).range([5, 10]);
 
-	var infoBox = node.append('foreignObject').classed('circle-overlay hidden', true).attr('x', infoboxX * 0.5 * 0.8).attr('y', infoboxY* 0.5 * 0.8).attr('height', 500 * 0.9).attr('width', 350 * 0.9).append('xhtml:div').classed('circle-overlay__inner', true);
+	var infoBox = node.append('foreignObject').classed('circle-overlay hidden', true).attr('x', infoboxX * 0.5 * 0.8).attr('y', infoboxY* 0.5 * 0.8).attr('height', 500 * 0.95).attr('width', 350 * 0.95).append('xhtml:div').classed('circle-overlay__inner', true);
 
 	infoBox.append('img').classed('circle-overlay_img', true).attr("src",function (d) {
 		return d.icon;
