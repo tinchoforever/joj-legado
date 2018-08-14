@@ -1,0 +1,30 @@
+ID Obras,AreaResumen,Componente,tipo,proveedor,detalle,path,cuit,contratacion,precio_total
+47,Obra,Licitación Pública,Parque Olímpico,Teximco S.A. - Dal Construcciones S.A. Ute,Cubierta Arena Parque Roca,Parque Olímpico_Teximco S.A. - Dal Construcciones S.A. Ute_Cubierta Arena Parque Roca,30714751979,1723/2013,103608164
+17,Obra,Licitación Pública,Parque Olímpico,Salvatori S.A Parques Y Jardines," Demolición Total, Extracción Y Trasplante De Árboles, Cerco Perimetral","Parque Olímpico_Salvatori S.A Parques Y Jardines_ Demolición Total, Extracción Y Trasplante De Árboles, Cerco Perimetral",30512700124,880/16,48590604
+21,Obra,Licitación Pública,Parque Olímpico,Conorvial S.A.," Espacio Público, Equipamiento Deportivo Exterior","Parque Olímpico_Conorvial S.A._ Espacio Público, Equipamiento Deportivo Exterior",30516492747,266/2017,349706395
+28,Obra,Licitación Pública,Parque Olímpico,Urban Baires S.A.,Infraestructura Eléctrica,Parque Olímpico_Urban Baires S.A._Infraestructura Eléctrica,30711290075,1035/16,54936733
+18,Obra,Licitación Pública,Parque Olímpico,Tecma S.A.," Instalación De Red De Agua Potable, Incendio Cloacal, Pluvial Y Red De Gas","Parque Olímpico_Tecma S.A._ Instalación De Red De Agua Potable, Incendio Cloacal, Pluvial Y Red De Gas",30623866528,1032/2016,42340809
+27,Obra,Licitación Pública,Parque Olímpico,Criba S.A.,Pabellón B,Parque Olímpico_Criba S.A._Pabellón B,30505454436,35/2017,283389377
+22,Obra,Licitación Pública,Parque Olímpico,Niro Construcciones S.A.,Pabellón C,Parque Olímpico_Niro Construcciones S.A._Pabellón C,33588171979,36/2017,508091151
+19,Obra,Licitación Pública,Parque Olímpico,Constructora Sudamericana S.A.,Pabellones A1 Y A2,Parque Olímpico_Constructora Sudamericana S.A._Pabellones A1 Y A2,30546752271,1192/16,194988604
+20,Obra,Licitación Pública,Parque Olímpico,Criba S.A.,Pabellones A3 Y A4,Parque Olímpico_Criba S.A._Pabellones A3 Y A4,30505454436,1191/16,168646366
+30,Obra,Licitación Pública,Villa Olímpica,Cunumi S.A.,Centro De Desarrollo Infantil Rayito De Sol,Villa Olímpica_Cunumi S.A._Centro De Desarrollo Infantil Rayito De Sol,30615748036,893/16,48500000
+5,Obra,Licitación Pública,Villa Olímpica,Ses S.A.,Demoliciones En El Parque De La Ciudad,Villa Olímpica_Ses S.A._Demoliciones En El Parque De La Ciudad,30647727545,305/2014,6990315
+26,Obra,Licitación Pública,Villa Olímpica,Conorvial S.A.,Espacio Público,Villa Olímpica_Conorvial S.A._Espacio Público,30516492747,981/2016,113437807
+26,Obra,Licitación Pública,Villa Olímpica,Ucsa S.A.,Estación Reguladora Y Distribución De Gas De Villa Olímpica,Villa Olímpica_Ucsa S.A._Estación Reguladora Y Distribución De Gas De Villa Olímpica,30711492395,53/2016,15242432
+25,Obra,Licitación Pública,Villa Olímpica,Urban Baires S.A.,Infraestructura Eléctrica,Villa Olímpica_Urban Baires S.A._Infraestructura Eléctrica,30711290075,912/2016,54936733
+24,Obra,Licitación Pública,Villa Olímpica,Reconstrucción De Caños S.A.,Red De Agua Y Cloacas,Villa Olímpica_Reconstrucción De Caños S.A._Red De Agua Y Cloacas,30677790977,81/2016,35787390
+31,Obra,Licitación Pública,Villa Olímpica,Ucsa S.A.,Red Vial Y Pluvial,Villa Olímpica_Ucsa S.A._Red Vial Y Pluvial,30711492395,1258/2015,86226253
+16,Obra,Licitación Pública,Villa Olímpica,Cavcon S.A.,Viviendas I,Villa Olímpica_Cavcon S.A._Viviendas I,30700895560,1876/2014,154853715
+6,Obra,Licitación Pública,Villa Olímpica,Emaco S.A. - Lanusse S.A. Ute,Viviendas II,Villa Olímpica_Emaco S.A. - Lanusse S.A. Ute_Viviendas II,30714969362,15/2015,148823367
+7,Obra,Licitación Pública,Villa Olímpica,Bricons S.A.I.C.F.I.,Viviendas III,Villa Olímpica_Bricons S.A.I.C.F.I._Viviendas III,30541068151,329/2015,179192366
+8,Obra,Licitación Pública,Villa Olímpica,Dycasa S.A.,Viviendas IV,Villa Olímpica_Dycasa S.A._Viviendas IV,33516294189,395/2015,163279322
+9,Obra,Licitación Pública,Villa Olímpica,Criba S.A.,Viviendas IX,Villa Olímpica_Criba S.A._Viviendas IX,30505454436,580/2015,137837183
+10,Obra,Licitación Pública,Villa Olímpica,Dycasa S.A.,Viviendas V,Villa Olímpica_Dycasa S.A._Viviendas V,33516294189,396/2015,166503404
+11,Obra,Licitación Pública,Villa Olímpica,Criba S.A.,Viviendas VI,Villa Olímpica_Criba S.A._Viviendas VI,30505454436,450/2015,160833300
+12,Obra,Licitación Pública,Villa Olímpica,Cunumi S.A.,Viviendas VII,Villa Olímpica_Cunumi S.A._Viviendas VII,30615748036,449/2015,123691183
+13,Obra,Licitación Pública,Villa Olímpica,Constructora Sudamericana S.A.,Viviendas VIII,Villa Olímpica_Constructora Sudamericana S.A._Viviendas VIII,30546752271,528/2015,174609630
+14,Obra,Licitación Pública,Villa Olímpica,Vidogar Construcciones S.A.,Viviendas X,Villa Olímpica_Vidogar Construcciones S.A._Viviendas X,30553433564,573/2015,98174265
+25098,Obra,Licitación Pública,Puente Lacarra,Eleprint S.A. - ECAS S.A.,Viviendas X,Puente Lacarra_Eleprint S.A. - ECAS S.A._Viviendas X,30711039089,27/16,249900000
+450,Obra,Licitación Pública,Centros De Salud De Villa Lugano,Henisa Sudamericana S.A.,Remodelación Y Ampliación (Etapa N° 2- 3°Modulo),Centros De Salud De Villa Lugano_Henisa Sudamericana S.A._Remodelación Y Ampliación (Etapa N° 2- 3°Modulo),33668217759,212/2017,296735562
+37,Obra,Licitación Pública,Ramal Caaguazu,Construere Ingenieria S.A. - Ses S.A. Ute,Ampliacion Red Pluvial VII,Ramal Caaguazu_Construere Ingenieria S.A. - Ses S.A. Ute_Ampliacion Red Pluvial VII,30714420549,212/2018,69200043
