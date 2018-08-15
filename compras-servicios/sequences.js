@@ -18,7 +18,8 @@ var myLocale = {
 }
 var localeFormatter =  d3.locale(myLocale);
 
-var formatNumber = localeFormatter.numberFormat(",.f");
+var formatNumber = localeFormatter.numberFormat(",.2f");
+var formatNumberNoDec = localeFormatter.numberFormat(",.f");
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 var b = {
@@ -140,14 +141,14 @@ function createVisualization(json) {
       .text("%");
 
  };
-var formatDecimalComma = d3.format(",.2f");
+
 
 // Fade all but the current sequence, and show it in the breadcrumb trail.
 function mouseover(d) {
 
   var percentage = (100 * d.value / totalSize).toPrecision(3);
-  var percentageString = " (" +  percentage + "%)";
-  var priceString =  "$" + formatNumber(Math.round(d.value,2));
+  var percentageString = " (" +  formatNumber(percentage) + "%)";
+  var priceString =  "$" + formatNumberNoDec(Math.round(d.value,2));
   if (percentage < 0.1) {
     percentageString = "< 0.1%";
   }
