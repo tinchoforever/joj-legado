@@ -30,8 +30,9 @@ function google_colors(n) {
   return colores_g[n % colores_g.length];
 }
 // Mapping of step names to colors.
+
 var colors = {
-  "licitacion publica": "#FFBA31",
+  "licitación pública": "#FFBA31",
   "contratación menor": "#B14C72",
   "contratación directa": "#32BE94",
   "concurso público": "#009DBF",
@@ -63,7 +64,7 @@ var arc = d3.svg.arc()
 
 // Use d3.text and d3.csv.parseRows so that we do not need to have a header
 // row, and can receive the csv as an array of arrays.
-d3.tsv("compras.tsv", function(data) {
+d3.csv("bienes.csv", function(data) {
   var json = buildHierarchy(data);
   createVisualization(json);
 });
@@ -165,20 +166,20 @@ function mouseover(d) {
 
       if (l1.parent.name != "root"){
         var l3 = l1.parent;
-        detail += " fue adquirido mediante "+ toFirstCase(l1.name) + " en " + toFirstCase(l2.name) + " a " + toTitleCase(l3.name)  + " para " +  toFirstCase(d.name) ;
+        detail += " fue adquirido mediante "+ toTitleCase(l1.name) + " en " + toTitleCase(l2.name) + " a " + l3.name + " para " +  d.name ;
       }
       else {
         //tipo de compra de un proveedor para un item.
-        detail += " fue adquirido mediante "+ toFirstCase(l1.name) + " en " + toFirstCase(l2.name) + " a " +  toTitleCase(d.name) ;
+        detail += " fue adquirido mediante "+ toTitleCase(l1.name) + " en " + toTitleCase(l2.name) + " a " +  d.name ;
       }
     }else {
       //tipo de compra de un proveedor.
-      detail += " adquirido mediante "+ toFirstCase(l2.name) + " en " + toFirstCase(d.name);  
+      detail += " adquirido mediante "+ toTitleCase(l2.name) + " en " + toTitleCase(d.name);  
     }
     
   }else {
     //tipo de compra.
-    detail += "fue adquirido mediante "+ toFirstCase(d.name);
+    detail += "fue adquirido mediante "+ toTitleCase(d.name);
   }
   
   insertLinebreaks(d3.select('svg text.label'), detail);
