@@ -36,7 +36,7 @@ var colors = {
   "parque olímpico": "#B14C72",
   "centros de salud de villa lugano": "#32BE94",
   "puente olímpico rivera sur": "#009DBF",
-  "ramal caaguazu": "#ED605F",
+  "hospital cecilia grierson": "#ED605F",
   "decreto 433": "#FFBA31",
   "convocatoria abierta":"#FFBA31",
   "convocatoria directa":"#32BE94",
@@ -164,10 +164,10 @@ function mouseover(d) {
     var l2 = d.parent;
     if (l2.parent.name != "root"){
       var l1 = l2.parent;
-       detail += " fue utilizado en "+ toTitleCase(l1.name) + " con " + toFirstCase(l2.name) + " para " +  d.name.toUpperCase() ;
+       detail += " fue utilizado en "+ toTitleCase(l1.name) + " con " + l2.name; + " para " +  d.name.toUpperCase() ;
     }else {
       //tipo de compra de un proveedor.
-      detail += " fue utilizado en "+ toTitleCase(l2.name) + " con " + toFirstCase(d.name);  
+      detail += " fue utilizado en "+ toTitleCase(l2.name) + " con " + d.name; 
     }
     
   }else {
