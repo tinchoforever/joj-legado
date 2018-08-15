@@ -9,7 +9,7 @@ var centerY = height * 0.5;
 
 var strength = 0.05;
 var focusedNode = void 0;
-var mainRad = 20;
+var mainRad = 10;
 var format = d3.format(',d');
 var infoboxX = -400;
 var infoboxY = -550;
@@ -38,10 +38,10 @@ if ('matchMedia' in window && window.matchMedia('(max-device-width: 767px)').mat
 		width = document.body.clientWidth-20; // get width in pixels
 		d3.select('svg').attr('height',"80vh");
 		height = d3.select('svg').node().getBoundingClientRect().height;
-		mainRad = 40;
+		mainRad = 35;
 		// infoboxX = -width ;
 		centerX = width * 0.4;
-		centerY = height * 0.45;
+		centerY = height * 0.5;
 
 	
 	}
