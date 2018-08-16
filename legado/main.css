@@ -11,6 +11,9 @@ html, body {
 		h1 {
 			text-align: center;
 		}
+		.row h1 {
+			text-align: left;
+		}
 		svg {
 			margin:auto;
 			display:block;

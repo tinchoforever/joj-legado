@@ -1,6 +1,6 @@
 [
   {
-    "name": "Arqueria",
+    "name": "Arquería",
     "image": "Arqueria.png"
   },
   {
@@ -40,7 +40,7 @@
     "image": "clavado.png"
   },
   {
-    "name": "Equipo Triatlon",
+    "name": "Equipo Triatlón",
     "image": "Triatlon.png"
   },
   {
@@ -52,7 +52,7 @@
     "image": "Esgrima.png"
   },
   {
-    "name": "Futbol-Futsal",
+    "name": "Fútbol-Futsal",
     "image": "Futbol.png"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "name": "Lucha",
-    "image": "Pentatlon.png"
+    "image": "lucha.svg"
   },
   {
     "name": "Natacion",
