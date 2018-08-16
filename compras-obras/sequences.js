@@ -159,20 +159,23 @@ function mouseover(d) {
       .text(percentageString);
   
   var detail = " " ;
+  
   if (d.parent.name != "root"){
 
     var l2 = d.parent;
+  
     if (l2.parent.name != "root"){
-      var l1 = l2.parent;
-       detail += " fue utilizado en "+ toTitleCase(l1.name) + " con " + l2.name; + " para " +  d.name.toUpperCase() ;
+       var l1 = l2.parent;
+       detail = " fue utilizado en "+ toTitleCase(l1.name) + " con " + l2.name; + " para " +  d.name;
+
     }else {
       //tipo de compra de un proveedor.
-      detail += " fue utilizado en "+ toTitleCase(l2.name) + " con " + d.name; 
+      detail = " fue utilizado en "+ toTitleCase(l2.name) + " con " + d.name; 
     }
     
   }else {
     //tipo de compra.
-    detail += "fue utilizado en "+ toTitleCase(d.name);
+    detail = "fue utilizado en "+ toTitleCase(d.name);
   }
   
   insertLinebreaks(d3.select('svg text.label'), detail);
