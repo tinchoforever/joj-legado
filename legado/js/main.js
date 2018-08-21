@@ -96,7 +96,6 @@ d3.csv("legado.csv", function( baseL ) {
 	// we use pack() to automatically calculate radius conveniently only
 	// and get only the leaves
 	var nodes = pack(root).leaves().map(function (node) {
-		console.log('node:', node.x, (node.x - centerX) * 2);
 		var data = node.data;
 		return {
 			x: centerX + (node.x - centerX) * 1, // magnify start position to have transition to center movement
@@ -208,7 +207,6 @@ d3.csv("legado.csv", function( baseL ) {
 
 	node.on('click', function (currentNode) {
 		d3.event.stopPropagation();
-		console.log('currentNode', currentNode);
 		var currentTarget = d3.event.currentTarget; // the <g> el
 
 		if (currentNode === focusedNode) {
@@ -243,12 +241,11 @@ d3.csv("legado.csv", function( baseL ) {
 		// if (!d3.event.active) simulation.alphaTarget(0.5).restart();
 
 		d3.transition().duration(2000).ease(d3.easePolyOut).tween('moveIn', function () {
-			console.log('tweenMoveIn', currentNode);
+			
 			var ix = d3.interpolateNumber(currentNode.x, centerX);
 			var iy = d3.interpolateNumber(currentNode.y, centerY);
 			var ir = d3.interpolateNumber(currentNode.r, centerY * 0.7);
 			return function (t) {
-				// console.log('i', ix(t), iy(t));
 				currentNode.fx = ix(t);
 				currentNode.fy = iy(t);
 				currentNode.r = ir(t)*5;
@@ -260,7 +257,7 @@ d3.csv("legado.csv", function( baseL ) {
 			$currentGroup.select('.circle-overlay').classed('hidden', false);
 			$currentGroup.select('.node-icon').classed('node-icon--faded', true);
 		}).on('interrupt', function () {
-			console.log('move interrupt', currentNode);
+			
 			currentNode.fx = null;
 			currentNode.fy = null;
 			simulation.alphaTarget(0);
@@ -277,7 +274,6 @@ d3.csv("legado.csv", function( baseL ) {
 			focusedNode.fy = null;
 			simulation.alphaTarget(0.5).restart();
 			d3.transition().duration(2000).ease(d3.easePolyOut).tween('moveOut', function () {
-				console.log('tweenMoveOut', focusedNode);
 				var ir = d3.interpolateNumber(focusedNode.r, focusedNode.radius);
 				return function (t) {
 					focusedNode.r = ir(t);
