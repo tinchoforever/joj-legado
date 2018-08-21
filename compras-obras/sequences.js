@@ -166,7 +166,7 @@ function mouseover(d) {
   
     if (l2.parent.name != "root"){
        var l1 = l2.parent;
-       detail = " fue utilizado en "+ toTitleCase(l1.name) + " con " + l2.name; + " para " +  d.name;
+       detail = " fue utilizado en "+ toTitleCase(l1.name) + " con " + l2.name + " para " +  d.name;
 
     }else {
       //tipo de compra de un proveedor.
