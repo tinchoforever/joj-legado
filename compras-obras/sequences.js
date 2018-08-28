@@ -35,7 +35,7 @@ var colors = {
   "villa olímpica": "#FFBA31",
   "parque olímpico": "#B14C72",
   "centros de salud de villa lugano": "#32BE94",
-  "puente olímpico rivera sur": "#009DBF",
+  "puente lacarras": "#009DBF",
   "hospital cecilia grierson": "#ED605F",
   "decreto 433": "#FFBA31",
   "convocatoria abierta":"#FFBA31",
