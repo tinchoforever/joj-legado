@@ -1,12 +1,13 @@
 html,body {
-  font-family: 'Open Sans', sans-serif;
   font-size: 12px;
   font-weight: 400;
   padding:1em;
   background: white;
   overflow: hidden;
 }
-
+p{
+      font-family: "Open Sans", Helvetica, Arial, sans-serif; 
+    }
 .label{
   font-size: 1em;
 

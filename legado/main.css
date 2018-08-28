@@ -41,7 +41,9 @@ html, body {
 		.legend-size circle {
 			fill: rgb(31, 119, 180);
 		}
-
+		p{
+			font-family: "Open Sans", Helvetica, Arial, sans-serif;	
+		}
 		li.circle-overlay__body{
 			text-align: left;
 			font-weight: 100;
